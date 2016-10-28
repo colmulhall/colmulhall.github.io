@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll2!"
+link: http://www.apple.com
 date:   2015-10-27 17:14:07 +0100
 categories: jekyll update
 ---
