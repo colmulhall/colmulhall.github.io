@@ -1,0 +1,13 @@
+
+<header class="post-header">
+    <h1 class="post-title">
+        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </h1>
+    
+    <span class="post-date">
+     	<time datetime="{{ post.date }}">{{ post.date | date: '%B %d, %Y' }}</time>
+    </span>
+    <span class="post-permalink">
+    	<a href="{{ post.url | prepend: site.baseurl }}">Permalink</a>
+    </span>
+</header>
