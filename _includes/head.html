@@ -1,5 +1,9 @@
 <head>
-  <title>{{ page.title }}</title>
+  {% if page.title %}
+  <title>{{ page.title }} - {{ site.title }}</title>
+  {% else %}
+  <title>{{ site.title }}</title>
+  {% endif%}
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0">
   <meta name="author" content="Colm Mulhall">

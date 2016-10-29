@@ -1,4 +1,14 @@
 
-<header>
-	<h1><a href="http://localhost:4000">{{ site.title }}</a></h1>
-</header>
+
+<section id="header">
+    <div id="site-title"><a href="http://localhost:4000">{{ site.title }}</a></div>
+    <div id="navigation">
+	    <nav>
+	        <a href="/about">About</a>
+	        <span class="dash">&ndash;</span>
+	        <a href="/archive">Archive</a>
+	        <span class="dash">&ndash;</span>
+	        <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a>
+	    </nav>
+    </div>
+</section>

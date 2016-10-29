@@ -32,6 +32,9 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
+# Custom settings
 include: ['_pages']
-paginate: 1
-paginate_path: "/page/num/"
+paginate: 5
+paginate_path: "/page/:num/"
+permalink: pretty
+permalink: /:year/:month/:day/:title/
