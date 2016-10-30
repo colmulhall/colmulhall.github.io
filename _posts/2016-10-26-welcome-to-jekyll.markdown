@@ -1,24 +1,14 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2016-10-26 17:14:07 +0100
+title:  "iPhone 7: Computer from the Future"
+link: https://www.macstories.net/stories/iphone-7-computer-from-the-future/
+date:   2016-10-13 17:14:07 +0100
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+I enjoyed this review of the iPhone 7 on MacStories, particluarly the section on the [W1 chip][w1]. The iPhone 7 has brought about [changes][adiosjack] that we may not be in a perfect position to take advantage of just yet, but in the near future will become the norm. Federico Viticci hit the nail on the head with his closing paragraph:
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+>But using the iPhone 7 also made me appreciate the meaning of changes that will reshape the iPhone platform going forward – something that's more significant than endlessly debating what we left behind.
 
-Jekyll also offers powerful support for code snippets:
+>The iPhone 7 is a bold step towards a future we can start understanding today.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[w1]:https://9to5mac.com/2016/09/12/apple-w1-chip-how-it-works/
+[adiosjack]:http://www.colm.io/2016/8/26/adios-headphone-jack

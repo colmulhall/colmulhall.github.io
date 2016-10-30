@@ -6,8 +6,29 @@ body {
 	line-height: 1.55em;
 	font-family: Georgia, serif;
 	font-size: 17px;
-	color: #333;
+	color: #000000;
 	background-color: white;
+}
+
+#header {
+	line-height: 2em;
+	padding-top: 55px;
+	padding-bottom: 16px;
+	background-color: #223e77;
+	text-align: center;
+}
+
+#header a {
+	color: #B8860B;;
+}
+
+#site-name {
+	font-size: 72px;
+	color: #B8860B;
+}
+
+.navigation {
+	color: #B8860B;
 }
 
 #content {
@@ -16,6 +37,29 @@ body {
 	max-width: 650px;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+.post-title {
+	color: #B8860B;
+}
+
+.copyright {
+	text-align: center;
+	margin-top: 20px;
+}
+
+a:link {
+	text-decoration: none;
+	}
+a:visited {
+	text-decoration: none;
+	}
+a:link, h3 a:visited {
+	text-decoration: none;
+	}
+a:hover {
+	color: #B8860B;
+	text-decoration: none;
 }
 
 /* Media queries for responsivness */
@@ -35,8 +79,8 @@ body {
 }
 @media (max-width: 480px) {
 	#content {
-		width: 300px;
-		max-width: 300px;
-		min-width: 300px;
+		width: 330px;
+		max-width: 330px;
+		min-width: 330px;
 		}
 }
