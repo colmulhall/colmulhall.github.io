@@ -1,11 +1,11 @@
 
 <header class="post-header">
     <div class="post-title">
-        {% if page.link %}<h3><a href="{{ page.link }}">{{ page.title }}</a><span class="link-arrow">→</span></h3>{% else %}<a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
+        {% if page.link %}<h3><a href="{{ page.link }}">{{ page.title }}</a><span class="link-arrow">→</span></h3>{% else %}<h3><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h3>{% endif %}
     </div>
     
     <span class="post-date">
-     	<time datetime="{{ page.date }}">{{ page.date | date: '%B %d, %Y' }}</time>
+     	<time datetime="{{ page.date }}">{{ page.date | date: '%B %d, %Y' }} | </time>
     </span>
     <span class="post-permalink">
     	<a href="{{ page.url | prepend: site.baseurl }}">Permalink</a>

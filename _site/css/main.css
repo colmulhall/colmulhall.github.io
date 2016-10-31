@@ -4,7 +4,7 @@ body {
 	margin-left: 0px;
 	margin-right: 0px;
 	line-height: 1.55em;
-	font-family: Georgia, serif;
+	font-family: AvenirNext-Medium, HelveticaNeue-Medium, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 17px;
 	color: #000000;
 	background-color: white;
@@ -39,13 +39,10 @@ body {
 	margin-right: auto;
 }
 
-.post-header {
-	line-height: 10px;
-}
-
 .post-title {
 	color: #000000;
 	font-size: 18px;
+	margin-bottom: -1em;
 }
 
 .post-date {
@@ -68,15 +65,16 @@ article
 .copyright {
 	text-align: center;
 	margin-top: 20px;
+	font-size: 11pt;
 }
 
 a:link {
 	text-decoration: none;
-	color: #0066cc;
+	color: #16497D;
 }
 a:visited {
 	text-decoration: none;
-	color: #0066cc;
+	color: #16497D;
 }
 a:visited {
 	text-decoration: none;
