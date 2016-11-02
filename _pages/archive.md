@@ -4,8 +4,6 @@ title: Archive
 permalink: /archive/
 ---
 
-Have a look through old content..
-
 ### Recent Posts
 <ul>
 {% for post in site.posts limit:5 %}
@@ -14,4 +12,23 @@ Have a look through old content..
 </ul>
 
 ### Posts By Month
+<p>
+{% for post in site.posts %}
+  {% assign month_with_year = post.date | date: '%B %Y' %}
+  {% if month_with_year != date %}
+    <a href="" id="y{{month_with_year}}">{{ month_with_year }}</a><br>
+    {% assign date = month_with_year %} 
+  {% endif %}
+{% endfor %}
+</p>
 
+### Posts By Year
+<p>
+{% for post in site.posts %}
+  {% assign year = post.date | date: '%Y' %}
+  {% if year != date %}
+    <a href="" id="y{{year}}">{{ year }}</a><br>
+    {% assign date = year %} 
+  {% endif %}
+{% endfor %}
+</p>

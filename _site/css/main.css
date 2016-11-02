@@ -99,7 +99,7 @@ h3 a:hover {
 blockquote
 {
   border-left:4px 
-  solid #b59575;
+  solid #B8860B;
   margin-left:1em;
   padding-left:1em;
   color:#505050;
@@ -126,4 +126,9 @@ blockquote
 		max-width: 330px;
 		min-width: 330px;
 		}
+
+	#navigation {
+		font-size: 22px;
+	}
+}
 }
