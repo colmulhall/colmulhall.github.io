@@ -1,4 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-11-02T00:41:17+00:00</updated><id>http://localhost:4000//</id><title type="html">Colm.io</title><subtitle>Colm Mulhall's personal blog about things that interest him.</subtitle><entry><title type="html">New Macs</title><link href="http://localhost:4000/2016/10/28/new-macs/" rel="alternate" type="text/html" title="New Macs" /><published>2016-10-28T17:14:07+01:00</published><updated>2016-10-28T17:14:07+01:00</updated><id>http://localhost:4000/2016/10/28/new-macs</id><content type="html" xml:base="http://localhost:4000/2016/10/28/new-macs/">&lt;p&gt;As expected, Apple announced their latest updates to the Mac line in yesterdays “Hello Again” event. I didn’t watch the event myself, but I caught up with people’s opinions on the announcements this morning. Some of the highlights:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-11-03T00:29:57+00:00</updated><id>http://localhost:4000//</id><title type="html">Colm.io</title><subtitle>Colm Mulhall's personal blog about things that interest him.</subtitle><entry><title type="html">Instapaper Premium is now free for everyone</title><link href="http://localhost:4000/2016/11/01/instapaper-premium-free/" rel="alternate" type="text/html" title="Instapaper Premium is now free for everyone" /><published>2016-11-01T18:14:07+00:00</published><updated>2016-11-01T18:14:07+00:00</updated><id>http://localhost:4000/2016/11/01/instapaper-premium-free</id><content type="html" xml:base="http://localhost:4000/2016/11/01/instapaper-premium-free/">&lt;p&gt;Instapaper:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Before, some of our greatest features were limited to Instapaper Premium subscribers. Now that we’re better resourced, we’re able to offer everyone the best version of Instapaper. Starting today, all users will have access to:&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;An ad-free Instapaper website&lt;/li&gt;
+    &lt;li&gt;Full-text search for all articles&lt;/li&gt;
+    &lt;li&gt;Unlimited Notes&lt;/li&gt;
+    &lt;li&gt;Text-to-speech playlists&lt;/li&gt;
+    &lt;li&gt;Unlimited speed reading&lt;/li&gt;
+    &lt;li&gt;“Send to Kindle” via bookmarklet and mobile apps&lt;/li&gt;
+    &lt;li&gt;Kindle Digests of up to 50 articles&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Makes a great service even better.&lt;/p&gt;</content><category term="Tech" /><category term="instapaper" /><summary type="html">Instapaper:</summary></entry><entry><title type="html">New Macs</title><link href="http://localhost:4000/2016/10/28/new-macs/" rel="alternate" type="text/html" title="New Macs" /><published>2016-10-28T17:14:07+01:00</published><updated>2016-10-28T17:14:07+01:00</updated><id>http://localhost:4000/2016/10/28/new-macs</id><content type="html" xml:base="http://localhost:4000/2016/10/28/new-macs/">&lt;p&gt;As expected, Apple announced their latest updates to the Mac line in yesterdays “Hello Again” event. I didn’t watch the event myself, but I caught up with people’s opinions on the announcements this morning. Some of the highlights:&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://mjtsai.com/blog/2016/10/27/new-macbook-pros-and-the-state-of-the-mac/&quot;&gt;Michael Tsai&lt;/a&gt; was dissapointed with the announcments:&lt;/p&gt;
 &lt;blockquote&gt;
@@ -143,63 +161,40 @@
       &lt;p&gt;Father Damo to you and I. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><category term="Podcasts" /><category term="podcasts" /><summary type="html">I listen to podcasts a lot, particularly while driving or walking to/from work. I don’t have a wide enough taste in music to always have something new to to listen to during these times, and I can’t rely on radio to have the shows I want when I want. Podcasts work best for me.</summary></entry><entry><title type="html">Alan Partridge returns with new book</title><link href="http://localhost:4000/2016/09/19/partridge-book/" rel="alternate" type="text/html" title="Alan Partridge returns with new book" /><published>2016-09-19T17:14:07+01:00</published><updated>2016-09-19T17:14:07+01:00</updated><id>http://localhost:4000/2016/09/19/partridge-book</id><content type="html" xml:base="http://localhost:4000/2016/09/19/partridge-book/">&lt;p&gt;Back of the net!&lt;/p&gt;</content><category term="Entertainment" /><category term="partridge" /><summary type="html">Back of the net!</summary></entry><entry><title type="html">Better footnotes with bigfoot.js</title><link href="http://localhost:4000/2016/04/15/bigfoot-footnotes/" rel="alternate" type="text/html" title="Better footnotes with bigfoot.js " /><published>2016-04-15T17:14:07+01:00</published><updated>2016-04-15T17:14:07+01:00</updated><id>http://localhost:4000/2016/04/15/bigfoot-footnotes</id><content type="html" xml:base="http://localhost:4000/2016/04/15/bigfoot-footnotes/">&lt;p&gt;Chris Sauvé on why footnotes on the web are a pain:&lt;/p&gt;
+&lt;/div&gt;</content><category term="Podcasts" /><category term="podcasts" /><summary type="html">I listen to podcasts a lot, particularly while driving or walking to/from work. I don’t have a wide enough taste in music to always have something new to to listen to during these times, and I can’t rely on radio to have the shows I want when I want. Podcasts work best for me.</summary></entry><entry><title type="html">Alan Partridge returns with new book</title><link href="http://localhost:4000/2016/09/19/partridge-book/" rel="alternate" type="text/html" title="Alan Partridge returns with new book" /><published>2016-09-19T19:14:07+01:00</published><updated>2016-09-19T19:14:07+01:00</updated><id>http://localhost:4000/2016/09/19/partridge-book</id><content type="html" xml:base="http://localhost:4000/2016/09/19/partridge-book/">&lt;p&gt;Back of the net!&lt;/p&gt;</content><category term="Entertainment" /><category term="partridge" /><summary type="html">Back of the net!</summary></entry><entry><title type="html">Gboard</title><link href="http://localhost:4000/2016/09/10/gboard/" rel="alternate" type="text/html" title="Gboard" /><published>2016-09-10T17:14:07+01:00</published><updated>2016-09-10T17:14:07+01:00</updated><id>http://localhost:4000/2016/09/10/gboard</id><content type="html" xml:base="http://localhost:4000/2016/09/10/gboard/">&lt;p&gt;When Apple brought out support for third party keyboards in iOS 8, I tried out several of them, such as &lt;a href=&quot;http://www.swype.com/product-features/ios/features.html&quot;&gt;Swype&lt;/a&gt; and &lt;a href=&quot;https://swiftkey.com/en/keyboard/ios&quot;&gt;SwiftKey&lt;/a&gt;. None of these came close to the ever-reliable stock iOS keyboard. So when Google &lt;a href=&quot;https://googleblog.blogspot.ie/2016/05/gboard-search-gifs-emojis-keyboard.html&quot;&gt;announced&lt;/a&gt; their new iOS keyboard ‘Gboard’, I didn’t have high hopes. Not for the first time however, Google have answered the call and surprised me with their take on how a keyboard should work.&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;Footnotes on the web are a pain in the ass. You click on a tiny number, get transported somewhere near the bottom of the page, find the footnote you were looking for, and click on a link to go back to where you were on the page.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;h3 id=&quot;the-stock-ios-keyboard&quot;&gt;The stock iOS keyboard&lt;/h3&gt;
+&lt;figure&gt;
+	&lt;img src=&quot;/images/2016/9/stock-keyboard.png&quot; width=&quot;254&quot; alt=&quot;Stock iOS keyboard limitations&quot; /&gt;
+&lt;/figure&gt;
 
-&lt;p&gt;Chris created a solution to this problem in the form of a jQuery plugin called &lt;a href=&quot;http://bigfootjs.com/&quot;&gt;bigfoot&lt;/a&gt;. Bigfoot allows you to click on a footnote and instead of getting pushed down to your footnote at the bottom of the page, you get a nice little pop up. &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; I decided to implement these as part of &lt;a href=&quot;http://www.colm.io/2016/4/4/what-needs-fixing&quot;&gt;a todo list&lt;/a&gt; which I am still working my way through. I’m not a heavy footnote user, but I’ve seen bigfoot used on enough websites now to know that I don’t want to go back to traditional footnotes.&lt;/p&gt;
+&lt;p&gt;For the most part I like the stock keyboard on iOS. It provides fast, accurate typing and I’m a big fan of &lt;a href=&quot;http://www.imore.com/quicktype&quot;&gt;QuickType&lt;/a&gt;. One big problem with this keyboard is when you want to use emoji.&lt;/p&gt;
 
-&lt;p&gt;Camel, the engine which powers this blog, already supports footnotes thanks to &lt;a href=&quot;https://www.caseyliss.com/2015/1/15/camel-changes&quot;&gt;this&lt;/a&gt; update last year. Luckily it’s fairly easy to implement bigfoot on top of this. The first step is to download the project from the &lt;a href=&quot;http://bigfootjs.com/&quot;&gt;website&lt;/a&gt; into your Camel file system. Although they can be put together into one file I chose to separate the bigfoot CSS from my site CSS &lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;:&lt;/p&gt;
+&lt;p&gt;Often I find myself wanting to use a certain emoji, but not being exactly sure which section to find it under. Unless it is recently used, which automatically places it in the first tray of the emojis, you have to manually search through the various categories to find it. &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;c&quot;&gt;&amp;lt;!-- Stylesheets --&amp;gt;&lt;/span&gt; 
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;link&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;rel=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;stylesheet&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;text/css&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/css/site.css&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;link&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;rel=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;stylesheet&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;text/css&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/css/bigfoot.css&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;There are plenty of examples where developers have recognised this issue and developed their own solutions to finding emoji, but I didn’t want another keyboard to have to switch between with the sole purpose of finding emoji.&lt;/p&gt;
 
-&lt;p&gt;Next, I downloaded jQuery from the &lt;a href=&quot;http://jquery.com/download/&quot;&gt;official website&lt;/a&gt;. Once it was downloaded I added it to my file system in a ‘js’ folder, along with the bigfoot resources. The last thing you need to do is add the following anywhere on the page to enable bigfoot:&lt;/p&gt;
+&lt;h3 id=&quot;gboard---a-modern-keyboard&quot;&gt;Gboard - A modern keyboard&lt;/h3&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;c&quot;&gt;&amp;lt;!-- jQuery --&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;script &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;text/javascript&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/js/jquery/jquery-2.2.3.min.js&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
+&lt;p&gt;Gboard is just as functional as a normal keyboard, but adds some really cool features on top of it. It has its own version of QuickType, offering suggestions based on what you are writing as you go. Google is good at this sort of thing so it’s no surprise that it works flawlessly. Gboard also supports glide typing, similar to Swype and SwiftKey. Again, it works flawlessly.&lt;/p&gt;
 
-&lt;span class=&quot;c&quot;&gt;&amp;lt;!-- Bigfoot Footnotes --&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;script &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;text/javascript&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/js/bigfoot/dist/bigfoot.min.js&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;script &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;text/javascript&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;bigfoot&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;My favourite thing about Gboard is how easy it makes finding emoji. Just tap on the emoji button and type what you are looking for in the search box. It’s ridiculously easy, and surely only a matter of time before Apple implement their own version.&lt;/p&gt;
 
-&lt;p&gt;In order for bigfoot to work, you need to make sure that footnotes resemble something like this in your code:&lt;/p&gt;
+&lt;figure&gt;
+	&lt;img src=&quot;/images/2016/9/gboard-emoji.png&quot; width=&quot;254&quot; alt=&quot;Gboard's emoji search&quot; /&gt;
+&lt;/figure&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;sup&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;id=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;fnref:1&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-        &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;#fn:1&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;rel=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;footnote&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;1&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;/sup&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;Gboard wouldn’t be a Google application without some form of Google search implemented. Clicking on the Google icon brings up a search, where you can quickly find links, images and gifs. This solves a problem I didn’t know I had. It’s now simple to send media without having to leave the application you are using.&lt;/p&gt;
 
-&lt;p&gt;Luckily, Camel supports MultiMarkdown which displays footnotes like this. But if you are using a different engine/CMS this may be done differently.&lt;/p&gt;
-
-&lt;p&gt;I had to do a &lt;em&gt;lot&lt;/em&gt; of tweaking of the CSS to make the footnotes look how I wanted. &lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; Funnily enough that is what took me the longest to figure out, and it still isn’t perfect (CSS gradients are confusing). It’s also worth noting that there are several bigfoot [options][bgoptions] available to you, each of which are detailed on the website. I wanted to retain the footnotes with anchor links as the bottom of my posts. To do this you can use the actionOriginalFN: “ignore” option. This does exactly what you would think in that it ignores any original footnote markup. This can be added to the bigfoot script tag:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt; &lt;span class=&quot;c&quot;&gt;&amp;lt;!-- Bigfoot Footnotes --&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;script &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;text/javascript&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/js/bigfoot/dist/bigfoot.min.js&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;script &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;text/javascript&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;bigfoot&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt;
-        &lt;span class=&quot;na&quot;&gt;actionOriginalFN&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;ignore&quot;&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;And that’s it! This was an interesting exercise to undertake and I think it makes a big difference to the browsing experience on the website. I may revisit the CSS of the footnotes at a later stage but for now I am happy.&lt;/p&gt;
+&lt;p&gt;I tried Gboard after hearing about it in passing on a &lt;a href=&quot;https://www.relay.fm/connected&quot;&gt;podcast&lt;/a&gt; &lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; and it has surpassed any expectations I had of it. They have succeeded where Apple have failed in making the best keyboard for iOS. Maybe I should lose the skepticism around Google..&lt;/p&gt;
 
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;Like this! &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;And even for the most competent user, that’s far too slow. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;I changed the name of ‘bigfoot-default.css’ to ‘bigfoot.css’. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;Like a lot of things on this site, they are heavily influenced by &lt;a href=&quot;https://marco.org/&quot;&gt;Marco.org&lt;/a&gt;. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;a href=&quot;http://www.iOSstories.net&quot;&gt;Myke was right&lt;/a&gt;. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><category term="Development" /><category term="bigfoot" /><category term="footnotes" /><summary type="html">Chris Sauvé on why footnotes on the web are a pain:</summary></entry></feed>
+&lt;/div&gt;</content><category term="Reviews" /><category term="google" /><category term="apps" /><summary type="html">When Apple brought out support for third party keyboards in iOS 8, I tried out several of them, such as Swype and SwiftKey. None of these came close to the ever-reliable stock iOS keyboard. So when Google announced their new iOS keyboard ‘Gboard’, I didn’t have high hopes. Not for the first time however, Google have answered the call and surprised me with their take on how a keyboard should work.</summary></entry></feed>

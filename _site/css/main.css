@@ -105,6 +105,46 @@ blockquote
   color:#505050;
 }
 
+.center img.left
+{
+  margin-right:20em;
+}
+
+.center img.right
+{
+  margin-left:20em;
+}
+
+.center img.wide
+{
+  width:140%;
+  max-width:140%;
+  margin:0 -20%;
+}
+
+.content img
+{
+  max-width:100%;
+}
+
+figure
+{
+  display:inline;
+  float:right;
+}
+
+figure.figleft
+{
+  display:inline;
+  float:left;
+}
+
+figcaption
+{
+  text-align:center;
+  font-style:italic;
+}
+
 /* Media queries for responsivness */
 @media (max-width: 760px) {
 	#content {

@@ -71,3 +71,4 @@ And that's it! This was an interesting exercise to undertake and I think it make
 [camelupdate]:https://www.caseyliss.com/2015/1/15/camel-changes
 [jquery]:http://jquery.com/download/
 [marcoorg]:https://marco.org/
+[bgoptions]:http://bigfootjs.com/#options

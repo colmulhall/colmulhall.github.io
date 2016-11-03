@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "A Refresh"
+date:   2015-12-5 17:14:07 +0100
+category: Personal
+tags: [blog, writing]
+---
+
+For a while I have been thinking about creating my own website as a place to find me online away from social media. I have previously used Blogspot and more recently [Tumblr][mytumblr] for this purpose, but neither stuck for very long. Part of this was because I had lost interest in maintaining them, but another reason was that I was unhappy with the different blogging platforms available. They make it easy to set up a new site for yourself that looks and functions much better than anything I could dream of creating, but it's a little too easy. All that is involved is selecting a template and making a few little changes to the pages that come with the template and - done. It feels like another social media account.
+
+I have almost no experience in web development, so rather than spending a lot of time learning the basics I decided to dive right in and make use of an [open source][cml] blogging engine, which requires more than just selecting a template and title, but forces me to understand some of the fundamentals of web development. This approach allows me to take a step back from the low-level ins and outs of a developing a blogging engine and lets me make my own changes as I learn how it all fits together. Hopefully by putting more effort into this site I will encourage myself to learn and write more in the future.
+
+[mytumblr]: http://www.colmulhall.tumblr.com
+[cml]: https://github.com/cliss/camels

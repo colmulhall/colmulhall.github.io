@@ -52,6 +52,34 @@
   
 <header class="post-header">
     <div class="post-title">
+    	<h3><a href="https://www.macstories.net/stories/iphone-7-computer-from-the-future/">iPhone 7: Computer from the Future</a><span class="link-arrow">→</span></h3>
+    </div>
+    
+    <span class="post-date">
+     	<time datetime="2016-10-13 17:14:07 +0100">October 13, 2016 | </time>
+    </span>
+    <span class="post-permalink">
+    	<a href="/2016/10/13/iphone7-future-computer/">Permalink</a>
+    </span>
+</header>
+
+  <p>I enjoyed this review of the iPhone 7 on MacStories, particluarly the section on the <a href="https://9to5mac.com/2016/09/12/apple-w1-chip-how-it-works/">W1 chip</a>. The iPhone 7 has brought about <a href="http://www.colm.io/2016/8/26/adios-headphone-jack">changes</a> that we may not be in a perfect position to take advantage of just yet, but in the near future will become the norm. Federico Viticci hit the nail on the head with his closing paragraph:</p>
+
+<blockquote>
+  <p>But using the iPhone 7 also made me appreciate the meaning of changes that will reshape the iPhone platform going forward – something that’s more significant than endlessly debating what we left behind.</p>
+</blockquote>
+
+<blockquote>
+  <p>The iPhone 7 is a bold step towards a future we can start understanding today.</p>
+</blockquote>
+
+
+</article>
+
+<article>
+  
+<header class="post-header">
+    <div class="post-title">
     	<h3><a href="https://512pixels.net/2016/10/5-gb-is-the-new-16/">5 GB is the new 16</a><span class="link-arrow">→</span></h3>
     </div>
     
@@ -147,7 +175,7 @@
     </div>
     
     <span class="post-date">
-     	<time datetime="2016-09-19 17:14:07 +0100">September 19, 2016 | </time>
+     	<time datetime="2016-09-19 19:14:07 +0100">September 19, 2016 | </time>
     </span>
     <span class="post-permalink">
     	<a href="/2016/09/19/partridge-book/">Permalink</a>
@@ -162,74 +190,51 @@
   
 <header class="post-header">
     <div class="post-title">
-    	<h3><a href="/2016/04/15/bigfoot-footnotes/">Better footnotes with bigfoot.js </a></h3>
+    	<h3><a href="/2016/09/10/gboard/">Gboard</a></h3>
     </div>
     
     <span class="post-date">
-     	<time datetime="2016-04-15 17:14:07 +0100">April 15, 2016 | </time>
+     	<time datetime="2016-09-10 17:14:07 +0100">September 10, 2016 | </time>
     </span>
     <span class="post-permalink">
-    	<a href="/2016/04/15/bigfoot-footnotes/">Permalink</a>
+    	<a href="/2016/09/10/gboard/">Permalink</a>
     </span>
 </header>
 
-  <p>Chris Sauvé on why footnotes on the web are a pain:</p>
+  <p>When Apple brought out support for third party keyboards in iOS 8, I tried out several of them, such as <a href="http://www.swype.com/product-features/ios/features.html">Swype</a> and <a href="https://swiftkey.com/en/keyboard/ios">SwiftKey</a>. None of these came close to the ever-reliable stock iOS keyboard. So when Google <a href="https://googleblog.blogspot.ie/2016/05/gboard-search-gifs-emojis-keyboard.html">announced</a> their new iOS keyboard ‘Gboard’, I didn’t have high hopes. Not for the first time however, Google have answered the call and surprised me with their take on how a keyboard should work.</p>
 
-<blockquote>
-  <p>Footnotes on the web are a pain in the ass. You click on a tiny number, get transported somewhere near the bottom of the page, find the footnote you were looking for, and click on a link to go back to where you were on the page.</p>
-</blockquote>
+<h3 id="the-stock-ios-keyboard">The stock iOS keyboard</h3>
+<figure>
+	<img src="/images/2016/9/stock-keyboard.png" width="254" alt="Stock iOS keyboard limitations" />
+</figure>
 
-<p>Chris created a solution to this problem in the form of a jQuery plugin called <a href="http://bigfootjs.com/">bigfoot</a>. Bigfoot allows you to click on a footnote and instead of getting pushed down to your footnote at the bottom of the page, you get a nice little pop up. <sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> I decided to implement these as part of <a href="http://www.colm.io/2016/4/4/what-needs-fixing">a todo list</a> which I am still working my way through. I’m not a heavy footnote user, but I’ve seen bigfoot used on enough websites now to know that I don’t want to go back to traditional footnotes.</p>
+<p>For the most part I like the stock keyboard on iOS. It provides fast, accurate typing and I’m a big fan of <a href="http://www.imore.com/quicktype">QuickType</a>. One big problem with this keyboard is when you want to use emoji.</p>
 
-<p>Camel, the engine which powers this blog, already supports footnotes thanks to <a href="https://www.caseyliss.com/2015/1/15/camel-changes">this</a> update last year. Luckily it’s fairly easy to implement bigfoot on top of this. The first step is to download the project from the <a href="http://bigfootjs.com/">website</a> into your Camel file system. Although they can be put together into one file I chose to separate the bigfoot CSS from my site CSS <sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup>:</p>
+<p>Often I find myself wanting to use a certain emoji, but not being exactly sure which section to find it under. Unless it is recently used, which automatically places it in the first tray of the emojis, you have to manually search through the various categories to find it. <sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup></p>
 
-<figure class="highlight"><pre><code class="language-html" data-lang="html"><span class="c">&lt;!-- Stylesheets --&gt;</span> 
-<span class="nt">&lt;link</span> <span class="na">rel=</span><span class="s">"stylesheet"</span> <span class="na">type=</span><span class="s">"text/css"</span> <span class="na">href=</span><span class="s">"/css/site.css"</span><span class="nt">&gt;</span>
-<span class="nt">&lt;link</span> <span class="na">rel=</span><span class="s">"stylesheet"</span> <span class="na">type=</span><span class="s">"text/css"</span> <span class="na">href=</span><span class="s">"/css/bigfoot.css"</span><span class="nt">&gt;</span></code></pre></figure>
+<p>There are plenty of examples where developers have recognised this issue and developed their own solutions to finding emoji, but I didn’t want another keyboard to have to switch between with the sole purpose of finding emoji.</p>
 
-<p>Next, I downloaded jQuery from the <a href="http://jquery.com/download/">official website</a>. Once it was downloaded I added it to my file system in a ‘js’ folder, along with the bigfoot resources. The last thing you need to do is add the following anywhere on the page to enable bigfoot:</p>
+<h3 id="gboard---a-modern-keyboard">Gboard - A modern keyboard</h3>
 
-<figure class="highlight"><pre><code class="language-html" data-lang="html"><span class="c">&lt;!-- jQuery --&gt;</span>
-<span class="nt">&lt;script </span><span class="na">type=</span><span class="s">"text/javascript"</span> <span class="na">src=</span><span class="s">"/js/jquery/jquery-2.2.3.min.js"</span><span class="nt">&gt;&lt;/script&gt;</span>
+<p>Gboard is just as functional as a normal keyboard, but adds some really cool features on top of it. It has its own version of QuickType, offering suggestions based on what you are writing as you go. Google is good at this sort of thing so it’s no surprise that it works flawlessly. Gboard also supports glide typing, similar to Swype and SwiftKey. Again, it works flawlessly.</p>
 
-<span class="c">&lt;!-- Bigfoot Footnotes --&gt;</span>
-<span class="nt">&lt;script </span><span class="na">type=</span><span class="s">"text/javascript"</span> <span class="na">src=</span><span class="s">"/js/bigfoot/dist/bigfoot.min.js"</span><span class="nt">&gt;&lt;/script&gt;</span>
-<span class="nt">&lt;script </span><span class="na">type=</span><span class="s">"text/javascript"</span><span class="nt">&gt;</span>
-    <span class="nx">$</span><span class="p">.</span><span class="nx">bigfoot</span><span class="p">();</span>
-<span class="nt">&lt;/script&gt;</span></code></pre></figure>
+<p>My favourite thing about Gboard is how easy it makes finding emoji. Just tap on the emoji button and type what you are looking for in the search box. It’s ridiculously easy, and surely only a matter of time before Apple implement their own version.</p>
 
-<p>In order for bigfoot to work, you need to make sure that footnotes resemble something like this in your code:</p>
+<figure>
+	<img src="/images/2016/9/gboard-emoji.png" width="254" alt="Gboard's emoji search" />
+</figure>
 
-<figure class="highlight"><pre><code class="language-html" data-lang="html"><span class="nt">&lt;p&gt;</span>
-    <span class="nt">&lt;sup</span> <span class="na">id=</span><span class="s">"fnref:1"</span><span class="nt">&gt;</span>
-        <span class="nt">&lt;a</span> <span class="na">href=</span><span class="s">"#fn:1"</span> <span class="na">rel=</span><span class="s">"footnote"</span><span class="nt">&gt;</span>1<span class="nt">&lt;/a&gt;</span>
-    <span class="nt">&lt;/sup&gt;</span>
-<span class="nt">&lt;/p&gt;</span></code></pre></figure>
+<p>Gboard wouldn’t be a Google application without some form of Google search implemented. Clicking on the Google icon brings up a search, where you can quickly find links, images and gifs. This solves a problem I didn’t know I had. It’s now simple to send media without having to leave the application you are using.</p>
 
-<p>Luckily, Camel supports MultiMarkdown which displays footnotes like this. But if you are using a different engine/CMS this may be done differently.</p>
-
-<p>I had to do a <em>lot</em> of tweaking of the CSS to make the footnotes look how I wanted. <sup id="fnref:3"><a href="#fn:3" class="footnote">3</a></sup> Funnily enough that is what took me the longest to figure out, and it still isn’t perfect (CSS gradients are confusing). It’s also worth noting that there are several bigfoot [options][bgoptions] available to you, each of which are detailed on the website. I wanted to retain the footnotes with anchor links as the bottom of my posts. To do this you can use the actionOriginalFN: “ignore” option. This does exactly what you would think in that it ignores any original footnote markup. This can be added to the bigfoot script tag:</p>
-
-<figure class="highlight"><pre><code class="language-html" data-lang="html"> <span class="c">&lt;!-- Bigfoot Footnotes --&gt;</span>
-<span class="nt">&lt;script </span><span class="na">type=</span><span class="s">"text/javascript"</span> <span class="na">src=</span><span class="s">"/js/bigfoot/dist/bigfoot.min.js"</span><span class="nt">&gt;&lt;/script&gt;</span>
-<span class="nt">&lt;script </span><span class="na">type=</span><span class="s">"text/javascript"</span><span class="nt">&gt;</span>
-    <span class="nx">$</span><span class="p">.</span><span class="nx">bigfoot</span><span class="p">({</span>
-        <span class="na">actionOriginalFN</span><span class="p">:</span> <span class="s2">"ignore"</span>
-    <span class="p">});</span>
-<span class="nt">&lt;/script&gt;</span></code></pre></figure>
-
-<p>And that’s it! This was an interesting exercise to undertake and I think it makes a big difference to the browsing experience on the website. I may revisit the CSS of the footnotes at a later stage but for now I am happy.</p>
+<p>I tried Gboard after hearing about it in passing on a <a href="https://www.relay.fm/connected">podcast</a> <sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup> and it has surpassed any expectations I had of it. They have succeeded where Apple have failed in making the best keyboard for iOS. Maybe I should lose the skepticism around Google..</p>
 
 <div class="footnotes">
   <ol>
     <li id="fn:1">
-      <p>Like this! <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+      <p>And even for the most competent user, that’s far too slow. <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
     </li>
     <li id="fn:2">
-      <p>I changed the name of ‘bigfoot-default.css’ to ‘bigfoot.css’. <a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
-    </li>
-    <li id="fn:3">
-      <p>Like a lot of things on this site, they are heavily influenced by <a href="https://marco.org/">Marco.org</a>. <a href="#fnref:3" class="reversefootnote">&#8617;</a></p>
+      <p><a href="http://www.iOSstories.net">Myke was right</a>. <a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
     </li>
   </ol>
 </div>
@@ -242,9 +247,9 @@
   
     <a href="/" class="previous">Previous</a>
   
-  <span class="page_number ">Page: 2 of 2</span>
+  <span class="page_number ">Page: 2 of 12</span>
   
-    <span class="next ">Next</span>
+    <a href="/page/3/" class="next">Next</a>
   
 </div>
 
@@ -263,9 +268,49 @@
       <em>2</em>
     
   
+    
+      <a href="/page/3/">3</a>
+    
+  
+    
+      <a href="/page/4/">4</a>
+    
+  
+    
+      <a href="/page/5/">5</a>
+    
+  
+    
+      <a href="/page/6/">6</a>
+    
+  
+    
+      <a href="/page/7/">7</a>
+    
+  
+    
+      <a href="/page/8/">8</a>
+    
+  
+    
+      <a href="/page/9/">9</a>
+    
+  
+    
+      <a href="/page/10/">10</a>
+    
+  
+    
+      <a href="/page/11/">11</a>
+    
+  
+    
+      <a href="/page/12/">12</a>
+    
+  
 
   
-    <span>Next &raquo;</span>
+    <a href="/page/3/">Next &raquo;</a>
   
 </div>
 
