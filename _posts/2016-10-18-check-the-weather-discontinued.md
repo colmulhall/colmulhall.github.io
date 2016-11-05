@@ -8,6 +8,7 @@ tags: [apps]
 ---
 
 David Smith:
+
 >Four years ago today I introduced a weather app called Check the Weather. I was really proud of how it turned out. It was my first app where I was able to do everything ‘right’ from the beginning. It was localized, had solid VoiceOver support and had an actual marketing plan to get it off the ground.
 
 >Sadly, however, the time has come to discontinue support for the app. The cost of providing weather data to it has grown too large to sustain. It has been operating at a slight loss for the last 2 years, which I didn’t mind providing as I used the app myself. However, a recent change in the pricing for my radar data provider has made it infeasible to continue providing weather data for the app.

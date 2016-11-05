@@ -64,9 +64,21 @@ article
   margin-bottom: 80px;
 }
 
+.pagination {
+	margin-bottom: 7em;
+}
+.previous-page {
+	float: left;
+	display: inline;
+}
+
+.next-page {
+    float: right;
+    display: inline;
+}
+
 .copyright {
 	text-align: center;
-	margin-top: 20px;
 	font-size: 11pt;
 }
 
@@ -167,7 +179,7 @@ figcaption
 		min-width: 330px;
 		}
 
-	#navigation {
+	.navigation {
 		font-size: 22px;
 	}
 }
