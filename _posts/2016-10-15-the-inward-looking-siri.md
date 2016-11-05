@@ -8,6 +8,7 @@ tags: [apple, siri]
 ---
 
 Stephen Hackett:
+
 >I understand Apple wanting to make sure that Siri’s core functionality of controlling your iOS device keeps getting better. That stuff should be bulletproof, but we’re five years into Siri’s life. The company should be moving past these features and making Siri smarter about the world around us.
 
 I've long since given up on using Siri for anything more than questions like "When are Manchester United playing next?" or "What will the weather be like today?". I don't find it very useful for anything more than that. Siri has a long way to go to get close to the Amazon Echo or Google Assistant. Five years into its life, it still lacks the ability to understand some reasonably simple tasks:
