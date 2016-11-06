@@ -163,6 +163,15 @@ figcaption
   font-style:italic;
 }
 
+.separator {
+	text-align: 
+}
+
+.footnotes { 
+    margin-top: 3em;
+    font-size: 14px;
+}
+
 /* Media queries for responsivness */
 @media (max-width: 760px) {
 	#content {

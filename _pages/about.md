@@ -19,8 +19,9 @@ You can find me at the following places:
 
 ## About This Site
 
-This site is where I write about things that interest me. On a technical side, the site is powered by 
-[Casey Liss][liss]'s blogging engine "[Camel][cml]" and is hosted on [Heroku][hrku]. 
+This site is where I write about things that interest me. 
+On a technical side, the site is powered by 
+[Jekyll][jek] and is hosted on GitHub Pages.
 I use [Hover][hvr] for dealing with the domain. I have tweaked the appearance to my 
 preference.
 
@@ -33,8 +34,7 @@ I use [Sublime Text][sbltxt] for any code tweaks. Posts are written in
 [lnkin]: https://ie.linkedin.com/in/colmmulhall
 [gthb]: https://github.com/colmulhall
 [mail]: mailto:colmmul92@gmail.com
-[liss]: http://caseyliss.com
-[cml]: https://github.com/cliss/camel
+[jek]: http://www.jekyllrb.com
 [hrku]: https://www.heroku.com/
 [hvr]: https://www.hover.com/
 [sbltxt]: http://www.sublimetext.com/
