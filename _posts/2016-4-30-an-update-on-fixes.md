@@ -16,5 +16,5 @@ Earlier this month I [posted][colmiofix] about what issues I was having with the
 - Decided to stick with the same font ✔
 - Responsiveness still needs working on
 
-[colmiofix]:http://www.colm.io/2016/4/4/what-needs-fixing
-[bgft]:http://www.colm.io/2016/4/15/bigfoot-footnotes
+[colmiofix]:http://www.colm.io/2016/04/04/what-needs-fixing
+[bgft]:http://www.colm.io/2016/04/15/bigfoot-footnotes

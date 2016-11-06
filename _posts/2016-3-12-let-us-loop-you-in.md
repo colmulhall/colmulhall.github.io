@@ -9,4 +9,4 @@ tags: [apple, event, linked]
 
 Apple announces its March event. I'll be very interested in seeing what's in store for the new [9.7-inch iPad Pro][ipro].
 
-[ipro]:http://www.colm.io/2016/2/26/ipad-pro-9-7
+[ipro]:http://www.colm.io/2016/02/26/ipad-pro-9-7

@@ -67,7 +67,7 @@ And that's it! This was an interesting exercise to undertake and I think it make
 [^3]: Like a lot of things on this site, they are heavily influenced by [Marco.org][marcoorg].
 
 [bgft]:http://bigfootjs.com/
-[todocolmio]:http://www.colm.io/2016/4/4/what-needs-fixing
+[todocolmio]:http://www.colm.io/2016/04/04/what-needs-fixing
 [camelupdate]:https://www.caseyliss.com/2015/1/15/camel-changes
 [jquery]:http://jquery.com/download/
 [marcoorg]:https://marco.org/

@@ -28,7 +28,7 @@ preference.
 I use [Sublime Text][sbltxt] for any code tweaks. Posts are written in 
 [Markdown][mrkd].
 
-[csdegree]:http://www.colm.io/education
+[csdegree]:http://colm.io/education/
 [comp]: http://www.dit.ie/computing/
 [twtr]: https://twitter.com/ColmMulhall
 [lnkin]: https://ie.linkedin.com/in/colmmulhall

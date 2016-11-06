@@ -14,4 +14,4 @@ I enjoyed this review of the iPhone 7 on MacStories, particluarly the section on
 >The iPhone 7 is a bold step towards a future we can start understanding today.
 
 [w1]:https://9to5mac.com/2016/09/12/apple-w1-chip-how-it-works/
-[adiosjack]:http://www.colm.io/2016/8/26/adios-headphone-jack
+[adiosjack]:http://www.colm.io/2016/08/26/adios-headphone-jack
