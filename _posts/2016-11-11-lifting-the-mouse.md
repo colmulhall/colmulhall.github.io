@@ -7,4 +7,4 @@ category: Tech
 tags: [ipad, desktop, mac]
 ---
 
-Probably the best justification of an tablet over a PC that I have read. Matts theory on the fate of PCs over the next few years is a bit depressing, but hard to argue with.
+Probably the best justification of a tablet over a PC that I have read. Matts theory on the fate of PCs over the next few years is a bit depressing, but hard to argue with.
