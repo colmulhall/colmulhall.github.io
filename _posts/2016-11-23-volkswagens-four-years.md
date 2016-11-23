@@ -10,6 +10,7 @@ tags: [world rally, car, volkswagen]
 What a ridiculously successful four years Volkwagen had in the World Rally Championship. 
 
 The highlights:
+
 * 43 wins in 52 rallies
 * Topped the Drivers’ and Co-Drivers’ Championship for an uninterrupted 986 days
 * Topped Manufacturers’ standings for 1346 days in a row
