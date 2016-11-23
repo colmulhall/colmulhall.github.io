@@ -14,7 +14,7 @@ The highlights:
 * 43 wins in 52 rallies
 * Topped the Drivers’ and Co-Drivers’ Championship for an uninterrupted 986 days
 * Topped Manufacturers’ standings for 1346 days in a row
-* Won 12 rallies in a rown on *two* seperate occasions
+* Won 12 rallies in a row on *two* seperate occasions
 
 It's a shame to see a team that are so dominant leave the WRC based on [other issues][scandal] with the company. It will be a real test for Sébastien Ogier next season to retain his title with a different car and team behind him for the first time.
 
