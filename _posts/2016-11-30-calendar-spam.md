@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Calendar spam"
+link: https://www.macsparky.com/blog/2016/11/calendar-spam
+date:   2016-11-30 16:03:00 +0100
+category: Tech
+tags: [spam, calendar]
+---
+
+David Sparks:
+
+>Here's a new one. The last week I've started getting occasional spam-based calendar invites. Be careful out there.
+
+<div class="center"><img src="https://static1.squarespace.com/static/5008676d84aeae82b8acdd8c/t/5837dcaf1b631ba427424975/1480056001741/" height="736" width="414=" alt="Calendar spam" /></div>
+
+I started getting these "Ray-ban" spam invites over the past few days on both my Mac and iOS devices. David wrote a follow up post to this issue which you can read [here][prevent]. While there is no specific way to prevent the issue he advises not accepting *or* declining the invitations (because that basically tells the spammers that you are actively viewing them), and to try move away from iCloud email. 
+
+This vulnerability will surely be fixed by Apple pretty soon. It's crazy to think about the amount of devices that got these notifications.
+
+
+
+[prevent]:https://www.macsparky.com/blog/2016/11/how-to-fight-calendar-spam
