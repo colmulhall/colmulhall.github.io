@@ -11,7 +11,8 @@ David Sparks:
 
 >Here's a new one. The last week I've started getting occasional spam-based calendar invites. Be careful out there.
 
-<div class="center"><img src="https://static1.squarespace.com/static/5008676d84aeae82b8acdd8c/t/5837dcaf1b631ba427424975/1480056001741/" height="736" width="414=" alt="Calendar spam" /></div>
+<div class="center"><img src="https://static1.squarespace.com/static/5008676d84aeae82b8acdd8c/t/5837dcaf1b631ba427424975/1480056001741/" height="120" width="600=" alt="Calendar spam" /></div>
+<figcaption>Image courtesy of MacSparky</figcaption>
 
 I started getting these "Ray-ban" spam invites over the past few days on both my Mac and iOS devices. David wrote a follow up post to this issue which you can read [here][prevent]. While there is no specific way to prevent the issue he advises not accepting *or* declining the invitations (because that basically tells the spammers that you are actively viewing them), and to try move away from iCloud email. 
 
