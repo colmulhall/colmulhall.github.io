@@ -59,6 +59,10 @@ body {
 	font-size: 11pt;
 }
 
+.post-permalink:hover {
+    text-decoration: underline;
+}
+
 article
 {
   margin-bottom: 80px;
