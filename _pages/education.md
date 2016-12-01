@@ -5,10 +5,13 @@ permalink: /education/
 ---
 
 ## BSc in Computer Science 
+
 #### Dublin Institute of Technology, 2010-2014
 
 <a id="yearone"></a>
+
 ##### Year 1
+
 * Programming
 * Mathematics 1
 * Web Development 1
@@ -19,7 +22,9 @@ permalink: /education/
 * Microprocessors
 
 <a id="yeartwo"></a>
+
 ##### Year 2
+
 * Object Oriented Programming
 * Algorithm & Data Structure
 * Operating Systems 2
@@ -32,7 +37,9 @@ permalink: /education/
 * Human Computer Interaction
 
 <a id="yearthree"></a>
+
 ##### Year 3
+
 * Client Server Programming
 * Software Engineering 3
 * Mobile Software Development
@@ -43,7 +50,9 @@ permalink: /education/
 * Graphical User Interface Programming
  
 <a id="yearfour"></a>
+
 ##### Year 4
+
 * Advanced Databases
 * Geographical Information Systems
 * Enterprise Application Development
@@ -55,7 +64,9 @@ permalink: /education/
 
 
 <a id="fyp"></a>
+
 #### Final Year Project (September 2013 - May 2014)
+
 The aim of this project was to develop a mobile application that would provide the user with a range of information about the Phoenix Park. The app would include many features including a comprehensive list of events found from several different websites, news updates, the ability to save events for offline reading, directions to the events, and sharing to social networks.
 
 The app was developed in Java for the Android platform. The web backend was developed in PHP, making use of XPath.
