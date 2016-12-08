@@ -12,6 +12,7 @@ tags: [rockstar, games, bully]
 Continuing with their tradition of releasing past console classics on mobile around Christmas, usually on the 10 year anniversary of the games, Rockstar are now releasing "Bully" on iOS and Android. I loved this game when I first played it on PS2 (it was known as "Canis Canem Edit" in PAL regions), so I'm expecting much of the same on mobile. 
 
 To date, Rockstar have ported:
+
 * Grand Theft Auto: Chinatown Wars, 2010
 * Grand Theft Auto III, 2011
 * Grand Theft Auto: Vice City, 2012
