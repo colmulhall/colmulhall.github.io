@@ -9,4 +9,4 @@ tags: [apple, control center, linked]
 
 This serves as a nice follow up to [my post][ctrlcentr] from last month. This is a great example of what could be done in a future version of Control Center.
 
-[ctrlcentr]:http://www.colm.io/2016/1/28/the-case-against-control-center
+[ctrlcentr]:http://www.colm.io/2016/01/28/the-case-against-control-center
