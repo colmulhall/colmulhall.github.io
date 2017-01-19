@@ -93,7 +93,8 @@ article
 
 a:link {
 	text-decoration: none;
-	color: #16497D;
+	color: #B8860B;
+	text-decoration: underline;
 }
 a:visited {
 	text-decoration: none;
