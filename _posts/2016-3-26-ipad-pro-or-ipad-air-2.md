@@ -13,7 +13,7 @@ Fraser Speirs on choosing between the new iPad Pro 9.7-inch and the iPad Air 2 f
 
 >My problem is that, processor performance aside, many of the Pro features just aren't that important to us.
 
-While my needs are a lot different to Fraser's, there is still a lot to take from his analysis here. As I mentioned previously, I am on the market for a new 9.7-inch iPad. After Apples Monday event, I was left with two choices:
+While my needs are a lot different to Fraser's, there is still a lot to take from his analysis here. As I [mentioned][pro97] previously, I am on the market for a new 9.7-inch iPad. After Apples Monday event, I was left with two choices:
 
 * 128Gb iPad Pro 9.7-inch
 * 64Gb iPad Air 2
@@ -30,4 +30,5 @@ The one thing putting me off the Air 2 is the fact that it is a 2014 device. It 
 >If we have the budget, we'll go Pro. If not, I don't think the Air 2 will be a bad choice at all. It's still a great iPad.
 
 [pro12]:http://www.apple.com/ie/ipad-pro/
+[pro97]:http://colm.io/2016/02/26/ipad-pro-9-7/
 [air2powerrr]:http://www.idownloadblog.com/2014/10/21/the-ipad-air-2-is-much-faster-than-the-iphone-6-and-the-original-ipad-air/
