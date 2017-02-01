@@ -53,14 +53,13 @@ body {
 	font-size: 11pt;
 }
 
-.post-permalink {
+.post-permalink a:link {
 	display: inline-block;
 	color: #a3a1a1;
 	font-size: 11pt;
 }
-
-.post-permalink:hover {
-    text-decoration: underline;
+.post-permalink a:hover {
+	text-decoration: underline;
 }
 
 article
@@ -93,18 +92,13 @@ article
 
 a:link {
 	text-decoration: none;
-	color: #16497D;
+	color: #B8860B;
 }
 a:visited {
-	text-decoration: none;
-	color: #16497D;
-}
-a:visited {
-	text-decoration: none;
+	color: #B8860B;
 }
 a:hover {
 	color: #B8860B;
-	text-decoration: none;
 }
 h3 a:link, h3 a:visited {
 	color: #333;
