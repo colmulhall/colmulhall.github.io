@@ -15,6 +15,7 @@ I don't expect dark mode to show up in any of the iOS 10.3 builds over the next 
 What I think would be great would be to have the option to automatically enable dark mode at certain times of the day, similar to how you can enable [Night Shift][ns] between certain times, or for it to be able to detect the level of light that you have and enable/disable based on that. 
 
 [^1]: 9to5mac have published a good [overview][95tm] of Theatre Mode on WatchOS with an accompanying video. 
+
 [^2]: And does it really warrant a place in Control Center? Surely this year will finally be the year that Apple allows us to customize the setting available to toggle in Control Center.
 
 [95tm]:https://9to5mac.com/2017/01/30/watchos-3-2-beta-1-theater-mode-video/
