@@ -8,7 +8,7 @@ tags: [ios, dark mode]
 
 With WatchOS 3.2 it looks like Apple are introducing "Theatre Mode" to the Apple Watch. What this is, is basically a mode to put your watch on while at the cinema to mute notifications and avoid waking the screen automatically. [^1] There has been plenty of reports to suggest that Theatre Mode will be introduced on iOS this year too. 
 
-While it's definitely a nice feature, even if a little bit niche [2], I hope that it isn't Apples only attempt at a dark mode this year. I've long been anticipating a system wide dark mode on iOS, and Theatre Mode seems like a logical step towards it. 
+While it's definitely a nice feature, even if a little bit niche [^2], I hope that it isn't Apples only attempt at a dark mode this year. I've long been anticipating a system wide dark mode on iOS, and Theatre Mode seems like a logical step towards it. 
 
 I don't expect dark mode to show up in any of the iOS 10.3 builds over the next few weeks. If it's to be introduced this year it will presumably be with iOS 11. 
 
