@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "A cellular Apple Watch "
+title:  "A cellular Apple Watch"
+link: https://512pixels.net/2016/08/apple-watch-gps/
 date:   2016-9-1 17:14:07 +0100
 category: Tech
 tags: [apple, watch]
