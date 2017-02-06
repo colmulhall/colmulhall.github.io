@@ -34,7 +34,7 @@ exclude:
 
 # Custom settings
 include: ['_pages']
-paginate: 5
+paginate: 10
 paginate_path: "/page/:num/"
 permalink: pretty
 permalink: /:year/:month/:day/:title/
