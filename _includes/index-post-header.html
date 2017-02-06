@@ -5,7 +5,7 @@
     </div>
     
     <span class="post-date">
-     	<time datetime="{{ post.date }}">{{ post.date | date: '%B %d, %Y' }} | </time>
+     	<time datetime="{{ post.date }}">{{ post.date | date: '%B %-d, %Y' }} | </time>
     </span>
     <span class="post-permalink">
     	<a href="{{ post.url | prepend: site.baseurl }}">Permalink</a>
