@@ -15,49 +15,22 @@ Chris created a solution to this problem in the form of a jQuery plugin called [
 Camel, the engine which powers this blog, already supports footnotes thanks to [this][camelupdate] update last year. Luckily it's fairly easy to implement bigfoot on top of this. The first step is to download the project from the [website][bgft] into your Camel file system. Although they can be put together into one file I chose to separate the bigfoot CSS from my site CSS [^2]:
 
 
-{% highlight html %}
-<!-- Stylesheets --> 
-<link rel="stylesheet" type="text/css" href="/css/site.css">
-<link rel="stylesheet" type="text/css" href="/css/bigfoot.css">
-{% endhighlight %}
+<script src="https://gist.github.com/colmulhall/9f96de794d25282ee51651026a24699f.js"></script>
 
 
 Next, I downloaded jQuery from the [official website][jquery]. Once it was downloaded I added it to my file system in a 'js' folder, along with the bigfoot resources. The last thing you need to do is add the following anywhere on the page to enable bigfoot:
 
-{% highlight html %}
-<!-- jQuery -->
-<script type="text/javascript" src="/js/jquery/jquery-2.2.3.min.js"></script>
-
-<!-- Bigfoot Footnotes -->
-<script type="text/javascript" src="/js/bigfoot/dist/bigfoot.min.js"></script>
-<script type="text/javascript">
-    $.bigfoot();
-</script>
-{% endhighlight %}
+<script src="https://gist.github.com/colmulhall/793a9eb42dcf426907d1140432bbc797.js"></script>
 
 In order for bigfoot to work, you need to make sure that footnotes resemble something like this in your code:
 
-{% highlight html %}
-<p>
-    <sup id="fnref:1">
-        <a href="#fn:1" rel="footnote">1</a>
-    </sup>
-</p>
-{% endhighlight %}
+<script src="https://gist.github.com/colmulhall/7e062bde8fd570488d6a4fce9a862fba.js"></script>
 
 Luckily, Camel supports MultiMarkdown which displays footnotes like this. But if you are using a different engine/CMS this may be done differently. 
 
 I had to do a *lot* of tweaking of the CSS to make the footnotes look how I wanted. [^3] Funnily enough that is what took me the longest to figure out, and it still isn't perfect (CSS gradients are confusing). It's also worth noting that there are several bigfoot [options][bgoptions] available to you, each of which are detailed on the website. I wanted to retain the footnotes with anchor links as the bottom of my posts. To do this you can use the actionOriginalFN: "ignore" option. This does exactly what you would think in that it ignores any original footnote markup. This can be added to the bigfoot script tag:
 
-{% highlight html %}
- <!-- Bigfoot Footnotes -->
-<script type="text/javascript" src="/js/bigfoot/dist/bigfoot.min.js"></script>
-<script type="text/javascript">
-    $.bigfoot({
-        actionOriginalFN: "ignore"
-    });
-</script>
-{% endhighlight %}
+<script src="https://gist.github.com/colmulhall/25d269afa815cf0fc5a291638d7ab658.js"></script>
 
 And that's it! This was an interesting exercise to undertake and I think it makes a big difference to the browsing experience on the website. I may revisit the CSS of the footnotes at a later stage but for now I am happy.
 

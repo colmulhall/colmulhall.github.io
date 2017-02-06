@@ -192,40 +192,21 @@
 
 <p>Camel, the engine which powers this blog, already supports footnotes thanks to <a href="https://www.caseyliss.com/2015/1/15/camel-changes">this</a> update last year. Luckily it’s fairly easy to implement bigfoot on top of this. The first step is to download the project from the <a href="http://bigfootjs.com/">website</a> into your Camel file system. Although they can be put together into one file I chose to separate the bigfoot CSS from my site CSS <sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup>:</p>
 
-<figure class="highlight"><pre><code class="language-html" data-lang="html"><span class="c">&lt;!-- Stylesheets --&gt;</span> 
-<span class="nt">&lt;link</span> <span class="na">rel=</span><span class="s">"stylesheet"</span> <span class="na">type=</span><span class="s">"text/css"</span> <span class="na">href=</span><span class="s">"/css/site.css"</span><span class="nt">&gt;</span>
-<span class="nt">&lt;link</span> <span class="na">rel=</span><span class="s">"stylesheet"</span> <span class="na">type=</span><span class="s">"text/css"</span> <span class="na">href=</span><span class="s">"/css/bigfoot.css"</span><span class="nt">&gt;</span></code></pre></figure>
+<script src="https://gist.github.com/colmulhall/9f96de794d25282ee51651026a24699f.js"></script>
 
 <p>Next, I downloaded jQuery from the <a href="http://jquery.com/download/">official website</a>. Once it was downloaded I added it to my file system in a ‘js’ folder, along with the bigfoot resources. The last thing you need to do is add the following anywhere on the page to enable bigfoot:</p>
 
-<figure class="highlight"><pre><code class="language-html" data-lang="html"><span class="c">&lt;!-- jQuery --&gt;</span>
-<span class="nt">&lt;script </span><span class="na">type=</span><span class="s">"text/javascript"</span> <span class="na">src=</span><span class="s">"/js/jquery/jquery-2.2.3.min.js"</span><span class="nt">&gt;&lt;/script&gt;</span>
-
-<span class="c">&lt;!-- Bigfoot Footnotes --&gt;</span>
-<span class="nt">&lt;script </span><span class="na">type=</span><span class="s">"text/javascript"</span> <span class="na">src=</span><span class="s">"/js/bigfoot/dist/bigfoot.min.js"</span><span class="nt">&gt;&lt;/script&gt;</span>
-<span class="nt">&lt;script </span><span class="na">type=</span><span class="s">"text/javascript"</span><span class="nt">&gt;</span>
-    <span class="nx">$</span><span class="p">.</span><span class="nx">bigfoot</span><span class="p">();</span>
-<span class="nt">&lt;/script&gt;</span></code></pre></figure>
+<script src="https://gist.github.com/colmulhall/793a9eb42dcf426907d1140432bbc797.js"></script>
 
 <p>In order for bigfoot to work, you need to make sure that footnotes resemble something like this in your code:</p>
 
-<figure class="highlight"><pre><code class="language-html" data-lang="html"><span class="nt">&lt;p&gt;</span>
-    <span class="nt">&lt;sup</span> <span class="na">id=</span><span class="s">"fnref:1"</span><span class="nt">&gt;</span>
-        <span class="nt">&lt;a</span> <span class="na">href=</span><span class="s">"#fn:1"</span> <span class="na">rel=</span><span class="s">"footnote"</span><span class="nt">&gt;</span>1<span class="nt">&lt;/a&gt;</span>
-    <span class="nt">&lt;/sup&gt;</span>
-<span class="nt">&lt;/p&gt;</span></code></pre></figure>
+<script src="https://gist.github.com/colmulhall/7e062bde8fd570488d6a4fce9a862fba.js"></script>
 
 <p>Luckily, Camel supports MultiMarkdown which displays footnotes like this. But if you are using a different engine/CMS this may be done differently.</p>
 
 <p>I had to do a <em>lot</em> of tweaking of the CSS to make the footnotes look how I wanted. <sup id="fnref:3"><a href="#fn:3" class="footnote">3</a></sup> Funnily enough that is what took me the longest to figure out, and it still isn’t perfect (CSS gradients are confusing). It’s also worth noting that there are several bigfoot <a href="http://bigfootjs.com/#options">options</a> available to you, each of which are detailed on the website. I wanted to retain the footnotes with anchor links as the bottom of my posts. To do this you can use the actionOriginalFN: “ignore” option. This does exactly what you would think in that it ignores any original footnote markup. This can be added to the bigfoot script tag:</p>
 
-<figure class="highlight"><pre><code class="language-html" data-lang="html"> <span class="c">&lt;!-- Bigfoot Footnotes --&gt;</span>
-<span class="nt">&lt;script </span><span class="na">type=</span><span class="s">"text/javascript"</span> <span class="na">src=</span><span class="s">"/js/bigfoot/dist/bigfoot.min.js"</span><span class="nt">&gt;&lt;/script&gt;</span>
-<span class="nt">&lt;script </span><span class="na">type=</span><span class="s">"text/javascript"</span><span class="nt">&gt;</span>
-    <span class="nx">$</span><span class="p">.</span><span class="nx">bigfoot</span><span class="p">({</span>
-        <span class="na">actionOriginalFN</span><span class="p">:</span> <span class="s2">"ignore"</span>
-    <span class="p">});</span>
-<span class="nt">&lt;/script&gt;</span></code></pre></figure>
+<script src="https://gist.github.com/colmulhall/25d269afa815cf0fc5a291638d7ab658.js"></script>
 
 <p>And that’s it! This was an interesting exercise to undertake and I think it makes a big difference to the browsing experience on the website. I may revisit the CSS of the footnotes at a later stage but for now I am happy.</p>
 
