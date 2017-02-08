@@ -13,7 +13,7 @@ Dr Drang:
 
 Some good points by Dr Drang about the use of the iPad vs the Mac for getting work done. The single biggest thing holding the iPad back is software. The iPad has been around sice 2010, and shipped with iOS 3. Fast forward to 2017, and the iPad has been though *seven* major iOS releases. Of those, only one has brought real iPad-focused features - iOS 9. 
 
-It's understandable that the iPhone has been taking priority over the iPad in terms of developing iOS, but it's time for Apple to start making good of its promise that the [iPad is a replacement for the PC][ipc]. It needs the basics - drap and drop, system wide multitasking, a better solution to the home screen, windows [^], and a visible file system. Over reliance on the like of [Workflow][wkf] and [Zapier][zap] just wont cut it for most people who want to make the transition from PC to tablet.
+It's understandable that the iPhone has been taking priority over the iPad in terms of developing iOS, but it's time for Apple to start making good of its promise that the [iPad is a replacement for the PC][ipc]. It needs the basics - drap and drop, system wide multitasking, a better solution to the home screen, windows [^1], and a visible file system. Over reliance on the like of [Workflow][wkf] and [Zapier][zap] just wont cut it for most people who want to make the transition from PC to tablet.
 
 As long as the iPad is treated as a fork of iOS to the iPhone, it's never going to be become a PC replacement.
 
