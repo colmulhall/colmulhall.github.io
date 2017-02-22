@@ -6,14 +6,14 @@ category: Games
 tags:     [nova, app]
 ---
 
-Back in 2009, Gameloft released a a first person shooter game on iOS called "[N.O.V.A. Near Orbit Vanguard Alliance][novawiki]". This was as close as you could get to [Halo][halowiki] on mobile, and for it's time [^1] it was a huge achievement in mobile gaming. It had an in depth story set across multiple maps, different weapons and enemies as well as local and online multiplayer. 
+Back in 2009, Gameloft released a first person shooter game on iOS called "[N.O.V.A. Near Orbit Vanguard Alliance][novawiki]". This was as close as you could get to [Halo][halowiki] on mobile, and for it's time [^1] it was a huge achievement in mobile gaming. It had an in depth story set across multiple maps, different weapons and enemies as well as local and online multiplayer. 
 
 Gameloft followed up with two sequels for NOVA, as well as producing another great first person series alongside it, [Modern Combat][mc], which is more of a Call of Duty clone. 
 
 Gameloft have now [announced][glann] that they are releasing a remastered version of the original NOVA game, which will be free to play. This has sparked a debate over on AppSpy about the value in re-releasing mobile games. 
 
 [Harry Slater][hsappspy]:
-> The question all of this raises is an interesting one  is this really something we want to see on the App Store? Not just NOVA, but the whole concept of older games getting new leases of life. And I guess there are two standpoints.
+> The question all of this raises is an interesting one is this really something we want to see on the App Store? Not just NOVA, but the whole concept of older games getting new leases of life. And I guess there are two standpoints.
 
 > On the one hand the App Store is a flighty and changeable place. We've seen games disappear without trace, and thanks to Apple's constant upgrading of iOS, there's little chance that we're ever going to get to play those games again.
 
