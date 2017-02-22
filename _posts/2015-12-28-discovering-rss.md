@@ -12,7 +12,7 @@ Now I am aware that RSS is fairly ancient in terms of technologies, but it was n
 
 I discovered RSS after stumbled across a service called "[Feedly][feedly]". This is a simple RSS reader which allows the user to store and organise any number of RSS feeds to their account. The excellent app crawls each of the feeds and displays any new articles that have yet to be seen.
 <figure>
-	<img src="/images/2015/12/feedly1.PNG" width="254" alt="favicon" />
+	<img src="/images/2015/12/feedly1.PNG" width="254" />
 </figure>
 What this means is I can flick through new articles for websites in a fraction of the time that it would take me to browse through each of those websites individually. I don't find myself missing anything new from these sites now, and if there are too many articles to read they can go straight into Instapaper (Instapaper integration is built right in). 
 
