@@ -4,10 +4,9 @@
     	{% if post.link %}<h3><a href="{{ post.link }}">{{ post.title }}</a><span class="link-arrow">→</span></h3>{% else %}<h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>{% endif %}
     </div>
     
-    <span class="post-date">
-     	<time datetime="{{ post.date }}">{{ post.date | date: '%B %-d, %Y' }} | </time>
-    </span>
-    <span class="post-permalink">
-    	<a href="{{ post.url | prepend: site.baseurl }}">Permalink</a>
+    <span class="post-date-permalink">
+     	<a href="{{ post.url | prepend: site.baseurl }}">
+     		<time datetime="{{ post.date }}">{{ post.date | date: '%B %-d, %Y' }}</time>
+     	</a>
     </span>
 </header>

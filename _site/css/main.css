@@ -87,22 +87,15 @@ hr.separator
 	margin-bottom: -1em;
 }
 
-.post-date 
+.post-date-permalink  a:link, 
+.post-date-permalink  a:visited 
 {
 	display: inline-block;
 	color: #a3a1a1;
 	font-size: 11pt;
 }
 
-.post-permalink a:link, 
-.post-permalink a:visited 
-{
-	display: inline-block;
-	color: #a3a1a1;
-	font-size: 11pt;
-}
-
-.post-permalink a:hover 
+.post-date-permalink a:hover 
 {
 	text-decoration: underline;
 }
