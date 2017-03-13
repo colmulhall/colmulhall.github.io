@@ -73,6 +73,123 @@
   
 <header class="post-header">
     <div class="post-title">
+    	<h3><a href="/2016/04/15/bigfoot-footnotes/">Better footnotes with bigfoot.js </a></h3>
+    </div>
+    
+    <span class="post-date-permalink">
+     	<a href="/2016/04/15/bigfoot-footnotes/">
+     		<time datetime="2016-04-15 17:14:07 +0100">April 15, 2016</time>
+     	</a>
+    </span>
+</header>
+  <p>Chris Sauvé on why footnotes on the web are a pain:</p>
+
+<blockquote>
+  <p>Footnotes on the web are a pain in the ass. You click on a tiny number, get transported somewhere near the bottom of the page, find the footnote you were looking for, and click on a link to go back to where you were on the page.</p>
+</blockquote>
+
+<p>Chris created a solution to this problem in the form of a jQuery plugin called <a href="http://bigfootjs.com/">bigfoot</a>. Bigfoot allows you to click on a footnote and instead of getting pushed down to your footnote at the bottom of the page, you get a nice little pop up. <sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> I decided to implement these as part of <a href="http://www.colm.io/2016/04/04/what-needs-fixing">a todo list</a> which I am still working my way through. I’m not a heavy footnote user, but I’ve seen bigfoot used on enough websites now to know that I don’t want to go back to traditional footnotes.</p>
+
+<p>Camel, the engine which powers this blog, already supports footnotes thanks to <a href="https://www.caseyliss.com/2015/1/15/camel-changes">this</a> update last year. Luckily it’s fairly easy to implement bigfoot on top of this. The first step is to download the project from the <a href="http://bigfootjs.com/">website</a> into your Camel file system. Although they can be put together into one file I chose to separate the bigfoot CSS from my site CSS <sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup>:</p>
+
+<script src="https://gist.github.com/colmulhall/9f96de794d25282ee51651026a24699f.js"></script>
+
+<p>Next, I downloaded jQuery from the <a href="http://jquery.com/download/">official website</a>. Once it was downloaded I added it to my file system in a ‘js’ folder, along with the bigfoot resources. The last thing you need to do is add the following anywhere on the page to enable bigfoot:</p>
+
+<script src="https://gist.github.com/colmulhall/793a9eb42dcf426907d1140432bbc797.js"></script>
+
+<p>In order for bigfoot to work, you need to make sure that footnotes resemble something like this in your code:</p>
+
+<script src="https://gist.github.com/colmulhall/7e062bde8fd570488d6a4fce9a862fba.js"></script>
+
+<p>Luckily, Camel supports MultiMarkdown which displays footnotes like this. But if you are using a different engine/CMS this may be done differently.</p>
+
+<p>I had to do a <em>lot</em> of tweaking of the CSS to make the footnotes look how I wanted. <sup id="fnref:3"><a href="#fn:3" class="footnote">3</a></sup> Funnily enough that is what took me the longest to figure out, and it still isn’t perfect (CSS gradients are confusing). It’s also worth noting that there are several bigfoot <a href="http://bigfootjs.com/#options">options</a> available to you, each of which are detailed on the website. I wanted to retain the footnotes with anchor links as the bottom of my posts. To do this you can use the actionOriginalFN: “ignore” option. This does exactly what you would think in that it ignores any original footnote markup. This can be added to the bigfoot script tag:</p>
+
+<script src="https://gist.github.com/colmulhall/25d269afa815cf0fc5a291638d7ab658.js"></script>
+
+<p>And that’s it! This was an interesting exercise to undertake and I think it makes a big difference to the browsing experience on the website. I may revisit the CSS of the footnotes at a later stage but for now I am happy.</p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>Like this! <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:2">
+      <p>I changed the name of ‘bigfoot-default.css’ to ‘bigfoot.css’. <a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:3">
+      <p>Like a lot of things on this site, they are heavily influenced by <a href="https://marco.org/">Marco.org</a>. <a href="#fnref:3" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+</article>
+
+<hr class="separator">
+
+<article>
+  
+<header class="post-header">
+    <div class="post-title">
+    	<h3><a href="http://blog.instapaper.com/post/142296652536">Instaparser API</a><span class="link-arrow">→</span></h3>
+    </div>
+    
+    <span class="post-date-permalink">
+     	<a href="/2016/04/06/instaparser-api/">
+     		<time datetime="2016-04-06 17:14:07 +0100">April 6, 2016</time>
+     	</a>
+    </span>
+</header>
+  <p>Nice idea from Instapaper. Their web parser must be really impressive. I very rarely come across a website that it can’t parse for reading, and I save a <em>lot</em> of articles. Web design has moved on a lot in the last decade and the number of different languages and frameworks has grown to an almost comical <a href="https://en.wikipedia.org/wiki/Comparison_of_web_frameworks">number</a>, making this task harder and harder. When I was writing my final year project I wrote a fairly basic parser (<a href="https://github.com/colmulhall/FYP-Web-Coding">link</a>) which targeted a small number of websites for news and information on the Phoenix Park in Dublin. The headaches I had trying to parse relevant information even from these relatively simple websites were..painful. It makes sense from Instapapers perspective and everyone elses if they don’t have to write their own.</p>
+
+
+</article>
+
+<hr class="separator">
+
+<article>
+  
+<header class="post-header">
+    <div class="post-title">
+    	<h3><a href="/2016/04/04/what-needs-fixing/">What needs fixing on colm.io</a></h3>
+    </div>
+    
+    <span class="post-date-permalink">
+     	<a href="/2016/04/04/what-needs-fixing/">
+     		<time datetime="2016-04-04 17:14:07 +0100">April 4, 2016</time>
+     	</a>
+    </span>
+</header>
+  <p>I’ll eventually get around to fixing these issues with the site, but that day is not today:</p>
+
+<ul>
+  <li>
+    <s>'Older' and 'Newer' links between pages should be either side of the page, not together</s>
+  </li>
+  <li>
+    <s>Favicon needs updating to make it less crap</s>
+  </li>
+  <li>
+    <s>Support for [bigfoot][bgft] footnotes</s>
+  </li>
+  <li>Support for Safari Reader</li>
+  <li>Fix issue where RSS entries are duplicating</li>
+  <li>Unified font between different OS’s</li>
+  <li>Responsivness fix for small tablet sizes`</li>
+</ul>
+
+<p>It’s times like this that I’m glad I didn’t write the engine myself!</p>
+
+
+</article>
+
+<hr class="separator">
+
+<article>
+  
+<header class="post-header">
+    <div class="post-title">
     	<h3><a href="http://www.speirs.org/blog/2016/3/24/deployment-diary-ipad-pro-or-ipad-air-2">iPad Pro or iPad Air 2?</a><span class="link-arrow">→</span></h3>
     </div>
     
@@ -274,84 +391,6 @@ If we have the budget, we’ll go Pro. If not, I don’t think the Air 2 will be
 
 <p>When you think of the amount of information we store on our smartphones it makes no sense to allow any organisation access to personal information. It’s good to see this action being taken by Apple, and to see <a href="http://www.macworld.com/article/3034979/security/facebook-google-twitter-woz-trump-mcafee-snowden-and-more-take-sides-on-apple-vs-the-fbi.html">support from so many other big companies</a>.</p>
 
-
-</article>
-
-<hr class="separator">
-
-<article>
-  
-<header class="post-header">
-    <div class="post-title">
-    	<h3><a href="http://www.topgear.com/car-news/top-gear-tv/meet-your-new-top-gear-presenters">Meet your new Top Gear presenters!</a><span class="link-arrow">→</span></h3>
-    </div>
-    
-    <span class="post-date-permalink">
-     	<a href="/2016/02/11/meet-your-new-presenters/">
-     		<time datetime="2016-02-11 16:14:07 +0000">February 11, 2016</time>
-     	</a>
-    </span>
-</header>
-  <p><a href="http://www.colm.io/2016/2/6/matt-leblanc-joins-top-gear">Another</a> surprise announcement from Top Gear! We were expecting just one more new presenter to be announced to complete the trio, but now there’s <em>seven</em> (including The Stig)!</p>
-
-<p>I expected to see <a href="https://en.wikipedia.org/wiki/Sabine_Schmitz">Sabine Schmitz</a> in the lineup, and I think she’s a good choice. As a former racing driver herself she knows probably more about performance cars than anyone else in this lineup. Her other <a href="http://www.topgear.com/videos/sabine-schmitz-vs-jeremy-clarkson-part-12-series-6-episode-7">appearances</a> on Top Gear were entertaining and she comes across as a very likeable person.</p>
-
-<p>Eddie Jordan is an instantly recognizable face in Formula One. His knowledge can’t be questioned, but I am not sure how he will fare as a presenter.</p>
-
-<p>As for Chris Harris and Rory Reid, I can honestly say I have never heard of either of them. I can’t imagine that the BBC would hire people randomly for it’s <a href="http://www.theguardian.com/media/2015/mar/11/top-gear-bbc-jeremy-clarkson">biggest</a> show, so I’ve no worries about these guys.</p>
-
-<p>One thing is for sure - Top Gear as we know it is gone. The show looks like it will be a completely different breed than it was before. I can’t understand how people are getting so worked up about how they refuse to watch the new show as Clarkson, Hammond and May are not in it. The last two seasons of Top Gear showed that the producers were running out of ideas. It was a definite drop in quality from the previous years.</p>
-
-<p>I think the ‘fracas’ might end up being a good thing for everyone.</p>
-
-
-</article>
-
-<hr class="separator">
-
-<article>
-  
-<header class="post-header">
-    <div class="post-title">
-    	<h3><a href="/2016/02/09/bug/">Annoying bug</a></h3>
-    </div>
-    
-    <span class="post-date-permalink">
-     	<a href="/2016/02/09/bug/">
-     		<time datetime="2016-02-09 16:14:07 +0000">February 9, 2016</time>
-     	</a>
-    </span>
-</header>
-  <p>The most annoying bug on iOS right now (requires a restart):</p>
-
-<div class="center"><img src="/images/2016/2/annoying-bug.png" height="736" width="414=" alt="Annoying bug" /></div>
-
-</article>
-
-<hr class="separator">
-
-<article>
-  
-<header class="post-header">
-    <div class="post-title">
-    	<h3><a href="http://www.topgear.com/car-news/top-gear-tv/matt-leblanc-joins-top-gear">Matt LeBlanc joins Top Gear</a><span class="link-arrow">→</span></h3>
-    </div>
-    
-    <span class="post-date-permalink">
-     	<a href="/2016/02/06/matt-levlanc-joins-top-gear/">
-     		<time datetime="2016-02-06 16:14:07 +0000">February 6, 2016</time>
-     	</a>
-    </span>
-</header>
-  <p>Now that we know that Clarkson, Hammond and May will have a new show on Amazon Prime, I was a lot less worried about who will take over Top Gear.</p>
-
-<figure>
-<img src="/images/2016/2/joey-porsche.gif" alt="Joey and his Porsche" />
-</figure>
-
-<p>I wasn’t very surprised when news broke that Chris Evans was to be the new host, but news that Matt LeBlanc has joined the team comes as a real surprise.</p>
-
-<p>Having seen him as a guest on Top Gear before it is clear that he is a big petrol head.  And of course we all know him as Joey from Friends. In theory he’s the perfect person to add entertainment to a show which is as much known for it’s car reviews as its humour. What’s not to like?</p>
 
 </article>
 
