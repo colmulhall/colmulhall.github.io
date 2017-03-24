@@ -19,11 +19,11 @@
   <!-- Stylesheets --> 
   <link rel="stylesheet" type="text/css" href="/css/main.css">
   <link rel="stylesheet" type="text/css" href="/css/bigfoot.css">
+  <link rel="stylesheet" type="text/css" href="/css/prism.css"/>
 
-  <!-- jQuery -->
+  <!-- Scripts -->
   <script type="text/javascript" src="/js/jquery/jquery-2.2.3.min.js"></script>
-
-  <!-- Bigfoot Footnotes -->
+  <script type="text/javascript" src="/js/prism/prism.js"></script>
   <script type="text/javascript" src="/js/bigfoot/dist/bigfoot.min.js"></script>
   <script type="text/javascript">
       $.bigfoot({
@@ -90,21 +90,56 @@
 
 <p>Camel, the engine which powers this blog, already supports footnotes thanks to <a href="https://www.caseyliss.com/2015/1/15/camel-changes">this</a> update last year. Luckily it’s fairly easy to implement bigfoot on top of this. The first step is to download the project from the <a href="http://bigfootjs.com/">website</a> into your Camel file system. Although they can be put together into one file I chose to separate the bigfoot CSS from my site CSS <sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup>:</p>
 
-<script src="https://gist.github.com/colmulhall/9f96de794d25282ee51651026a24699f.js"></script>
+<pre>
+<code class="language-html">
+&lt;!-- Stylesheets --&gt; 
+&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/css/site.css&quot;&gt;
+&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/css/bigfoot.css&quot;
+</code>
+</pre>
 
 <p>Next, I downloaded jQuery from the <a href="http://jquery.com/download/">official website</a>. Once it was downloaded I added it to my file system in a ‘js’ folder, along with the bigfoot resources. The last thing you need to do is add the following anywhere on the page to enable bigfoot:</p>
 
-<script src="https://gist.github.com/colmulhall/793a9eb42dcf426907d1140432bbc797.js"></script>
+<pre>
+<code class="language-html">
+&lt;!-- jQuery --&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;/js/jquery/jquery-2.2.3.min.js&quot;&gt;&lt;/script&gt;
+
+&lt;!-- Bigfoot Footnotes --&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;/js/bigfoot/dist/bigfoot.min.js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+    $.bigfoot();
+&lt;/script&gt;
+</code>
+</pre>
 
 <p>In order for bigfoot to work, you need to make sure that footnotes resemble something like this in your code:</p>
 
-<script src="https://gist.github.com/colmulhall/7e062bde8fd570488d6a4fce9a862fba.js"></script>
+<pre>
+<code class="language-html">
+p&gt;
+    &lt;sup id=&quot;fnref:1&quot;&gt;
+        &lt;a href=&quot;#fn:1&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;
+    &lt;/sup&gt;
+&lt;/p&gt;
+</code>
+</pre>
 
 <p>Luckily, Camel supports MultiMarkdown which displays footnotes like this. But if you are using a different engine/CMS this may be done differently.</p>
 
 <p>I had to do a <em>lot</em> of tweaking of the CSS to make the footnotes look how I wanted. <sup id="fnref:3"><a href="#fn:3" class="footnote">3</a></sup> Funnily enough that is what took me the longest to figure out, and it still isn’t perfect (CSS gradients are confusing). It’s also worth noting that there are several bigfoot <a href="http://bigfootjs.com/#options">options</a> available to you, each of which are detailed on the website. I wanted to retain the footnotes with anchor links as the bottom of my posts. To do this you can use the actionOriginalFN: “ignore” option. This does exactly what you would think in that it ignores any original footnote markup. This can be added to the bigfoot script tag:</p>
 
-<script src="https://gist.github.com/colmulhall/25d269afa815cf0fc5a291638d7ab658.js"></script>
+<pre>
+<code class="language-html">
+ &lt;!-- Bigfoot Footnotes --&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;/js/bigfoot/dist/bigfoot.min.js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+    $.bigfoot({
+        actionOriginalFN: &quot;ignore&quot;
+    });
+&lt;/script&gt;
+</code>
+</pre>
 
 <p>And that’s it! This was an interesting exercise to undertake and I think it makes a big difference to the browsing experience on the website. I may revisit the CSS of the footnotes at a later stage but for now I am happy.</p>
 
