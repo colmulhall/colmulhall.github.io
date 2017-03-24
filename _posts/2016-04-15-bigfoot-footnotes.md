@@ -18,7 +18,7 @@ Camel, the engine which powers this blog, already supports footnotes thanks to [
 <code class="language-html">
 &lt;!-- Stylesheets --&gt; 
 &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/css/site.css&quot;&gt;
-&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/css/bigfoot.css&quot;
+&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/css/bigfoot.css&quot;&gt;
 </code>
 </pre>
 
@@ -42,7 +42,7 @@ In order for bigfoot to work, you need to make sure that footnotes resemble some
 
 <pre>
 <code class="language-html">
-p&gt;
+&lt;p&gt;
     &lt;sup id=&quot;fnref:1&quot;&gt;
         &lt;a href=&quot;#fn:1&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;
     &lt;/sup&gt;
