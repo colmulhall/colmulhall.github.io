@@ -14,4 +14,7 @@ John Gruber:
 
 There is far too much in this article to quote, but this is definitely good news for both casual and pro Mac users. Keep an eye out for the new episode of [ATP][atp] where I'm sure this will be covered in detail.
 
+UPDATE: [Here's a link to the episode][atp216].
+
 [atp]:http://atp.fm/
+[atp216]:http://atp.fm/episodes/216
