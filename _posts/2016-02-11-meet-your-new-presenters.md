@@ -19,7 +19,7 @@ One thing is for sure - Top Gear as we know it is gone. The show looks like it w
 
 I think the 'fracas' might end up being a good thing for everyone.
 
-[mlbtg]:http://www.colm.io/2016/2/6/matt-leblanc-joins-top-gear
+[mlbtg]:http://www.colm.io/2016/02/06/matt-leblanc-joins-top-gear
 [sabine]:https://en.wikipedia.org/wiki/Sabine_Schmitz
 [sstga]:http://www.topgear.com/videos/sabine-schmitz-vs-jeremy-clarkson-part-12-series-6-episode-7
 [bigtg]:http://www.theguardian.com/media/2015/mar/11/top-gear-bbc-jeremy-clarkson
