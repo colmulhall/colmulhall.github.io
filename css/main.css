@@ -216,9 +216,20 @@ figcaption
 }
 @media (max-width: 480px) {
 	#content {
-		width: 330px;
-		max-width: 330px;
-		min-width: 330px;
+		width: 320px;
+		max-width: 320px;
+		min-width: 320px;
+		}
+
+	.navigation {
+		font-size: 22px;
+	}
+}
+@media (max-width: 320px) {
+	#content {
+		width: 280px;
+		max-width: 280px;
+		min-width: 280px;
 		}
 
 	.navigation {
