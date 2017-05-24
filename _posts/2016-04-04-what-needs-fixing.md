@@ -10,12 +10,10 @@ I'll eventually get around to fixing these issues with the site, but that day is
 
 - <s>'Older' and 'Newer' links between pages should be either side of the page, not together</s>
 - <s>Favicon needs updating to make it less crap</s>
-- <s>Support for [bigfoot][bgft] footnotes</s>
+- <s>Support for Bigfoot footnotes</s>
 - Support for Safari Reader 
 - Fix issue where RSS entries are duplicating
 - Unified font between different OS's
 - Responsivness fix for small tablet sizes`
 
 It's times like this that I'm glad I didn't write the engine myself!  
-
-[bgft]:http://www.bigfootjs.com
