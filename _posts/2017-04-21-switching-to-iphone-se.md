@@ -17,4 +17,4 @@ Michael Tsai on his reasons for switching to an iPhone SE from an iPhone 6S:
 
 >The final area where the iPhone SE feels better is the buttons. The layout with the power button on the top just seems more natural and less confusing, and the volume buttons feel better and are easier to find by touch. There’s also no camera bump, although that’s less relevant since my iPhone 6s would lie flat in its case.
 
-I can see why someone would prefer the size of the 5/5S/5C/SE generation to the current sizes of iPhone, and I agree with what Michael has outined here. The only thing I would miss would be the screen size if I were to go back to an SE, but it's still nice to have the option to move back. Hopefully there will always be a place for a smaller phone in Apples lineup.
+I can see why someone would prefer the size of the 5/5S/5C/SE generation to the current sizes of iPhone, and I agree with what Michael has outined here. The only thing I would miss would be the screen size if I were to go back to an SE, but it's still nice to have the option to move back. Hopefully there will always be a place for a smaller phone in Apple's lineup.
