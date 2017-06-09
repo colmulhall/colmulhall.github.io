@@ -22,5 +22,5 @@ There doesn't seem to be a way to make this transition pain free, but lets hope 
 [^1]: The origins of the jack can be traced back as far as 1878! [This article][35mmhistory] explains its origins and how it became so prominent in technology over the following centuries. This isn't like changing from the 30-pin dock connector to the lightning port - it's a much bigger change, particularly for people who take their audio seriously.
 
 [nojack]:https://9to5mac.com/2015/11/27/iphone-7-headphone-jack-lightning/
-[earpods]:http://www.apple.com/ie/shop/product/MD827ZM/B/apple-earpods-with-remote-and-mic
+[earpods]:https://en.wikipedia.org/wiki/Apple_earbuds#Apple_EarPods
 [35mmhistory]:http://www.bbc.com/news/magazine-35253398
