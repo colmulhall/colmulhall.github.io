@@ -1,4 +1,38 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-06-08T17:11:24+01:00</updated><id>http://localhost:4000//</id><title type="html">Colm.io</title><subtitle>Colm Mulhall's personal blog about things that interest him.</subtitle><author><name>Colm Mulhall</name></author><entry><title type="html">Turn it up to 11</title><link href="http://localhost:4000/2017/06/08/ios-11/" rel="alternate" type="text/html" title="Turn it up to 11" /><published>2017-06-08T17:10:00+01:00</published><updated>2017-06-08T17:10:00+01:00</updated><id>http://localhost:4000/2017/06/08/ios-11</id><content type="html" xml:base="http://localhost:4000/2017/06/08/ios-11/">&lt;p&gt;You have to hand it to Apple. This has been their best year yet - by a comfortable margin - when it comes to keeping leaks to a minimum. Previous years, we have basically known each and every new feature of iOS with maybe one or two reasonably big surprises. It’s testament to the MacStories team (and Apple) that their &lt;a href=&quot;https://www.macstories.net/stories/ios-11-ipad-wishes-and-concept-video/&quot;&gt;concept video&lt;/a&gt; of iOS 11 on iPad has proved to be the most accurate pre-WWDC article regarding iOS 11.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-06-26T17:17:34+01:00</updated><id>http://localhost:4000//</id><title type="html">Colm.io</title><subtitle>Colm Mulhall's personal blog about things that interest him.</subtitle><author><name>Colm Mulhall</name></author><entry><title type="html">App sizes</title><link href="http://localhost:4000/2017/06/26/app-sizes/" rel="alternate" type="text/html" title="App sizes" /><published>2017-06-26T17:17:00+01:00</published><updated>2017-06-26T17:17:00+01:00</updated><id>http://localhost:4000/2017/06/26/app-sizes</id><content type="html" xml:base="http://localhost:4000/2017/06/26/app-sizes/">&lt;p&gt;There have been a few articles floating around recently highlighting the increases in app size over the past few years. &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; In another article around the issue, Matt Birchler done some investigating by looking into the app sizes as displayed in the App Store vs. the actual download performed during an update:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;There is quite a range between an app’s advertised size and how much data is actually transferred when you update said app. Twitter had the largest discrepancy, showing 122 MB as the app size, but downloading less than 1 MB to perform its update. Clearly the update Twitter rolled out had more impact from delta updates to thin out their update size, and the same is true of Target and Nokia Health Mate, both of which are around 100 MB total, but each downloaded just over 1 MB for their updates.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;He further singles out Facebook as a culprit for large updates:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The Facebook app is advertised as being a whopping 251 MB app, and I don’t know what the update size is, but it was over 100 MB. Has Facebook changed so much in the past 3 days since an update that it needed to replace over 40% of its code?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Facebook bring updates to their app at least once every fortnight, complete with highly informative release notes:&lt;/p&gt;
+
+&lt;center&gt;
+	&lt;img src=&quot;/images/2017/6/Facebook-app-update.png&quot; alt=&quot;Facebook app release notes&quot; class=&quot;image-single&quot; /&gt;
+	&lt;figcaption&gt;Would it kill Facebook to put a bit more effort into these?&lt;/figcaption&gt;
+&lt;/center&gt;
+
+&lt;p&gt;If apps continue this trend of eating memory, then the &lt;a href=&quot;https://david-smith.org/blog/2015/09/10/16gb-is-a-bad-user-experience/&quot;&gt;long awaited&lt;/a&gt; increase in base storage size on our devices will soon hit a new wall. Not to mention the data usage behind all of this. If you don’t have an unlimited internet plan then forget it - updating your apps these days means you very likely have a few hundred megabytes to download, and it’s the most popular social networks that are the biggest culprits.&lt;/p&gt;
+
+&lt;p&gt;Whatever the solution to this problem is, be it delta updates, app thinning or something even more clever, I hope it’s on the horizon sooner rather than later.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Most notably, &lt;a href=&quot;https://daringfireball.net/linked/2017/06/22/darke-bad-app-citizens&quot;&gt;these&lt;/a&gt; &lt;a href=&quot;https://daringfireball.net/linked/2017/06/22/sandofsky-app-bloat&quot;&gt;two&lt;/a&gt; on Daring Fireball, and &lt;a href=&quot;https://sensortower.com/blog/ios-app-size-growth&quot;&gt;this&lt;/a&gt; one from Sensor Tower. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Colm Mulhall</name></author><category term="Apple" /><category term="app" /><category term="size" /><summary type="html">There have been a few articles floating around recently highlighting the increases in app size over the past few years. 1 In another article around the issue, Matt Birchler done some investigating by looking into the app sizes as displayed in the App Store vs. the actual download performed during an update:
+
+
+  
+    
+      Most notably, these two on Daring Fireball, and this one from Sensor Tower. &amp;#8617;</summary></entry><entry><title type="html">Turn it up to 11</title><link href="http://localhost:4000/2017/06/08/ios-11/" rel="alternate" type="text/html" title="Turn it up to 11" /><published>2017-06-08T17:10:00+01:00</published><updated>2017-06-08T17:10:00+01:00</updated><id>http://localhost:4000/2017/06/08/ios-11</id><content type="html" xml:base="http://localhost:4000/2017/06/08/ios-11/">&lt;p&gt;You have to hand it to Apple. This has been their best year yet - by a comfortable margin - when it comes to keeping leaks to a minimum. Previous years, we have basically known each and every new feature of iOS with maybe one or two reasonably big surprises. It’s testament to the MacStories team (and Apple) that their &lt;a href=&quot;https://www.macstories.net/stories/ios-11-ipad-wishes-and-concept-video/&quot;&gt;concept video&lt;/a&gt; of iOS 11 on iPad has proved to be the most accurate pre-WWDC article regarding iOS 11.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Control Center&lt;/strong&gt; has finally got the update that we’ve all been &lt;a href=&quot;http://colm.io/2016/01/28/the-case-against-control-center/&quot;&gt;waiting&lt;/a&gt; &lt;a href=&quot;http://colm.io/2016/02/29/control-center-concept/&quot;&gt;for&lt;/a&gt;: customization. For me, this is the biggest change that iOS 11 will bring to iPhone; in what is clearly an iPad focused update.&lt;/p&gt;
 
@@ -128,16 +162,4 @@
 
   Let’s not beat around the bush. I have great news to share:
 
-  Apple is currently hard at work on a “completely rethought” Mac Pro, with a modular design that can accommodate high-end CPUs and big honking hot-running GPUs, and which should make it easier for Apple to update with new components on a regular basis. They’re also working on Apple-branded pro displays to go with them.</summary></entry><entry><title type="html">iPad naming conventions</title><link href="http://localhost:4000/2017/03/22/ipad-naming/" rel="alternate" type="text/html" title="iPad naming conventions" /><published>2017-03-22T08:40:00+00:00</published><updated>2017-03-22T08:40:00+00:00</updated><id>http://localhost:4000/2017/03/22/ipad-naming</id><content type="html" xml:base="http://localhost:4000/2017/03/22/ipad-naming/">&lt;p&gt;Just like the iPhone, the iPad has never had naming conventions that have made much sense. The &lt;a href=&quot;https://512pixels.net/2017/03/on-that-new-ipad-2/&quot;&gt;latest release&lt;/a&gt; just further confuses things:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;iPad&lt;/li&gt;
-  &lt;li&gt;iPad 2&lt;/li&gt;
-  &lt;li&gt;The new iPad (with Retina display, 3rd generation)&lt;/li&gt;
-  &lt;li&gt;The new iPad (with Retina display, 4th generation)&lt;/li&gt;
-  &lt;li&gt;iPad Air&lt;/li&gt;
-  &lt;li&gt;iPad Air 2&lt;/li&gt;
-  &lt;li&gt;iPad&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Not confusing at all. And strangely seems to have just worked its way back to the original naming.&lt;/p&gt;</content><author><name>Colm Mulhall</name></author><category term="Apple" /><category term="ipad" /><category term="naming" /><summary type="html">Just like the iPhone, the iPad has never had naming conventions that have made much sense. The latest release just further confuses things:</summary></entry></feed>
+  Apple is currently hard at work on a “completely rethought” Mac Pro, with a modular design that can accommodate high-end CPUs and big honking hot-running GPUs, and which should make it easier for Apple to update with new components on a regular basis. They’re also working on Apple-branded pro displays to go with them.</summary></entry></feed>

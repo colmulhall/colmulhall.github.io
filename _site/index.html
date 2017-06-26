@@ -73,51 +73,93 @@
   
 <header class="post-header">
     <div class="post-title">
-    	<h3><a href="/2017/06/08/ios-11/">Turn it up to 11</a></h3>
+    	<h3><a href="https://birchtree.me/blog/the-apps-are-too-damn-big/">App sizes</a><span class="link-arrow">→</span></h3>
     </div>
     
     <span class="post-date-permalink">
-     	<a href="/2017/06/08/ios-11/">
-     		<time datetime="2017-06-08 17:10:00 +0100">June 8, 2017</time>
+     	<a href="/2017/06/26/app-sizes/">
+     		<time datetime="2017-06-26 17:17:00 +0100">June 26, 2017</time>
      	</a>
     </span>
 </header>
-  <p>You have to hand it to Apple. This has been their best year yet - by a comfortable margin - when it comes to keeping leaks to a minimum. Previous years, we have basically known each and every new feature of iOS with maybe one or two reasonably big surprises. It’s testament to the MacStories team (and Apple) that their <a href="https://www.macstories.net/stories/ios-11-ipad-wishes-and-concept-video/">concept video</a> of iOS 11 on iPad has proved to be the most accurate pre-WWDC article regarding iOS 11.</p>
+  <p>There have been a few articles floating around recently highlighting the increases in app size over the past few years. <sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> In another article around the issue, Matt Birchler done some investigating by looking into the app sizes as displayed in the App Store vs. the actual download performed during an update:</p>
 
-<p><strong>Control Center</strong> has finally got the update that we’ve all been <a href="http://colm.io/2016/01/28/the-case-against-control-center/">waiting</a> <a href="http://colm.io/2016/02/29/control-center-concept/">for</a>: customization. For me, this is the biggest change that iOS 11 will bring to iPhone; in what is clearly an iPad focused update.</p>
+<blockquote>
+  <p>There is quite a range between an app’s advertised size and how much data is actually transferred when you update said app. Twitter had the largest discrepancy, showing 122 MB as the app size, but downloading less than 1 MB to perform its update. Clearly the update Twitter rolled out had more impact from delta updates to thin out their update size, and the same is true of Target and Nokia Health Mate, both of which are around 100 MB total, but each downloaded just over 1 MB for their updates.</p>
+</blockquote>
 
-<center>
-	<img src="/images/2017/6/Control-Center-iOS-11.png" alt="iOS 11 Control Center" class="image-single" />
-</center>
+<p>He further singles out Facebook as a culprit for large updates:</p>
 
-<p>Control Center has been crying out for an update like this since it was introduced in iOS 7 and I’m glad to see it here. The jury is still out on the design, but I’m sure it’s only a matter of getting used to it. Plus - there’s more than likely going to be a few revisions of this over the summer in the beta run.</p>
+<blockquote>
+  <p>The Facebook app is advertised as being a whopping 251 MB app, and I don’t know what the update size is, but it was over 100 MB. Has Facebook changed so much in the past 3 days since an update that it needed to replace over 40% of its code?</p>
+</blockquote>
 
-<p>Another change of note is a new “Do Not Disturb While Driving” mode which operates similarly to the current Do Not Disturb mode by silencing notifications and keeping the screen from waking, but also can send a message automatically to someone to let them know you can’t reply right now, and uses Bluetooth and Wi-Fi to detect when you are driving.</p>
-
-<p>Add in some design changes to apps, most notably the App Store, Minor Siri improvements and Photos enhancements, and you have a relatively small feature update to iPhone.</p>
-
-<p>The real winner this year is iPad, thanks to three main features: Files, Dock and Drag &amp; Drop.</p>
-
-<h3 id="dock--multitasking">Dock &amp; Multitasking</h3>
+<p>Facebook bring updates to their app at least once every fortnight, complete with highly informative release notes:</p>
 
 <center>
-	<img src="/images/2017/6/ios-11-ipad-app-switcher.png" alt="iOS 11 App Switcher" class="image-single" />
+	<img src="/images/2017/6/Facebook-app-update.png" alt="Facebook app release notes" class="image-single" />
+	<figcaption>Would it kill Facebook to put a bit more effort into these?</figcaption>
 </center>
 
-<p>This works similar to the dock on macOS. Apps and folders can be added in any order, and interestingly don’t show their names once in the dock. A swipe up from any screen reveals the dock, where you can quickly jump between apps in an instant, not unlike alt-tab/command-tab. Drag an app from the dock and it will allow you to use it in its own window, or drag further to snap to either side of the screen.</p>
+<p>If apps continue this trend of eating memory, then the <a href="https://david-smith.org/blog/2015/09/10/16gb-is-a-bad-user-experience/">long awaited</a> increase in base storage size on our devices will soon hit a new wall. Not to mention the data usage behind all of this. If you don’t have an unlimited internet plan then forget it - updating your apps these days means you very likely have a few hundred megabytes to download, and it’s the most popular social networks that are the biggest culprits.</p>
 
-<p>Drag up further from the dock to enter the new multitasking screen, which bears a strong resemblance to Mission Control on macOS. Apps can be grouped together and selected from this screen, similar to Spaces on macOS (noticing a theme here?). Control Center is also accessible from this screen.</p>
+<p>Whatever the solution to this problem is, be it delta updates, app thinning or something even more clever, I hope it’s on the horizon sooner rather than later.</p>
 
-<h3 id="files--dragdrop">Files &amp; Drag/Drop</h3>
-<p>You might laugh when you see that one of the biggest changes that people are talking about with iOS 11 is the addition of a file system, but the situation with files on iOS prior to this was so bad that deserves every bit of the spotlight as all of the other new features. The new “Files” app works just as you’d expect it to. Files can be managed into folders, can be tagged, moved and organized any way that you want. Cloud services such as Dropbox can also be accessed here just like on a PC or Mac.</p>
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>Most notably, <a href="https://daringfireball.net/linked/2017/06/22/darke-bad-app-citizens">these</a> <a href="https://daringfireball.net/linked/2017/06/22/sandofsky-app-bloat">two</a> on Daring Fireball, and <a href="https://sensortower.com/blog/ios-app-size-growth">this</a> one from Sensor Tower. <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
 
-<p>Drag and Drop again works just as you would expect. You can now drag links, text, photos and videos and drop them into another application. What used to be an awkward - sometimes impossible task - on iOS, is now even more natural than what we have been using all this time on our computers.</p>
+</article>
 
-<h3 id="the-year-of-ipad">The year of iPad</h3>
-<p>It’s interesting that the majority of the big features added for iPad this year are basically a rehash of features that have been on our computers for years, if not decades. I see no issue with that. The original vision for the iPad was to be the ultimate portable consumption device. A lot has changed in the past 8 odd years, and people are demanding more of the iPad.</p>
+<hr class="separator">
 
-<p>As more and more professional features and applications come to iPad, it’s suddenly becoming a lot easier to see the argument that the iPad is the future of computing.</p>
+<article>
+  
+<header class="post-header">
+    <div class="post-title">
+    	<h3><a href="https://birchtree.me/blog/the-apps-are-too-damn-big/">App sizes</a><span class="link-arrow">→</span></h3>
+    </div>
+    
+    <span class="post-date-permalink">
+     	<a href="/2017/06/26/app-sizes/">
+     		<time datetime="2017-06-26 15:20:00 +0100">June 26, 2017</time>
+     	</a>
+    </span>
+</header>
+  <p>There have been a few articles floating around recently highlighting the increases in app size over the past few years. <sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> In another article around the issue, Matt Birchler done some investigating by looking into the app sizes as displayed in the App Store vs. the actual download performed during an update:</p>
 
+<blockquote>
+  <p>There is quite a range between an app’s advertised size and how much data is actually transferred when you update said app. Twitter had the largest discrepancy, showing 122 MB as the app size, but downloading less than 1 MB to perform its update. Clearly the update Twitter rolled out had more impact from delta updates to thin out their update size, and the same is true of Target and Nokia Health Mate, both of which are around 100 MB total, but each downloaded just over 1 MB for their updates.</p>
+</blockquote>
+
+<p>He further singles out Facebook as a culprit for large updates:</p>
+
+<blockquote>
+  <p>The Facebook app is advertised as being a whopping 251 MB app, and I don’t know what the update size is, but it was over 100 MB. Has Facebook changed so much in the past 3 days since an update that it needed to replace over 40% of its code?</p>
+</blockquote>
+
+<p>Facebook bring updates to their app at least once every fortnight, complete with highly informative release notes:</p>
+
+<center>
+	<img src="/images/2017/6/Facebook-app-update.png" alt="Facebook app release notes" class="image-single" />
+	<figcaption>Would it kill Facebook to put a bit more effort into these?</figcaption>
+</center>
+
+<p>If apps continue this trend of eating memory, then the <a href="https://david-smith.org/blog/2015/09/10/16gb-is-a-bad-user-experience/">long awaited</a> increase in base storage size on our devices will soon hit a new wall. Not to mention the data usage behind all of this. If you don’t have an unlimited internet plan then forget it - updating your apps these days means you very likely have a few hundred megabytes to download, and it’s the most popular social networks that are the biggest culprits.</p>
+
+<p>Whatever the solution to this problem is, be it delta updates, app thinning or something even more clever, I hope it’s on the horizon sooner rather than later.</p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>Most notably, <a href="https://daringfireball.net/linked/2017/06/22/darke-bad-app-citizens">these</a> <a href="https://daringfireball.net/linked/2017/06/22/sandofsky-app-bloat">two</a> on Daring Fireball, and <a href="https://sensortower.com/blog/ios-app-size-growth">this</a> one from Sensor Tower. <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
 
 </article>
 
@@ -393,38 +435,6 @@
 <p>There is far too much in this article to quote, but this is definitely good news for both casual and pro Mac users. Keep an eye out for the new episode of <a href="http://atp.fm/">ATP</a> where I’m sure this will be covered in detail.</p>
 
 <p>UPDATE: <a href="http://atp.fm/episodes/216">Here’s a link to the episode</a>.</p>
-
-
-</article>
-
-<hr class="separator">
-
-<article>
-  
-<header class="post-header">
-    <div class="post-title">
-    	<h3><a href="/2017/03/22/ipad-naming/">iPad naming conventions</a></h3>
-    </div>
-    
-    <span class="post-date-permalink">
-     	<a href="/2017/03/22/ipad-naming/">
-     		<time datetime="2017-03-22 08:40:00 +0000">March 22, 2017</time>
-     	</a>
-    </span>
-</header>
-  <p>Just like the iPhone, the iPad has never had naming conventions that have made much sense. The <a href="https://512pixels.net/2017/03/on-that-new-ipad-2/">latest release</a> just further confuses things:</p>
-
-<ul>
-  <li>iPad</li>
-  <li>iPad 2</li>
-  <li>The new iPad (with Retina display, 3rd generation)</li>
-  <li>The new iPad (with Retina display, 4th generation)</li>
-  <li>iPad Air</li>
-  <li>iPad Air 2</li>
-  <li>iPad</li>
-</ul>
-
-<p>Not confusing at all. And strangely seems to have just worked its way back to the original naming.</p>
 
 
 </article>
