@@ -13,4 +13,4 @@ tags: [hack]
 
 >At first, I thought I’d have to remove the feature in iOS 7, until one fateful afternoon (while taking a shower, of course) I had the insight that I might be able to work around this. My realization was that the numbers were getting truncated based on their displayed width and not their digit count. Thus a number with a lot of 1s in it would not get truncated because the 1s are so thin, whereas a number with a lot of 4s in it would be truncated because they render much wider.
 
-Cool little hack. And there's something comforting about knowing that even the most experienced developers sometimes use hacks like these to get their work done!
+Cool little hack. There's something comforting about knowing that even the most experienced developers sometimes use hacks like these to get their work done!
