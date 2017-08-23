@@ -6,6 +6,6 @@ date:   2016-6-20 17:14:07 +0100
 category: Entertainment
 tags: [harry, eastwood]
 ---
-<p><img src="/images/2017/scorpio.png" alt="Scorpio - Dirty Harry" class="image-single" /></p>
+<p><img src="/images/2017/8/scorpio.png" alt="Scorpio - Dirty Harry" class="image-single" /></p>
 
 "Row, row, row your boat gently down the stream.."
