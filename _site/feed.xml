@@ -1,4 +1,40 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-07-14T22:15:45+01:00</updated><id>http://localhost:4000//</id><title type="html">Colm.io</title><subtitle>Colm Mulhall's personal blog about things that interest him.</subtitle><author><name>Colm Mulhall</name></author><entry><title type="html">A favorite hack</title><link href="http://localhost:4000/2017/07/08/a-favorite-hack/" rel="alternate" type="text/html" title="A favorite hack" /><published>2017-07-08T13:50:00+01:00</published><updated>2017-07-08T13:50:00+01:00</updated><id>http://localhost:4000/2017/07/08/a-favorite-hack</id><content type="html" xml:base="http://localhost:4000/2017/07/08/a-favorite-hack/">&lt;p&gt;‘Underscore’ David Smith:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-08-24T17:18:40+01:00</updated><id>http://localhost:4000//</id><title type="html">Colm.io</title><subtitle>Colm Mulhall's personal blog about things that interest him.</subtitle><author><name>Colm Mulhall</name></author><entry><title type="html">Apple discontinues the iPod nano and iPod shuffle</title><link href="http://localhost:4000/2017/08/01/apple-discontinues-nano-shuffle/" rel="alternate" type="text/html" title="Apple discontinues the iPod nano and iPod shuffle" /><published>2017-08-01T11:10:00+01:00</published><updated>2017-08-01T11:10:00+01:00</updated><id>http://localhost:4000/2017/08/01/apple-discontinues-nano-shuffle</id><content type="html" xml:base="http://localhost:4000/2017/08/01/apple-discontinues-nano-shuffle/">&lt;p&gt;Apple silently discontinued the &lt;a href=&quot;https://en.wikipedia.org/wiki/IPod_Nano&quot;&gt;iPod nano&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/IPod_Shuffle&quot;&gt;iPod shuffle&lt;/a&gt; a few days ago. Although not entirely surprising &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; , it’s still worth noting the significance of this.&lt;/p&gt;
+
+&lt;p&gt;The nano was, and still is an excellent device. I &lt;a href=&quot;http://colm.io/2016/01/18/ipod-nano-first-gen/&quot;&gt;still have&lt;/a&gt; a first generation one at home which despite being over eleven years old, wouldn’t look out of place today.&lt;/p&gt;
+
+&lt;p&gt;The shuffle is interesting in that it was the only music player in Apple’s lineup that was truly great for exercise. Until the Apple Watch fulfills a better role in health and fitness, there really isn’t any device now in the lineup that is portable and light enough to be comfortable to wear while running or in the gym.&lt;/p&gt;
+
+&lt;p&gt;The iPod touch hangs on as the last link to the iPod brand - but it’s unlikely to see any more significant updates as it slowly fades into history.&lt;/p&gt;
+
+&lt;p&gt;For all the nostalgia and admiration for these devices however, there is no getting away from the fact that the world has long moved on from the notion of syncing music to a device using a computer, and that is really what killed these iPods.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;The nano has not seen an update since 2012, while the last update to the shuffle dates back to 2010. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Colm Mulhall</name></author><category term="apple" /><category term="ipod" /><category term="nano" /><category term="shuffle" /><summary type="html">Apple silently discontinued the iPod nano and iPod shuffle a few days ago. Although not entirely surprising 1 , it’s still worth noting the significance of this.
+
+
+  
+    
+      The nano has not seen an update since 2012, while the last update to the shuffle dates back to 2010. &amp;#8617;</summary></entry><entry><title type="html">How Apple created Nintendo’s best console</title><link href="http://localhost:4000/2017/07/21/ios-gaming/" rel="alternate" type="text/html" title="How Apple created Nintendo’s best console" /><published>2017-07-21T15:55:00+01:00</published><updated>2017-07-21T15:55:00+01:00</updated><id>http://localhost:4000/2017/07/21/ios-gaming</id><content type="html" xml:base="http://localhost:4000/2017/07/21/ios-gaming/">&lt;p&gt;Dan Masters:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Apple has always had a rocky relationship with gaming. They have historically paid little attention to gaming — most notably on the Mac. However, post-iPhone they demonstrated an apparent newfound commitment to games by seemingly devoting significant resources and attention to it each year.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;However, this would turn out to be a mirage, as they iterated very little and hardly encouraged developer adoption — instead taking the “Build it and they’ll come because we’re Apple” approach.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Gaming is an area that Apple have gone backwards in on iOS. In the early days of the App Store, games were more ambitious and increasingly got more in line with console games. Compare that to today, where casual fremium games dominate the top grossing charts, and it’s clear to see that the App Store hasn’t become the thriving gaming platform to rival consoles that would be suggested all those years back.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Game_Center&quot;&gt;Game Center&lt;/a&gt; is something that I was excited about when it was first released. The idea of having a rival to PSN and Xbox Live was on iOS showed that Apple were serious about iOS as a gaming platform. Save for one update, Game Center never got any real attention from Apple and it has slowly but surely slid into obscurity.&lt;/p&gt;
+
+&lt;p&gt;iPhones and iPads have become real computing powerhouses. Imagine what a gaming company could produce if they could justify spending big money on a project for mobile platforms. I hope that the addition of &lt;a href=&quot;https://developer.apple.com/arkit/&quot;&gt;ARKit&lt;/a&gt; which was announced at WWDC, points towards a revival of gaming on iOS.&lt;/p&gt;</content><author><name>Colm Mulhall</name></author><category term="gaming" /><category term="apple" /><category term="nintendo" /><category term="game center" /><summary type="html">Dan Masters:
+
+  Apple has always had a rocky relationship with gaming. They have historically paid little attention to gaming — most notably on the Mac. However, post-iPhone they demonstrated an apparent newfound commitment to games by seemingly devoting significant resources and attention to it each year.</summary></entry><entry><title type="html">A favorite hack</title><link href="http://localhost:4000/2017/07/08/a-favorite-hack/" rel="alternate" type="text/html" title="A favorite hack" /><published>2017-07-08T13:50:00+01:00</published><updated>2017-07-08T13:50:00+01:00</updated><id>http://localhost:4000/2017/07/08/a-favorite-hack</id><content type="html" xml:base="http://localhost:4000/2017/07/08/a-favorite-hack/">&lt;p&gt;‘Underscore’ David Smith:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;First, the back story. During the introduction of iOS 7 one of the random side effects of the wide reaching changes to the iOS user interface was that app icon badges started to get truncated whenever they got above 4 digits long.&lt;/p&gt;
@@ -128,29 +164,4 @@
       &lt;p&gt;My only issue with the above is the opinion that the 9.7 inch model is about as practical as your laptop when outside. Having travelled with one many times, it’s &lt;em&gt;far&lt;/em&gt; more practical than a laptop in terms of size and weight. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Colm Mulhall</name></author><category term="Apple" /><category term="ipad" /><category term="mini" /><summary type="html">There are a lot of reports recently suggesting that Apple are ready to phase out the iPad Mini. While I’ve not personally owned one, I think it would be a shame to see it go. Writing on Mashable, Stan Schroeder outlines his appreciation of the Mini:</summary></entry><entry><title type="html">Apple’s Siri speaker could be announced at WWDC in June</title><link href="http://localhost:4000/2017/05/04/siri-speaker/" rel="alternate" type="text/html" title="Apple’s Siri speaker could be announced at WWDC in June" /><published>2017-05-04T11:46:00+01:00</published><updated>2017-05-04T11:46:00+01:00</updated><id>http://localhost:4000/2017/05/04/siri-speaker</id><content type="html" xml:base="http://localhost:4000/2017/05/04/siri-speaker/">&lt;p&gt;The Verge:&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Apple could announce its rival to the Amazon Echo at the iPhone-maker’s developer conference this June. Noted Apple analyst Ming-Chi Kuo made the prediction (via &lt;a href=&quot;https://9to5mac.com/2017/05/01/siri-speaker-kgi-wwdc-home-ai/&quot;&gt;9to5Mac&lt;/a&gt;), stating that the product will be a high-end speaker with built-in Siri. Apple will reportedly market the device as having superior sound quality and computing power to the Echo and Google Home, with the product set to sell for a similarly premium price-tag.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I’ve no doubt that Apple can pull off a great looking and sounding smart speaker, but before it does that Siri itself needs to get a whole lot smarter.&lt;/p&gt;</content><author><name>Colm Mulhall</name></author><category term="Apple" /><category term="siri" /><category term="speaker" /><summary type="html">The Verge:
-
-  Apple could announce its rival to the Amazon Echo at the iPhone-maker’s developer conference this June. Noted Apple analyst Ming-Chi Kuo made the prediction (via 9to5Mac), stating that the product will be a high-end speaker with built-in Siri. Apple will reportedly market the device as having superior sound quality and computing power to the Echo and Google Home, with the product set to sell for a similarly premium price-tag.</summary></entry><entry><title type="html">Switching to an iPhone SE</title><link href="http://localhost:4000/2017/04/21/switching-to-iphone-se/" rel="alternate" type="text/html" title="Switching to an iPhone SE" /><published>2017-04-21T11:11:00+01:00</published><updated>2017-04-21T11:11:00+01:00</updated><id>http://localhost:4000/2017/04/21/switching-to-iphone-se</id><content type="html" xml:base="http://localhost:4000/2017/04/21/switching-to-iphone-se/">&lt;p&gt;Michael Tsai on his reasons for switching to an iPhone SE from an iPhone 6S:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The iPhone SE is much more comfortable in the hand, and especially in the pocket. Sometimes when walking or sitting I find myself checking with my finger to make sure that it’s actually in my pocket—that I didn’t leave it somewhere.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;..the SE’s less slippery and sharp shape means that I can use it without a case.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The other big difference is that it’s much easier to reach the upper corners of the 4-inch screen one-handed. Again, I got used to the iPhone 6s, but I didn’t realize how much shimmying I was doing until I no longer needed to.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The final area where the iPhone SE feels better is the buttons. The layout with the power button on the top just seems more natural and less confusing, and the volume buttons feel better and are easier to find by touch. There’s also no camera bump, although that’s less relevant since my iPhone 6s would lie flat in its case.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I can see why someone would prefer the size of the 5/5S/5C/SE generation to the current sizes of iPhone, and I agree with what Michael has outined here. The only thing I would miss would be the screen size if I were to go back to an SE, but it’s still nice to have the option to move back. Hopefully there will always be a place for a smaller phone in Apple’s lineup.&lt;/p&gt;</content><author><name>Colm Mulhall</name></author><category term="Apple" /><category term="iphone" /><category term="screen" /><summary type="html">Michael Tsai on his reasons for switching to an iPhone SE from an iPhone 6S:</summary></entry></feed>
+&lt;/div&gt;</content><author><name>Colm Mulhall</name></author><category term="Apple" /><category term="ipad" /><category term="mini" /><summary type="html">There are a lot of reports recently suggesting that Apple are ready to phase out the iPad Mini. While I’ve not personally owned one, I think it would be a shame to see it go. Writing on Mashable, Stan Schroeder outlines his appreciation of the Mini:</summary></entry></feed>

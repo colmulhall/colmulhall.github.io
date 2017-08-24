@@ -73,6 +73,82 @@
   
 <header class="post-header">
     <div class="post-title">
+    	<h3><a href="http://mattgemmell.com/lifting-the-mouse/">Lifting the mouse</a><span class="link-arrow">→</span></h3>
+    </div>
+    
+    <span class="post-date-permalink">
+     	<a href="/2016/11/16/lifting-the-mouse/">
+     		<time datetime="2016-11-16 14:22:00 +0000">November 16, 2016</time>
+     	</a>
+    </span>
+</header>
+  <p>Matt Gemmell:</p>
+
+<blockquote>
+  <p>But there’s also another way. And don’t pretend that you can’t see the writing on the wall. The Mac, and the traditional desktop computing paradigm, is dying. I think Apple wants it to die, rightly so. And most normal people don’t even care. In a generation, they’ll barely remember. That’s a sobering thought.</p>
+</blockquote>
+
+<blockquote>
+  <p>I have a strong feeling about which way the wind is blowing, figuratively speaking, and I’m not going to wait until my hand is forced; I’m jumping now. Because I have the luxury of being able to, and because I think this is what I’ve wanted since before I was a writer, and before I was a software engineer previously, and before I knew how to use a pointing device despite already having ten of them. Since before anyone ever told me I should.</p>
+</blockquote>
+
+<p>Probably the best justification of a tablet over a PC that I have read. Matts theory on the fate of PCs over the next few years is a bit depressing, but hard to argue with.</p>
+
+</article>
+
+<hr class="separator">
+
+<article>
+  
+<header class="post-header">
+    <div class="post-title">
+    	<h3><a href="/2016/11/11/camel-to-jekyll/">Camel to Jekyll</a></h3>
+    </div>
+    
+    <span class="post-date-permalink">
+     	<a href="/2016/11/11/camel-to-jekyll/">
+     		<time datetime="2016-11-11 11:33:00 +0000">November 11, 2016</time>
+     	</a>
+    </span>
+</header>
+  <p>When I created this website last year, I decided that I wanted to have more control over how the content gets generated and how the site looked. I went with a blogging engine called ‘<a href="https://github.com/cliss/camel">Camel</a>’, developed by Casey Liss<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>. This allowed me to get my hands dirty with some web development without having to dive in completely at the deep end. Eleven months on, and a few enhancements later however - I wanted something different.</p>
+
+<h3 id="problems-with-camel">Problems with Camel</h3>
+<p>Camel is a small, open source project that was developed to fit the needs of it’s developer. It’s fine to use as long as your needs remain the same as Caseys, but if you want to stray away from the master branch of that project you are accepting a responsibility to keeping the engine running smoothly if any of its (many) dependencies change or are discontinued.</p>
+
+<p>And there lies the problem I had with it. A relatively simple task like adding tag support to posts can soon become a tricky task in a custom JavaScript engine like Camel. It also adds a level of complexity which I don’t really want to deal with. If I wanted that kind of control over my site I would write an engine myself.</p>
+
+<p>Another issue (although not directly related to Camel) is using Heroku to host the website. Heroku is very easy to set up and is also very functional, but it has two problems. One issue I had was with Dropbox sync. Several times, Dropbox sync stopped working when attempting deployments on Heroku. This meant that each time this happened I had to re-link my whole project which often meant I was left with a whole duplicate project. Another issue is the limitations with free usage of Heroku. Because I wasn’t prepared to pay for the service <sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup> , for periods during the app on which the website runs was going into a sleep mode. During these periods it would take longer than expected to load web pages - and that’s annoying when it happens literally every other hour.</p>
+
+<h3 id="benefits-of-jekyll">Benefits of Jekyll</h3>
+<p>Jekyll is really simple. It generates a static website with each build, so there is no need for a database or any sort of querying to view posts. At any given time the whole website is contained in HTML files within the ‘_site’ folder. The pages are generated using templating which is similar to Camel, and posts are written in Markdown. Jekyll uses <a href="http://shopify.github.io/liquid/">Liquid templating</a> which allows easy support of tagging and categories, which is something which would have been a pain to to add in Camel.</p>
+
+<p>Another benefit of using Jekyll is it’s close link to GitHub Pages <sup id="fnref:3"><a href="#fn:3" class="footnote">3</a></sup>. With Pages, I can host the website in its own public repository. Any code changes or new blog posts are commited to GitHub just like any other project which makes tracking changes easy.  GitHub Pages doesn’t suffer from the pricing model limitations that Heroku does which I mentioned above. So far I’ve had zero issues with it.</p>
+
+<p>The use of <a href="https://jekyllrb.com/docs/frontmatter/">YAML front matter</a> and <a href="https://jekyllrb.com/docs/variables/">variables</a> make it easy to add features like pagination, recent posts, archive pages and more. With all of this built in, there is almost no limitations to what you can add to a website, and most importantly - it’s all documented. Right now it ticks all the boxes for me. I’ll revisit this in another year and see if that’s still the case.</p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>Casey is a co-host on one of my favourite podcasts, <a href="http://atp.fm/">Accidental Tech Podcast</a>. <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:2">
+      <p>I view this website as a hobby. Unless I am making some money from it I don’t see the point in it becoming a money drain no matter how cheap Heroku is. There are plenty of other free options. <a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:3">
+      <p>Jekyll is the engine behind GitHub Pages, and was created by one of GitHubs founders. <a href="#fnref:3" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+</article>
+
+<hr class="separator">
+
+<article>
+  
+<header class="post-header">
+    <div class="post-title">
     	<h3><a href="http://blog.instapaper.com/post/152600596211">Instapaper Premium is now free for everyone</a><span class="link-arrow">→</span></h3>
     </div>
     
@@ -377,80 +453,6 @@
   <ol>
     <li id="fn:1">
       <p>Father Damo to you and I. <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
-    </li>
-  </ol>
-</div>
-
-</article>
-
-<hr class="separator">
-
-<article>
-  
-<header class="post-header">
-    <div class="post-title">
-    	<h3><a href="http://consequenceofsound.net/2016/09/jurassic-park-alan-partridge-returns-with-new-book-slams-game-of-thrones/">Alan Partridge returns with new book</a><span class="link-arrow">→</span></h3>
-    </div>
-    
-    <span class="post-date-permalink">
-     	<a href="/2016/09/19/partridge-book/">
-     		<time datetime="2016-09-19 19:14:07 +0100">September 19, 2016</time>
-     	</a>
-    </span>
-</header>
-  <p>Back of the net!</p>
-
-</article>
-
-<hr class="separator">
-
-<article>
-  
-<header class="post-header">
-    <div class="post-title">
-    	<h3><a href="/2016/09/10/gboard/">Gboard</a></h3>
-    </div>
-    
-    <span class="post-date-permalink">
-     	<a href="/2016/09/10/gboard/">
-     		<time datetime="2016-09-10 17:14:07 +0100">September 10, 2016</time>
-     	</a>
-    </span>
-</header>
-  <p>When Apple brought out support for third party keyboards in iOS 8, I tried out several of them, such as <a href="http://www.swype.com/product-features/ios/features.html">Swype</a> and <a href="https://swiftkey.com/en/keyboard/ios">SwiftKey</a>. None of these came close to the ever-reliable stock iOS keyboard. So when Google <a href="https://googleblog.blogspot.ie/2016/05/gboard-search-gifs-emojis-keyboard.html">announced</a> their new iOS keyboard ‘Gboard’, I didn’t have high hopes. Not for the first time however, Google have answered the call and surprised me with their take on how a keyboard should work.</p>
-
-<h3 id="the-stock-ios-keyboard">The stock iOS keyboard</h3>
-<figure>
-	<img src="/images/2016/9/stock-keyboard.png" width="254" alt="Stock iOS keyboard limitations" />
-</figure>
-
-<p>For the most part I like the stock keyboard on iOS. It provides fast, accurate typing and I’m a big fan of <a href="http://www.imore.com/quicktype">QuickType</a>. One big problem with this keyboard is when you want to use emoji.</p>
-
-<p>Often I find myself wanting to use a certain emoji, but not being exactly sure which section to find it under. Unless it is recently used, which automatically places it in the first tray of the emojis, you have to manually search through the various categories to find it. <sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup></p>
-
-<p>There are plenty of examples where developers have recognised this issue and developed their own solutions to finding emoji, but I didn’t want another keyboard to have to switch between with the sole purpose of finding emoji.</p>
-
-<h3 id="gboard---a-modern-keyboard">Gboard - A modern keyboard</h3>
-
-<p>Gboard is just as functional as a normal keyboard, but adds some really cool features on top of it. It has its own version of QuickType, offering suggestions based on what you are writing as you go. Google is good at this sort of thing so it’s no surprise that it works flawlessly. Gboard also supports glide typing, similar to Swype and SwiftKey. Again, it works flawlessly.</p>
-
-<p>My favourite thing about Gboard is how easy it makes finding emoji. Just tap on the emoji button and type what you are looking for in the search box. It’s ridiculously easy, and surely only a matter of time before Apple implement their own version.</p>
-
-<figure>
-	<img src="/images/2016/9/gboard-emoji.png" width="254" alt="Gboard's emoji search" />
-</figure>
-
-<p>Gboard wouldn’t be a Google application without some form of Google search implemented. Clicking on the Google icon brings up a search, where you can quickly find links, images and gifs. This solves a problem I didn’t know I had. It’s now simple to send media without having to leave the application you are using.</p>
-
-<p>I tried Gboard after hearing about it in passing on a <a href="https://www.relay.fm/connected">podcast</a> <sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup> and it has surpassed any expectations I had of it. They have succeeded where Apple have failed in making the best keyboard for iOS. Maybe I should lose the skepticism around Google..</p>
-
-<div class="footnotes">
-  <ol>
-    <li id="fn:1">
-      <p>And even for the most competent user, that’s far too slow. <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
-    </li>
-    <li id="fn:2">
-      <p><a href="http://www.iOSstories.net">Myke was right</a>. <a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
     </li>
   </ol>
 </div>
