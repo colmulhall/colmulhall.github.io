@@ -6,10 +6,10 @@ category: Apple
 tags:     [ios, release]
 ---
 
-Historical ios GM release dates:
+Historical iOS GM release dates:
 
 | iOS Version | Release Date        | Day of the week |
-| ------------|:-------------------:| ---------------:|
+| ------------|-------------------- | --------------- |
 | iPhone OS 1 | 29th June 2007      | Friday          |
 | iPhone OS 2 | 11th July 2008      | Friday          |
 | iPhone OS 3 | 17th June 2009      | Wednesday       |
