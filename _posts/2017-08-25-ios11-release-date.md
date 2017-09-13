@@ -22,3 +22,7 @@ Historical iOS GM release dates:
 | iOS 10      | 13th September 2016 | Tuesday         |
 
 From iOS 5 onwards there is an obvious trend - midweek release in the third week of September. Based on that, and the move to Tuesday last year, I will go with **Tuesday, September 12th** as the release date for iOS 11.
+
+*Update* - I was a week off. iOS 11 releases to the public on the [19th September][release11].
+
+[release11]:https://www.macstories.net/news/apple-announces-ios-11-to-launch-on-september-19th/
