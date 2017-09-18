@@ -14,7 +14,7 @@ For me, I was most interested in seeing the new iPhones.
 
 <center>
 	<img src="/images/2017/9/new-iphones.png" alt="iPhone 8, iPhone X and iPhone 8 Plus" class="image-single" />
-	<figcaption>iPhone 8, X and 8 Plus</figcaption>
+	<figcaption>iPhone 8 Plus, X and 8</figcaption>
 </center>
 
 ## iPhone 8/8 Plus
