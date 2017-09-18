@@ -1,4 +1,86 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-08-24T17:18:40+01:00</updated><id>http://localhost:4000//</id><title type="html">Colm.io</title><subtitle>Colm Mulhall's personal blog about things that interest him.</subtitle><author><name>Colm Mulhall</name></author><entry><title type="html">Apple discontinues the iPod nano and iPod shuffle</title><link href="http://localhost:4000/2017/08/01/apple-discontinues-nano-shuffle/" rel="alternate" type="text/html" title="Apple discontinues the iPod nano and iPod shuffle" /><published>2017-08-01T11:10:00+01:00</published><updated>2017-08-01T11:10:00+01:00</updated><id>http://localhost:4000/2017/08/01/apple-discontinues-nano-shuffle</id><content type="html" xml:base="http://localhost:4000/2017/08/01/apple-discontinues-nano-shuffle/">&lt;p&gt;Apple silently discontinued the &lt;a href=&quot;https://en.wikipedia.org/wiki/IPod_Nano&quot;&gt;iPod nano&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/IPod_Shuffle&quot;&gt;iPod shuffle&lt;/a&gt; a few days ago. Although not entirely surprising &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; , it’s still worth noting the significance of this.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-09-18T09:40:05+01:00</updated><id>http://localhost:4000//</id><title type="html">Colm.io</title><subtitle>Colm Mulhall's personal blog about things that interest him.</subtitle><author><name>Colm Mulhall</name></author><entry><title type="html">Leaks</title><link href="http://localhost:4000/2017/09/09/leaks/" rel="alternate" type="text/html" title="Leaks" /><published>2017-09-09T18:45:00+01:00</published><updated>2017-09-09T18:45:00+01:00</updated><id>http://localhost:4000/2017/09/09/leaks</id><content type="html" xml:base="http://localhost:4000/2017/09/09/leaks/">&lt;p&gt;There hasn’t been an Apple event with leaks this bad for as long as I can remember.&lt;/p&gt;
+
+&lt;p&gt;The latest leaks published on 9to5mac have all but confirmed the look, names and functionality of the new iPhones which are due to be announced this coming Tuesday at Apple Park.&lt;/p&gt;
+
+&lt;p&gt;What’s most worrying from Apple’s perspective is that the majority of these leaks have come from Apple themselves, with their software being dug into by some talented people. &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;You have to admire the perseverance and skill of these guys in how they can dig into the software and paint a picture of what Apple are working on. But on the other hand it’s a shame to have all the excitement taken from the event.&lt;/p&gt;
+
+&lt;p&gt;Ultimately, it’s up to Apple to ensure that any pre-release software is as bulletproof as possible, which is easier said than done when you have this level of interest.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://twitter.com/stroughtonsmith&quot;&gt;Steve Troughton-Smith’s&lt;/a&gt; Twitter is basically the Bible on leaks. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Colm Mulhall</name></author><category term="Apple" /><category term="leak" /><category term="event" /><summary type="html">There hasn’t been an Apple event with leaks this bad for as long as I can remember.</summary></entry><entry><title type="html">iOS 11 release date</title><link href="http://localhost:4000/2017/08/25/ios11-release-date/" rel="alternate" type="text/html" title="iOS 11 release date" /><published>2017-08-25T11:40:00+01:00</published><updated>2017-08-25T11:40:00+01:00</updated><id>http://localhost:4000/2017/08/25/ios11-release-date</id><content type="html" xml:base="http://localhost:4000/2017/08/25/ios11-release-date/">&lt;p&gt;Historical iOS GM release dates:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;iOS Version&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Release Date&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Day of the week&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;iPhone OS 1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;29th June 2007&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Friday&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;iPhone OS 2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;11th July 2008&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Friday&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;iPhone OS 3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;17th June 2009&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Wednesday&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;iOS 4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;21th June 2010&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Monday&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;iOS 5&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;12th October 2011&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Wednesday&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;iOS 6&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;19th September 2012&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Wednesday&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;iOS 7&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;18th September 2013&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Wednesday&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;iOS 8&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;17th September 2014&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Wednesday&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;iOS 9&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;16th September 2015&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Wednesday&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;iOS 10&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;13th September 2016&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Tuesday&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;From iOS 5 onwards there is an obvious trend - midweek release in the third week of September. Based on that, and the move to Tuesday last year, I will go with &lt;strong&gt;Tuesday, September 12th&lt;/strong&gt; as the release date for iOS 11.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Update&lt;/em&gt; - I was a week off. iOS 11 releases to the public on the &lt;a href=&quot;https://www.macstories.net/news/apple-announces-ios-11-to-launch-on-september-19th/&quot;&gt;19th September&lt;/a&gt;.&lt;/p&gt;</content><author><name>Colm Mulhall</name></author><category term="Apple" /><category term="ios" /><category term="release" /><summary type="html">Historical iOS GM release dates:</summary></entry><entry><title type="html">Apple discontinues the iPod nano and iPod shuffle</title><link href="http://localhost:4000/2017/08/01/apple-discontinues-nano-shuffle/" rel="alternate" type="text/html" title="Apple discontinues the iPod nano and iPod shuffle" /><published>2017-08-01T11:10:00+01:00</published><updated>2017-08-01T11:10:00+01:00</updated><id>http://localhost:4000/2017/08/01/apple-discontinues-nano-shuffle</id><content type="html" xml:base="http://localhost:4000/2017/08/01/apple-discontinues-nano-shuffle/">&lt;p&gt;Apple silently discontinued the &lt;a href=&quot;https://en.wikipedia.org/wiki/IPod_Nano&quot;&gt;iPod nano&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/IPod_Shuffle&quot;&gt;iPod shuffle&lt;/a&gt; a few days ago. Although not entirely surprising &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; , it’s still worth noting the significance of this.&lt;/p&gt;
 
 &lt;p&gt;The nano was, and still is an excellent device. I &lt;a href=&quot;http://colm.io/2016/01/18/ipod-nano-first-gen/&quot;&gt;still have&lt;/a&gt; a first generation one at home which despite being over eleven years old, wouldn’t look out of place today.&lt;/p&gt;
 
@@ -134,34 +216,4 @@
 &lt;h3 id=&quot;the-year-of-ipad&quot;&gt;The year of iPad&lt;/h3&gt;
 &lt;p&gt;It’s interesting that the majority of the big features added for iPad this year are basically a rehash of features that have been on our computers for years, if not decades. I see no issue with that. The original vision for the iPad was to be the ultimate portable consumption device. A lot has changed in the past 8 odd years, and people are demanding more of the iPad.&lt;/p&gt;
 
-&lt;p&gt;As more and more professional features and applications come to iPad, it’s suddenly becoming a lot easier to see the argument that the iPad is the future of computing.&lt;/p&gt;</content><author><name>Colm Mulhall</name></author><category term="Apple" /><category term="wwdc" /><category term="ios" /><summary type="html">You have to hand it to Apple. This has been their best year yet - by a comfortable margin - when it comes to keeping leaks to a minimum. Previous years, we have basically known each and every new feature of iOS with maybe one or two reasonably big surprises. It’s testament to the MacStories team (and Apple) that their concept video of iOS 11 on iPad has proved to be the most accurate pre-WWDC article regarding iOS 11.</summary></entry><entry><title type="html">WWDC 2017: Here’s hoping</title><link href="http://localhost:4000/2017/06/02/wwdc-2017-wishlist/" rel="alternate" type="text/html" title="WWDC 2017: Here’s hoping" /><published>2017-06-02T15:45:00+01:00</published><updated>2017-06-02T15:45:00+01:00</updated><id>http://localhost:4000/2017/06/02/wwdc-2017-wishlist</id><content type="html" xml:base="http://localhost:4000/2017/06/02/wwdc-2017-wishlist/">&lt;p&gt;Solid list of WWDC wishes from Jason Snell on SixColors. I’d go along with his predictions/wishes here and throw one more in along with it (which I also hoped for &lt;a href=&quot;http://colm.io/2016/06/13/wwdc-wishlist/&quot;&gt;last year&lt;/a&gt;) - system wide dark mode on iOS/Mac OS.&lt;/p&gt;</content><author><name>Colm Mulhall</name></author><category term="Apple" /><category term="wwdc" /><category term="wishlist" /><summary type="html">Solid list of WWDC wishes from Jason Snell on SixColors. I’d go along with his predictions/wishes here and throw one more in along with it (which I also hoped for last year) - system wide dark mode on iOS/Mac OS.</summary></entry><entry><title type="html">Sir Roger Moore, 1927 - 2017</title><link href="http://localhost:4000/2017/05/23/roger-moore/" rel="alternate" type="text/html" title="Sir Roger Moore, 1927 - 2017" /><published>2017-05-23T17:20:00+01:00</published><updated>2017-05-23T17:20:00+01:00</updated><id>http://localhost:4000/2017/05/23/roger-moore</id><content type="html" xml:base="http://localhost:4000/2017/05/23/roger-moore/">&lt;center&gt;
-	&lt;img src=&quot;/images/2017/5/roger-moore.png&quot; alt=&quot;Roger&quot; class=&quot;image-single&quot; /&gt;
-&lt;/center&gt;</content><author><name>Colm Mulhall</name></author><category term="Apple" /><category term="ipad" /><category term="mini" /><summary type="html"></summary></entry><entry><title type="html">Please don’t kill the iPad Mini</title><link href="http://localhost:4000/2017/05/19/dont-kill-the-ipad-mini/" rel="alternate" type="text/html" title="Please don't kill the iPad Mini" /><published>2017-05-19T11:57:00+01:00</published><updated>2017-05-19T11:57:00+01:00</updated><id>http://localhost:4000/2017/05/19/dont-kill-the-ipad-mini</id><content type="html" xml:base="http://localhost:4000/2017/05/19/dont-kill-the-ipad-mini/">&lt;p&gt;There are a lot of reports recently suggesting that Apple are ready to phase out the iPad Mini. While I’ve not personally owned one, I think it would be a shame to see it go. Writing on Mashable, Stan Schroeder outlines his appreciation of the Mini:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;All the other iPads — the 9.7-inch models and, definitely, the 12.9-inch iPad Pro — basically need to be carried in a laptop bag. They’re great for lugging around the house for a quick read or a YouTube session, but if you want to go outside, they’re as about as practical as your laptop.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; He continues:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Not so with the iPad mini. It fits in cargo pants pockets. It fits in larger purses (and murses), and (if you’re brave enough to carry one) even an occasional fanny pack. It can be stuffed in pockets of many jackets and coats. It’s small enough for you to casually carry it around in your hands, like you do your phone, as you wait in line at an airport or on your daily commute.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The Mini is the only iPad you can carry around one-handed, and that will fit in a jacket pocket. That makes it the perfect travel companion. The argument that the Mini is too similarly sized to Plus-sized phones is not really a valid reason to lose the Mini. The majority of people don’t want a Plus sized phone, and even if they do, the Mini still offers a better experience for gaming, reading, watching and browsing.&lt;/p&gt;
-
-&lt;p&gt;Stan offers some peace of mind that Apple is working on a replacement of sorts:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;There’s one great solution to this conundrum. Rumours claim that Apple is working on a 10.5-inch iPad variant that’ll basically be all screen, with significantly smaller bezels than current models. If this is true, and that same bezel-less design later trickles down to the 9.7-inch iPad, that model will effectively become the new iPad mini, as its physical dimensions would be in that same ballpark.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;A 9.7 inch bezel-less iPad would be a great modernisation of what the Mini currently is. I hope that’s something that’s in the pipeline in the not too distant future.&lt;/p&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;My only issue with the above is the opinion that the 9.7 inch model is about as practical as your laptop when outside. Having travelled with one many times, it’s &lt;em&gt;far&lt;/em&gt; more practical than a laptop in terms of size and weight. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Colm Mulhall</name></author><category term="Apple" /><category term="ipad" /><category term="mini" /><summary type="html">There are a lot of reports recently suggesting that Apple are ready to phase out the iPad Mini. While I’ve not personally owned one, I think it would be a shame to see it go. Writing on Mashable, Stan Schroeder outlines his appreciation of the Mini:</summary></entry></feed>
+&lt;p&gt;As more and more professional features and applications come to iPad, it’s suddenly becoming a lot easier to see the argument that the iPad is the future of computing.&lt;/p&gt;</content><author><name>Colm Mulhall</name></author><category term="Apple" /><category term="wwdc" /><category term="ios" /><summary type="html">You have to hand it to Apple. This has been their best year yet - by a comfortable margin - when it comes to keeping leaks to a minimum. Previous years, we have basically known each and every new feature of iOS with maybe one or two reasonably big surprises. It’s testament to the MacStories team (and Apple) that their concept video of iOS 11 on iPad has proved to be the most accurate pre-WWDC article regarding iOS 11.</summary></entry><entry><title type="html">WWDC 2017: Here’s hoping</title><link href="http://localhost:4000/2017/06/02/wwdc-2017-wishlist/" rel="alternate" type="text/html" title="WWDC 2017: Here’s hoping" /><published>2017-06-02T15:45:00+01:00</published><updated>2017-06-02T15:45:00+01:00</updated><id>http://localhost:4000/2017/06/02/wwdc-2017-wishlist</id><content type="html" xml:base="http://localhost:4000/2017/06/02/wwdc-2017-wishlist/">&lt;p&gt;Solid list of WWDC wishes from Jason Snell on SixColors. I’d go along with his predictions/wishes here and throw one more in along with it (which I also hoped for &lt;a href=&quot;http://colm.io/2016/06/13/wwdc-wishlist/&quot;&gt;last year&lt;/a&gt;) - system wide dark mode on iOS/Mac OS.&lt;/p&gt;</content><author><name>Colm Mulhall</name></author><category term="Apple" /><category term="wwdc" /><category term="wishlist" /><summary type="html">Solid list of WWDC wishes from Jason Snell on SixColors. I’d go along with his predictions/wishes here and throw one more in along with it (which I also hoped for last year) - system wide dark mode on iOS/Mac OS.</summary></entry></feed>
