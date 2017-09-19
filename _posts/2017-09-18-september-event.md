@@ -13,7 +13,7 @@ Apple Watch enthusiasts finally got one of their most requested features - cellu
 For me, I was most interested in seeing the new iPhones. 
 
 <center>
-	<img src="/images/2017/9/new-iphones.png" alt="iPhone 8, iPhone X and iPhone 8 Plus" class="image-single" />
+	<img src="/images/2017/9/new-iphones.png" alt="iPhone 8 Plus, iPhone X and iPhone 8" class="image-single" />
 	<figcaption>iPhone 8 Plus, X and 8</figcaption>
 </center>
 
