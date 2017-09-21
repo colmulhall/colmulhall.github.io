@@ -28,23 +28,7 @@ preference.
 I use [Sublime Text][sbltxt] for any code tweaks. Posts are written in 
 [Markdown][mrkd].
 
-
-## Stats
-Since December 2015, there has been {{ site.posts | size }} posts on the site. 
-
-{% for post in site.posts %}
-  {{ post.title}} -- Count: {{ post.content | size }} 
-{% endfor %}
-
-{% assign counter = 0 %}
-
-	{% for post in site.posts %}
-
-		{% assign counter=counter | plus: {{ post.content | size }} %}
-
-	{% endfor %}
-
-{{ counter }}
+Since its introducation, there has been {{ site.posts | size }} posts on the site. 
 
 [csdegree]:http://colm.io/education/
 [comp]: http://www.dit.ie/computing/
