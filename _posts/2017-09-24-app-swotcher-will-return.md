@@ -10,7 +10,7 @@ tags: [gesture, iOS]
 Craig Federighi, replying to a mail about the removal of the 3D Touch app switcher gesture:
 
 > We regretfully had to temporarily drop support for this gesture due to a technical constraint. We will be bringing it back in an upcoming iOS 11.x update. 
-
+>
 >Thanks (and sorry for the inconvenience)! 
 
 
