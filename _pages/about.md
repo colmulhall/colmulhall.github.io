@@ -20,17 +20,16 @@ You can find me at the following places:
 ## About This Site
 
 This site is where I write about things that interest me. 
-On a technical side, the site is powered by 
-[Jekyll][jek] and is hosted on GitHub Pages.
+On a technical side, the site is powered by [Jekyll][jek] and is hosted on GitHub Pages.
 I use [Hover][hvr] for dealing with the domain. I have tweaked the appearance to my 
 preference.
 
 I use [Sublime Text][sbltxt] for any code tweaks. Posts are written in 
 [Markdown][mrkd].
 
-Since its introducation, there has been {{ site.posts | size }} posts on the site. 
+Some [stats][stats].
 
-[csdegree]:http://colm.io/education/
+[csdegree]: /education/
 [comp]: http://www.dit.ie/computing/
 [twtr]: https://twitter.com/ColmMulhall
 [lnkin]: https://ie.linkedin.com/in/colmmulhall
@@ -41,3 +40,4 @@ Since its introducation, there has been {{ site.posts | size }} posts on the sit
 [hvr]: https://www.hover.com/
 [sbltxt]: http://www.sublimetext.com/
 [mrkd]: https://daringfireball.net/projects/markdown/
+[stats]: /stats/

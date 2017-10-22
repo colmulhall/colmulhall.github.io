@@ -1,4 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-09-21T18:44:27+01:00</updated><id>http://localhost:4000//</id><title type="html">Colm.io</title><subtitle>Colm Mulhall's personal blog about things that interest him.</subtitle><author><name>Colm Mulhall</name></author><entry><title type="html">September event</title><link href="http://localhost:4000/2017/09/18/september-event/" rel="alternate" type="text/html" title="September event" /><published>2017-09-18T09:45:00+01:00</published><updated>2017-09-18T09:45:00+01:00</updated><id>http://localhost:4000/2017/09/18/september-event</id><content type="html" xml:base="http://localhost:4000/2017/09/18/september-event/">&lt;p&gt;Despite the fact that we &lt;a href=&quot;http://colm.io/2017/09/09/leaks/&quot;&gt;knew the details&lt;/a&gt; of the majority of products that Apple were planning to announce, there is still a &lt;em&gt;lot&lt;/em&gt; to talk about from Apple’s September event.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-10-22T13:48:44+01:00</updated><id>http://localhost:4000//</id><title type="html">Colm.io</title><subtitle>Colm Mulhall's personal blog about things that interest him.</subtitle><author><name>Colm Mulhall</name></author><entry><title type="html">iOS 11 is the buggiest release in years</title><link href="http://localhost:4000/2017/10/21/ios-11-bugs/" rel="alternate" type="text/html" title="iOS 11 is the buggiest release in years" /><published>2017-10-21T14:10:00+01:00</published><updated>2017-10-21T14:10:00+01:00</updated><id>http://localhost:4000/2017/10/21/ios-11-bugs</id><content type="html" xml:base="http://localhost:4000/2017/10/21/ios-11-bugs/">&lt;p&gt;Yoni Heisler, at BGR:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;What’s unusual about iOS 11, though, is that it seems to be unusually and exceedingly buggy. While new iOS releases often have a few wrinkles to be ironed out, the problems users are seeing with iOS 11 are more pervasive and troubling than any iOS release in recent memory.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I have to agree with what’s being said here. iOS 11 has already gone through three minor releases since the official launch just over a month ago. That in itself is a sign that not all has gone to plan.&lt;/p&gt;
+
+&lt;p&gt;Battery issues have been widely reported. My iPhone 6S has never exactly had excellent battery life, but it’s getting slaughtered since updating to iOS 11. I’m seeing all sorts of strange bugs. Unresponsive home screen, apps quitting for no reason, Touch ID needing two takes, Mail stuck refreshing, and today’s bug: the clock has decided to disappear!&lt;/p&gt;</content><author><name>Colm Mulhall</name></author><category term="Apple" /><category term="iOS 11" /><category term="bugs" /><summary type="html">Yoni Heisler, at BGR:</summary></entry><entry><title type="html">3D Touch app switcher will return</title><link href="http://localhost:4000/2017/09/24/app-switcher-will-return/" rel="alternate" type="text/html" title="3D Touch app switcher will return" /><published>2017-09-24T22:10:00+01:00</published><updated>2017-09-24T22:10:00+01:00</updated><id>http://localhost:4000/2017/09/24/app-switcher-will-return</id><content type="html" xml:base="http://localhost:4000/2017/09/24/app-switcher-will-return/">&lt;p&gt;Craig Federighi, replying to a mail about the removal of the 3D Touch app switcher gesture:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;We regretfully had to temporarily drop support for this gesture due to a technical constraint. We will be bringing it back in an upcoming iOS 11.x update.&lt;/p&gt;
+
+  &lt;p&gt;Thanks (and sorry for the inconvenience)!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;My only real complaint with iOS 11 was this. Looking forward to its return.&lt;/p&gt;</content><author><name>Colm Mulhall</name></author><category term="Apple" /><category term="gesture" /><category term="iOS" /><summary type="html">Craig Federighi, replying to a mail about the removal of the 3D Touch app switcher gesture:</summary></entry><entry><title type="html">September event</title><link href="http://localhost:4000/2017/09/18/september-event/" rel="alternate" type="text/html" title="September event" /><published>2017-09-18T09:45:00+01:00</published><updated>2017-09-18T09:45:00+01:00</updated><id>http://localhost:4000/2017/09/18/september-event</id><content type="html" xml:base="http://localhost:4000/2017/09/18/september-event/">&lt;p&gt;Despite the fact that we &lt;a href=&quot;http://colm.io/2017/09/09/leaks/&quot;&gt;knew the details&lt;/a&gt; of the majority of products that Apple were planning to announce, there is still a &lt;em&gt;lot&lt;/em&gt; to talk about from Apple’s September event.&lt;/p&gt;
 
 &lt;p&gt;Apple Watch enthusiasts finally got one of their most requested features - cellular data,  Apple TV enthusiasts (or whatever subset of them have a TV capable of driving 4K) got a nice - albeit minor - upgrade, and general Apple enthusiasts got to see the shiny new headquarters ‘Apple Park’.&lt;/p&gt;
 
@@ -188,72 +204,4 @@
   &lt;li&gt;“&lt;a href=&quot;https://512pixels.net/2017/01/iphone-a-decades-worth-of-impact/&quot;&gt;iPhone: A Decade’s Worth of Impact&lt;/a&gt;” - 512 Pixels&lt;/li&gt;
   &lt;li&gt;“&lt;a href=&quot;https://www.macsparky.com/blog/2017/6/10-years-with-iphone&quot;&gt;10 years with iPhone&lt;/a&gt;” - MacSparky&lt;/li&gt;
   &lt;li&gt;“&lt;a href=&quot;https://9to5mac.com/2017/06/29/original-iphone-launch-and-reception/&quot;&gt;Happy 10th anniversary to the iPhone&lt;/a&gt;” - 9to5mac&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Colm Mulhall</name></author><category term="Apple" /><category term="iphone" /><category term="anniversary" /><summary type="html">Ten years ago yesterday, the iPhone first went on sale. It’s hard to believe it’s been that long, and even harder to think of a world without a smartphone in your pocket. Here’s some of the many write ups:</summary></entry><entry><title type="html">App sizes</title><link href="http://localhost:4000/2017/06/26/app-sizes/" rel="alternate" type="text/html" title="App sizes" /><published>2017-06-26T17:17:00+01:00</published><updated>2017-06-26T17:17:00+01:00</updated><id>http://localhost:4000/2017/06/26/app-sizes</id><content type="html" xml:base="http://localhost:4000/2017/06/26/app-sizes/">&lt;p&gt;There have been a few articles floating around recently highlighting the increases in app size over the past few years. &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; In another article around the issue, Matt Birchler done some investigating by looking into the app sizes as displayed in the App Store vs. the actual download performed during an update:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;There is quite a range between an app’s advertised size and how much data is actually transferred when you update said app. Twitter had the largest discrepancy, showing 122 MB as the app size, but downloading less than 1 MB to perform its update. Clearly the update Twitter rolled out had more impact from delta updates to thin out their update size, and the same is true of Target and Nokia Health Mate, both of which are around 100 MB total, but each downloaded just over 1 MB for their updates.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;He further singles out Facebook as a culprit for large updates:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The Facebook app is advertised as being a whopping 251 MB app, and I don’t know what the update size is, but it was over 100 MB. Has Facebook changed so much in the past 3 days since an update that it needed to replace over 40% of its code?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Facebook bring updates to their app at least once every fortnight, complete with highly informative release notes:&lt;/p&gt;
-
-&lt;center&gt;
-	&lt;img src=&quot;/images/2017/6/Facebook-app-update.png&quot; alt=&quot;Facebook app release notes&quot; class=&quot;image-single&quot; /&gt;
-	&lt;figcaption&gt;Would it kill Facebook to put a bit more effort into these?&lt;/figcaption&gt;
-&lt;/center&gt;
-
-&lt;p&gt;If apps continue this trend of eating memory, then the &lt;a href=&quot;https://david-smith.org/blog/2015/09/10/16gb-is-a-bad-user-experience/&quot;&gt;long awaited&lt;/a&gt; increase in base storage size on our devices will soon hit a new wall. Not to mention the data usage behind all of this. If you don’t have an unlimited internet plan then forget it - updating your apps these days means you very likely have a few hundred megabytes to download, and it’s the most popular social networks that are the biggest culprits.&lt;/p&gt;
-
-&lt;p&gt;Whatever the solution to this problem is, be it delta updates, app thinning or something even more clever, I hope it’s on the horizon sooner rather than later.&lt;/p&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;Most notably, &lt;a href=&quot;https://daringfireball.net/linked/2017/06/22/darke-bad-app-citizens&quot;&gt;these&lt;/a&gt; &lt;a href=&quot;https://daringfireball.net/linked/2017/06/22/sandofsky-app-bloat&quot;&gt;two&lt;/a&gt; on Daring Fireball, and &lt;a href=&quot;https://sensortower.com/blog/ios-app-size-growth&quot;&gt;this&lt;/a&gt; one from Sensor Tower. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Colm Mulhall</name></author><category term="Apple" /><category term="app" /><category term="size" /><summary type="html">There have been a few articles floating around recently highlighting the increases in app size over the past few years. 1 In another article around the issue, Matt Birchler done some investigating by looking into the app sizes as displayed in the App Store vs. the actual download performed during an update:
-
-
-  
-    
-      Most notably, these two on Daring Fireball, and this one from Sensor Tower. &amp;#8617;</summary></entry><entry><title type="html">Turn it up to 11</title><link href="http://localhost:4000/2017/06/08/ios-11/" rel="alternate" type="text/html" title="Turn it up to 11" /><published>2017-06-08T17:10:00+01:00</published><updated>2017-06-08T17:10:00+01:00</updated><id>http://localhost:4000/2017/06/08/ios-11</id><content type="html" xml:base="http://localhost:4000/2017/06/08/ios-11/">&lt;p&gt;You have to hand it to Apple. This has been their best year yet - by a comfortable margin - when it comes to keeping leaks to a minimum. Previous years, we have basically known each and every new feature of iOS with maybe one or two reasonably big surprises. It’s testament to the MacStories team (and Apple) that their &lt;a href=&quot;https://www.macstories.net/stories/ios-11-ipad-wishes-and-concept-video/&quot;&gt;concept video&lt;/a&gt; of iOS 11 on iPad has proved to be the most accurate pre-WWDC article regarding iOS 11.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Control Center&lt;/strong&gt; has finally got the update that we’ve all been &lt;a href=&quot;http://colm.io/2016/01/28/the-case-against-control-center/&quot;&gt;waiting&lt;/a&gt; &lt;a href=&quot;http://colm.io/2016/02/29/control-center-concept/&quot;&gt;for&lt;/a&gt;: customization. For me, this is the biggest change that iOS 11 will bring to iPhone; in what is clearly an iPad focused update.&lt;/p&gt;
-
-&lt;center&gt;
-	&lt;img src=&quot;/images/2017/6/Control-Center-iOS-11.png&quot; alt=&quot;iOS 11 Control Center&quot; class=&quot;image-single&quot; /&gt;
-&lt;/center&gt;
-
-&lt;p&gt;Control Center has been crying out for an update like this since it was introduced in iOS 7 and I’m glad to see it here. The jury is still out on the design, but I’m sure it’s only a matter of getting used to it. Plus - there’s more than likely going to be a few revisions of this over the summer in the beta run.&lt;/p&gt;
-
-&lt;p&gt;Another change of note is a new “Do Not Disturb While Driving” mode which operates similarly to the current Do Not Disturb mode by silencing notifications and keeping the screen from waking, but also can send a message automatically to someone to let them know you can’t reply right now, and uses Bluetooth and Wi-Fi to detect when you are driving.&lt;/p&gt;
-
-&lt;p&gt;Add in some design changes to apps, most notably the App Store, Minor Siri improvements and Photos enhancements, and you have a relatively small feature update to iPhone.&lt;/p&gt;
-
-&lt;p&gt;The real winner this year is iPad, thanks to three main features: Files, Dock and Drag &amp;amp; Drop.&lt;/p&gt;
-
-&lt;h3 id=&quot;dock--multitasking&quot;&gt;Dock &amp;amp; Multitasking&lt;/h3&gt;
-
-&lt;center&gt;
-	&lt;img src=&quot;/images/2017/6/ios-11-ipad-app-switcher.png&quot; alt=&quot;iOS 11 App Switcher&quot; class=&quot;image-single&quot; /&gt;
-&lt;/center&gt;
-
-&lt;p&gt;This works similar to the dock on macOS. Apps and folders can be added in any order, and interestingly don’t show their names once in the dock. A swipe up from any screen reveals the dock, where you can quickly jump between apps in an instant, not unlike alt-tab/command-tab. Drag an app from the dock and it will allow you to use it in its own window, or drag further to snap to either side of the screen.&lt;/p&gt;
-
-&lt;p&gt;Drag up further from the dock to enter the new multitasking screen, which bears a strong resemblance to Mission Control on macOS. Apps can be grouped together and selected from this screen, similar to Spaces on macOS (noticing a theme here?). Control Center is also accessible from this screen.&lt;/p&gt;
-
-&lt;h3 id=&quot;files--dragdrop&quot;&gt;Files &amp;amp; Drag/Drop&lt;/h3&gt;
-&lt;p&gt;You might laugh when you see that one of the biggest changes that people are talking about with iOS 11 is the addition of a file system, but the situation with files on iOS prior to this was so bad that deserves every bit of the spotlight as all of the other new features. The new “Files” app works just as you’d expect it to. Files can be managed into folders, can be tagged, moved and organized any way that you want. Cloud services such as Dropbox can also be accessed here just like on a PC or Mac.&lt;/p&gt;
-
-&lt;p&gt;Drag and Drop again works just as you would expect. You can now drag links, text, photos and videos and drop them into another application. What used to be an awkward - sometimes impossible task - on iOS, is now even more natural than what we have been using all this time on our computers.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-year-of-ipad&quot;&gt;The year of iPad&lt;/h3&gt;
-&lt;p&gt;It’s interesting that the majority of the big features added for iPad this year are basically a rehash of features that have been on our computers for years, if not decades. I see no issue with that. The original vision for the iPad was to be the ultimate portable consumption device. A lot has changed in the past 8 odd years, and people are demanding more of the iPad.&lt;/p&gt;
-
-&lt;p&gt;As more and more professional features and applications come to iPad, it’s suddenly becoming a lot easier to see the argument that the iPad is the future of computing.&lt;/p&gt;</content><author><name>Colm Mulhall</name></author><category term="Apple" /><category term="wwdc" /><category term="ios" /><summary type="html">You have to hand it to Apple. This has been their best year yet - by a comfortable margin - when it comes to keeping leaks to a minimum. Previous years, we have basically known each and every new feature of iOS with maybe one or two reasonably big surprises. It’s testament to the MacStories team (and Apple) that their concept video of iOS 11 on iPad has proved to be the most accurate pre-WWDC article regarding iOS 11.</summary></entry></feed>
+&lt;/ul&gt;</content><author><name>Colm Mulhall</name></author><category term="Apple" /><category term="iphone" /><category term="anniversary" /><summary type="html">Ten years ago yesterday, the iPhone first went on sale. It’s hard to believe it’s been that long, and even harder to think of a world without a smartphone in your pocket. Here’s some of the many write ups:</summary></entry></feed>
