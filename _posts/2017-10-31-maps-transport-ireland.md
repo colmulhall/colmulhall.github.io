@@ -12,5 +12,3 @@ tags: [apple, maps, ireland]
 >The feature is now available on iPhone, iPad, iPod touch and Mac devices.
 >
 >A spokesperson for Apple explained that the transport feature is customised for each city where it’s available.
-
-Great to see this make its way to Apple Maps finally. It's fairly cool to see the level of 
