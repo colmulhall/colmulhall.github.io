@@ -1,4 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-11-13T19:00:35+00:00</updated><id>http://localhost:4000//</id><title type="html">Colm.io</title><subtitle>Colm Mulhall's personal blog about things that interest him.</subtitle><author><name>Colm Mulhall</name></author><entry><title type="html">iPhone 8</title><link href="http://localhost:4000/2017/11/13/iphone-8/" rel="alternate" type="text/html" title="iPhone 8" /><published>2017-11-13T18:00:00+00:00</published><updated>2017-11-13T18:00:00+00:00</updated><id>http://localhost:4000/2017/11/13/iphone-8</id><content type="html" xml:base="http://localhost:4000/2017/11/13/iphone-8/">&lt;p&gt;It’s hard to describe the iPhone 8 as anything other than a minor upgrade. The ‘8’ branding is really just a way for Apple to justify the iPhone X (10) name. I was due an upgrade from my network, so I decided to upgrade from my two year old iPhone 6S to the iPhone 8. After a week of use, below are my thoughts.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-12-03T16:52:12+00:00</updated><id>http://localhost:4000//</id><title type="html">Colm.io</title><subtitle>Colm Mulhall's personal blog about things that interest him.</subtitle><author><name>Colm Mulhall</name></author><entry><title type="html">Apple’s had a shockingly bad week of software problems</title><link href="http://localhost:4000/2017/12/03/apple-bugs/" rel="alternate" type="text/html" title="Apple's had a shockingly bad week of software problems" /><published>2017-12-03T16:00:00+00:00</published><updated>2017-12-03T16:00:00+00:00</updated><id>http://localhost:4000/2017/12/03/apple-bugs</id><content type="html" xml:base="http://localhost:4000/2017/12/03/apple-bugs/">&lt;p&gt;The Verge:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Let’s recap the week of Apple software problems:&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;macOS High Sierra critical flaw with root admin access&lt;/li&gt;
+    &lt;li&gt;macOS High Sierra update released, but breaks file sharing&lt;/li&gt;
+    &lt;li&gt;iOS 11 crashing on some iPhones due to a date bug&lt;/li&gt;
+    &lt;li&gt;macOS High Sierra fix not installing correctly on some systems&lt;/li&gt;
+    &lt;li&gt;iOS 11.2 released early to fix iPhone crash bug&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Apple now has more than 1 billion devices running iOS, and any security flaws or problems impact millions of people on a much larger scale than macOS has ever experienced. Thankfully, Apple is able to patch these devices regularly and provides software updates even to older phones and tablets — something we rarely see on Android devices. Apple is now facing the challenging prospect of auditing its development processes to ensure this kind of messy week never happens again.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Bug tracking in software development at any scale is hard, and when you have a huge number of services and products like Apple with an enormous active userbase, it’s almost impossible to remain bug free.&lt;/p&gt;
+
+&lt;p&gt;It does seem that there are more and more bug fix updates creeping into macOS and iOS than before, but I can’t help but wonder if it is related to the added complexity of new and more advanced features on these platforms (well, on iOS at least). The &lt;a href=&quot;https://twitter.com/lemiorhan/status/935578694541770752&quot;&gt;‘root’ bug&lt;/a&gt;, is a bit more worrying from a users perspective. To be fair to Apple they were extremely quick in releasing a patch, but I’m not surprised that they are “auditing” their development process to ensure something like that doesn’t happen again.&lt;/p&gt;</content><author><name>Colm Mulhall</name></author><category term="Apple" /><category term="bugs" /><category term="fixes" /><summary type="html">The Verge:</summary></entry><entry><title type="html">iPhone 8</title><link href="http://localhost:4000/2017/11/13/iphone-8/" rel="alternate" type="text/html" title="iPhone 8" /><published>2017-11-13T18:00:00+00:00</published><updated>2017-11-13T18:00:00+00:00</updated><id>http://localhost:4000/2017/11/13/iphone-8</id><content type="html" xml:base="http://localhost:4000/2017/11/13/iphone-8/">&lt;p&gt;It’s hard to describe the iPhone 8 as anything other than a minor upgrade. The ‘8’ branding is really just a way for Apple to justify the iPhone X (10) name. I was due an upgrade from my network, so I decided to upgrade from my two year old iPhone 6S to the iPhone 8. After a week of use, below are my thoughts.&lt;/p&gt;
 
 &lt;h3 id=&quot;the-good&quot;&gt;The good&lt;/h3&gt;
 &lt;p&gt;The &lt;em&gt;glass back&lt;/em&gt; is a welcome return. I never had a problem with the aluminium back of the 6S, but the 8 has a much more premium feel to it. It also has more grip than the aluminium. One thing to note is that it does collect fingerprints very easily, or at least the space gray version does.&lt;/p&gt;
@@ -194,19 +214,4 @@
 
   
     
-      The nano has not seen an update since 2012, while the last update to the shuffle dates back to 2010. &amp;#8617;</summary></entry><entry><title type="html">How Apple created Nintendo’s best console</title><link href="http://localhost:4000/2017/07/21/ios-gaming/" rel="alternate" type="text/html" title="How Apple created Nintendo’s best console" /><published>2017-07-21T15:55:00+01:00</published><updated>2017-07-21T15:55:00+01:00</updated><id>http://localhost:4000/2017/07/21/ios-gaming</id><content type="html" xml:base="http://localhost:4000/2017/07/21/ios-gaming/">&lt;p&gt;Dan Masters:&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Apple has always had a rocky relationship with gaming. They have historically paid little attention to gaming — most notably on the Mac. However, post-iPhone they demonstrated an apparent newfound commitment to games by seemingly devoting significant resources and attention to it each year.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;However, this would turn out to be a mirage, as they iterated very little and hardly encouraged developer adoption — instead taking the “Build it and they’ll come because we’re Apple” approach.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Gaming is an area that Apple have gone backwards in on iOS. In the early days of the App Store, games were more ambitious and increasingly got more in line with console games. Compare that to today, where casual fremium games dominate the top grossing charts, and it’s clear to see that the App Store hasn’t become the thriving gaming platform to rival consoles that would be suggested all those years back.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Game_Center&quot;&gt;Game Center&lt;/a&gt; is something that I was excited about when it was first released. The idea of having a rival to PSN and Xbox Live was on iOS showed that Apple were serious about iOS as a gaming platform. Save for one update, Game Center never got any real attention from Apple and it has slowly but surely slid into obscurity.&lt;/p&gt;
-
-&lt;p&gt;iPhones and iPads have become real computing powerhouses. Imagine what a gaming company could produce if they could justify spending big money on a project for mobile platforms. I hope that the addition of &lt;a href=&quot;https://developer.apple.com/arkit/&quot;&gt;ARKit&lt;/a&gt; which was announced at WWDC, points towards a revival of gaming on iOS.&lt;/p&gt;</content><author><name>Colm Mulhall</name></author><category term="gaming" /><category term="apple" /><category term="nintendo" /><category term="game center" /><summary type="html">Dan Masters:
-
-  Apple has always had a rocky relationship with gaming. They have historically paid little attention to gaming — most notably on the Mac. However, post-iPhone they demonstrated an apparent newfound commitment to games by seemingly devoting significant resources and attention to it each year.</summary></entry></feed>
+      The nano has not seen an update since 2012, while the last update to the shuffle dates back to 2010. &amp;#8617;</summary></entry></feed>
