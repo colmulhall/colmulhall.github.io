@@ -1,4 +1,55 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-12-03T16:52:12+00:00</updated><id>http://localhost:4000//</id><title type="html">Colm.io</title><subtitle>Colm Mulhall's personal blog about things that interest him.</subtitle><author><name>Colm Mulhall</name></author><entry><title type="html">Apple’s had a shockingly bad week of software problems</title><link href="http://localhost:4000/2017/12/03/apple-bugs/" rel="alternate" type="text/html" title="Apple's had a shockingly bad week of software problems" /><published>2017-12-03T16:00:00+00:00</published><updated>2017-12-03T16:00:00+00:00</updated><id>http://localhost:4000/2017/12/03/apple-bugs</id><content type="html" xml:base="http://localhost:4000/2017/12/03/apple-bugs/">&lt;p&gt;The Verge:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-12-21T01:13:17+00:00</updated><id>http://localhost:4000//</id><title type="html">Colm.io</title><subtitle>Colm Mulhall's personal blog about things that interest him.</subtitle><author><name>Colm Mulhall</name></author><entry><title type="html">Must-have iOS apps, 2017 edition</title><link href="http://localhost:4000/2017/12/21/must-have-ios-apps-2017-edition/" rel="alternate" type="text/html" title="Must-have iOS apps, 2017 edition" /><published>2017-12-21T00:00:00+00:00</published><updated>2017-12-21T00:00:00+00:00</updated><id>http://localhost:4000/2017/12/21/must-have-ios-apps-2017-edition</id><content type="html" xml:base="http://localhost:4000/2017/12/21/must-have-ios-apps-2017-edition/">&lt;p&gt;Another year, another list of favourite apps from Federico Viticci. For the past &lt;a href=&quot;http://colm.io/2015/12/22/must-have-ios-apps-2015-edition/&quot;&gt;two&lt;/a&gt; &lt;a href=&quot;http://colm.io/2016/12/23/must-have-ios-apps-2016-edition/&quot;&gt;years&lt;/a&gt;, I have written about the apps that Federico highlights as his favourite, that I also find useful. This year, he has compiled an even bigger list of apps than in previous years, so it’ll be interesting to see have I picked up any new favourites that fall on this list.&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;dropbox&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;dropbox&quot;&gt;Dropbox&lt;/h4&gt;
+&lt;p&gt;Between Dropbox and Google Drive, I have all of my important files backed up online. The Dropbox app has seen a steady stream of updates this year which is always welcome, especially with a service tasked with storing your files online. The addition of the Files app on iOS 11 means I use the official Dropbox app less, but it is still useful to have for reference.&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;1password&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;password&quot;&gt;1Password&lt;/h4&gt;
+&lt;p&gt;1Password is one of those services that’ll make you wonder how you got by before using them. All your passwords stored online for reference, quickly accessible from the share sheet on iOS. I would (literally) be lost online without 1Password. An absolutely essential app for anybody to have on their devices.&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;spotify&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;spotify&quot;&gt;Spotify&lt;/h4&gt;
+&lt;p&gt;I’m not actually a paid subscriber of Spotify, podcasts fit the bill for me over music for the majority of the time, but Spotify is a great service which allows a free account to play a number of songs and listen to ads in between, albeit losing the ability to select their own songs after a certain number of skips. This is even better on iPad, where you can select any number of songs in any order and just sit through a 30 second ad every half hour - perfect for a casual user like me.&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;overcast&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;overcast&quot;&gt;Overcast&lt;/h4&gt;
+&lt;p&gt;Overcast is the best podcast player on iOS. I’ve written before about the advantages of Overcast, over the stock podcasts app on iOS, namely Smart Speed and Voice Boost. The app itself has had some more work on it in the past year and is a breeze to use.&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;youtube&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;youtube&quot;&gt;Youtube&lt;/h4&gt;
+&lt;p&gt;I really like the YouTube app on iOS. &lt;a href=&quot;http://colm.io/2016/12/23/must-have-ios-apps-2016-edition/#youtube&quot;&gt;Last year&lt;/a&gt; I complained that the app doesn’t have picture in picture, and that is still the case. I honestly don’t see that changing any time soon, so I’m willing to accept that this might never be implemented - prove me wrong Google. Nonetheless, the YouTube app is really clean, easy to use and receives regular updates which is all you can ask for.&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;googlemaps&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;google-maps&quot;&gt;Google Maps&lt;/h4&gt;
+&lt;p&gt;Still the king of maps in my book. Apple Maps is closing the gap bit by bit, but Google Maps is still my favourite. As long as Apple can make a good alternative to Google Maps, I’m sure they will be happy, but Google have long since set the benchmark here and I don’t see any reason to stop using their service.&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;googletrips&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;google-trips&quot;&gt;Google Trips&lt;/h4&gt;
+&lt;p&gt;Google Trips is a clever app in that it can detect based on your emails where and when you have booked a trip, and can offer you tips on where to eat, what to see and what to do in an area. It saves you the hassle of trawling through websites and books trying to plan out a trip, and bases all it’s recommendations on actual reviews. For any travel enthusiast I’d highly recommend it.&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;mytaxi&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;mytaxi&quot;&gt;myTaxi&lt;/h4&gt;
+&lt;p&gt;Uber don’t operate in Ireland, so the next best thing is myTaxi (previously Hailo). It works just like Uber - set a location, pickup point and order. All payments can be made on card if necessary. It makes ordering taxis much easier and takes out the guesswork by letting you see where exactly your taxi is on a map in real time.&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;whatsapp&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;whatsapp&quot;&gt;Whatsapp&lt;/h4&gt;
+&lt;p&gt;Probably the most used app on my phone. The majority of my friends and family use Whatsapp, so I find myself spending a lot of time on it every day. The app is fast, well designed and rarely if ever causes me issues. It doesn’t get in the way of me messaging people and keeps a backup of all my chats.&lt;/p&gt;</content><author><name>Colm Mulhall</name></author><category term="Tech" /><category term="apps" /><category term="iOS" /><summary type="html">Another year, another list of favourite apps from Federico Viticci. For the past two years, I have written about the apps that Federico highlights as his favourite, that I also find useful. This year, he has compiled an even bigger list of apps than in previous years, so it’ll be interesting to see have I picked up any new favourites that fall on this list.</summary></entry><entry><title type="html">Gboard adds automatic theme switching</title><link href="http://localhost:4000/2017/12/05/gboard-update/" rel="alternate" type="text/html" title="Gboard adds automatic theme switching" /><published>2017-12-05T09:40:00+00:00</published><updated>2017-12-05T09:40:00+00:00</updated><id>http://localhost:4000/2017/12/05/gboard-update</id><content type="html" xml:base="http://localhost:4000/2017/12/05/gboard-update/">&lt;p&gt;Macstories:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This was one of my complaints about the old Gboard: its default light theme looked garish in dark apps; on the other hand, if you persistently enabled Gboard’s dark theme, then it would look out of place in apps like Messages or Mail. With automatic theme switch, changing Gboard’s default appearance is no longer a concern because it adapts to the app you’re using.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Another great update to my &lt;a href=&quot;http://colm.io/2016/09/10/gboard/&quot;&gt;favourite&lt;/a&gt; iOS keyboard, Gboard.&lt;/p&gt;</content><author><name>Colm Mulhall</name></author><category term="Google" /><category term="gboard" /><category term="dark" /><summary type="html">Macstories:</summary></entry><entry><title type="html">Apple’s had a shockingly bad week of software problems</title><link href="http://localhost:4000/2017/12/03/apple-bugs/" rel="alternate" type="text/html" title="Apple's had a shockingly bad week of software problems" /><published>2017-12-03T16:00:00+00:00</published><updated>2017-12-03T16:00:00+00:00</updated><id>http://localhost:4000/2017/12/03/apple-bugs</id><content type="html" xml:base="http://localhost:4000/2017/12/03/apple-bugs/">&lt;p&gt;The Verge:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Let’s recap the week of Apple software problems:&lt;/p&gt;
@@ -49,9 +100,7 @@
   &lt;p&gt;The feature is now available on iPhone, iPad, iPod touch and Mac devices.&lt;/p&gt;
 
   &lt;p&gt;A spokesperson for Apple explained that the transport feature is customised for each city where it’s available.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Great to see this make its way to Apple Maps finally. It’s fairly cool to see the level of&lt;/p&gt;</content><author><name>Colm Mulhall</name></author><category term="apple" /><category term="apple" /><category term="maps" /><category term="ireland" /><summary type="html">Apple has brought its transport directions feature to Apple Maps in Ireland, enabling users to get correct information on metro lines, buses, trains and ferries.
+&lt;/blockquote&gt;</content><author><name>Colm Mulhall</name></author><category term="apple" /><category term="apple" /><category term="maps" /><category term="ireland" /><summary type="html">Apple has brought its transport directions feature to Apple Maps in Ireland, enabling users to get correct information on metro lines, buses, trains and ferries.
 
   The feature is now available on iPhone, iPad, iPod touch and Mac devices.
 
@@ -127,91 +176,4 @@
       &lt;p&gt;&lt;a href=&quot;https://twitter.com/stroughtonsmith&quot;&gt;Steve Troughton-Smith’s&lt;/a&gt; Twitter is basically the Bible on leaks. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Colm Mulhall</name></author><category term="Apple" /><category term="leak" /><category term="event" /><summary type="html">There hasn’t been an Apple event with leaks this bad for as long as I can remember.</summary></entry><entry><title type="html">iOS 11 release date</title><link href="http://localhost:4000/2017/08/25/ios11-release-date/" rel="alternate" type="text/html" title="iOS 11 release date" /><published>2017-08-25T11:40:00+01:00</published><updated>2017-08-25T11:40:00+01:00</updated><id>http://localhost:4000/2017/08/25/ios11-release-date</id><content type="html" xml:base="http://localhost:4000/2017/08/25/ios11-release-date/">&lt;p&gt;Historical iOS GM release dates:&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;iOS Version&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Release Date&lt;/th&gt;
-      &lt;th style=&quot;text-align: right&quot;&gt;Day of the week&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;iPhone OS 1&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;29th June 2007&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;Friday&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;iPhone OS 2&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;11th July 2008&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;Friday&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;iPhone OS 3&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;17th June 2009&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;Wednesday&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;iOS 4&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;21th June 2010&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;Monday&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;iOS 5&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;12th October 2011&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;Wednesday&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;iOS 6&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;19th September 2012&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;Wednesday&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;iOS 7&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;18th September 2013&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;Wednesday&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;iOS 8&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;17th September 2014&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;Wednesday&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;iOS 9&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;16th September 2015&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;Wednesday&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;iOS 10&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;13th September 2016&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;Tuesday&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;From iOS 5 onwards there is an obvious trend - midweek release in the third week of September. Based on that, and the move to Tuesday last year, I will go with &lt;strong&gt;Tuesday, September 12th&lt;/strong&gt; as the release date for iOS 11.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Update&lt;/em&gt; - I was a week off. iOS 11 releases to the public on the &lt;a href=&quot;https://www.macstories.net/news/apple-announces-ios-11-to-launch-on-september-19th/&quot;&gt;19th September&lt;/a&gt;.&lt;/p&gt;</content><author><name>Colm Mulhall</name></author><category term="Apple" /><category term="ios" /><category term="release" /><summary type="html">Historical iOS GM release dates:</summary></entry><entry><title type="html">Apple discontinues the iPod nano and iPod shuffle</title><link href="http://localhost:4000/2017/08/01/apple-discontinues-nano-shuffle/" rel="alternate" type="text/html" title="Apple discontinues the iPod nano and iPod shuffle" /><published>2017-08-01T11:10:00+01:00</published><updated>2017-08-01T11:10:00+01:00</updated><id>http://localhost:4000/2017/08/01/apple-discontinues-nano-shuffle</id><content type="html" xml:base="http://localhost:4000/2017/08/01/apple-discontinues-nano-shuffle/">&lt;p&gt;Apple silently discontinued the &lt;a href=&quot;https://en.wikipedia.org/wiki/IPod_Nano&quot;&gt;iPod nano&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/IPod_Shuffle&quot;&gt;iPod shuffle&lt;/a&gt; a few days ago. Although not entirely surprising &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; , it’s still worth noting the significance of this.&lt;/p&gt;
-
-&lt;p&gt;The nano was, and still is an excellent device. I &lt;a href=&quot;http://colm.io/2016/01/18/ipod-nano-first-gen/&quot;&gt;still have&lt;/a&gt; a first generation one at home which despite being over eleven years old, wouldn’t look out of place today.&lt;/p&gt;
-
-&lt;p&gt;The shuffle is interesting in that it was the only music player in Apple’s lineup that was truly great for exercise. Until the Apple Watch fulfills a better role in health and fitness, there really isn’t any device now in the lineup that is portable and light enough to be comfortable to wear while running or in the gym.&lt;/p&gt;
-
-&lt;p&gt;The iPod touch hangs on as the last link to the iPod brand - but it’s unlikely to see any more significant updates as it slowly fades into history.&lt;/p&gt;
-
-&lt;p&gt;For all the nostalgia and admiration for these devices however, there is no getting away from the fact that the world has long moved on from the notion of syncing music to a device using a computer, and that is really what killed these iPods.&lt;/p&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;The nano has not seen an update since 2012, while the last update to the shuffle dates back to 2010. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Colm Mulhall</name></author><category term="apple" /><category term="ipod" /><category term="nano" /><category term="shuffle" /><summary type="html">Apple silently discontinued the iPod nano and iPod shuffle a few days ago. Although not entirely surprising 1 , it’s still worth noting the significance of this.
-
-
-  
-    
-      The nano has not seen an update since 2012, while the last update to the shuffle dates back to 2010. &amp;#8617;</summary></entry></feed>
+&lt;/div&gt;</content><author><name>Colm Mulhall</name></author><category term="Apple" /><category term="leak" /><category term="event" /><summary type="html">There hasn’t been an Apple event with leaks this bad for as long as I can remember.</summary></entry></feed>
