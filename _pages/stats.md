@@ -7,16 +7,19 @@ permalink: /stats/
 
 {% comment %} ------------------------------------- Calculate stats ---------------------------------- {% endcomment %}
 
-{% comment %} 
-	Count all posts and linked posts. 
-{% endcomment %}
-
 {% assign total_post_count = site.posts | size %}
 {% assign linked_post_count = '' %}
 {% assign first_post_date = '' %}
+{% assign first_post_url = '' %}
 {% assign last_post_date = '' %}
+{% assign last_post_url = '' %}
 {% assign running_word_count = 0 %}
 {% assign total_word_count = 0 %}
+{% assign current_post_word_count = 0 %}
+{% assign longest_post_title = '' %}
+{% assign longest_post_word_count = 0 %}
+{% assign longest_post_url = '' %}
+
 
 {% for post in site.posts %}
 	
@@ -26,14 +29,24 @@ permalink: /stats/
 
 	{% if forloop.last %}
 		{% assign first_post_date = post.date %}
+		{% assign first_post_url = post.url %}
 	{% endif %}
 
 	{% if forloop.first %}
 		{% assign last_post_date = post.date %}
+		{% assign last_post_url = post.url %}
 	{% endif %}
 
 	{% assign running_word_count = post.content | number_of_words %}
 	{% assign total_word_count = total_word_count | plus: running_word_count %}
+
+	{% assign current_post_word_count = post.content | number_of_words %}
+
+	{% if current_post_word_count > longest_post_word_count %}
+		{% assign longest_post_word_count = post.content | number_of_words %}
+		{% assign longest_post_title = post.title %}
+		{% assign longest_post_url = post.url %}
+	{% endif %}
 
 {% endfor %}
 
@@ -55,11 +68,18 @@ permalink: /stats/
 
 {% comment %} ------------------------------------ Display the stats --------------------------------- {% endcomment %}
 
-* Total posts: {{ total_post_count }} 
-* Linked posts: {{ linked_post_count.size }} 
-* Non-linked posts: {{ site.posts | size | minus: linked_post_count.size}} 
-* Words written: {{ total_word_count }}
-* Average words per post: {{ total_word_count | divided_by: total_post_count }}
+Below are some mildly interesting stats about the blog:
+
+* *{{ days_since_first_post }}* days have passed between the [first][first] post and the [most recent][last] post
+* There has been a total of *{{ total_post_count }}* posts 
+* *{{ linked_post_count.size }}* of these are linked, *{{ site.posts | size | minus: linked_post_count.size}}*  are non-linked
+* *{{ total_word_count }}* words have been written
+* The average word count per post is *{{ total_word_count | divided_by: total_post_count }}*
+* The longest post is *"[{{ longest_post_title }}][longest]"* with *{{ longest_post_word_count }}* words
+
+[first]:{{ first_post_url }}
+[last]:{{ last_post_url }}
+[longest]:{{ longest_post_url }}
 
 
 
