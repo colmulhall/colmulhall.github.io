@@ -23,10 +23,12 @@ permalink: /stats/
 
 {% for post in site.posts %}
 	
+	{% comment %} Count the linked posts {% endcomment %}
 	{% if post.link != null %}
 		{% assign linked_post_count = linked_post_count | append: 'x' %}
 	{% endif %}
 
+	{% comment %} Get the first and most recent posts {% endcomment %}
 	{% if forloop.last %}
 		{% assign first_post_date = post.date %}
 		{% assign first_post_url = post.url %}
@@ -37,6 +39,7 @@ permalink: /stats/
 		{% assign last_post_url = post.url %}
 	{% endif %}
 
+	{% comment %} Calculate word counts {% endcomment %}
 	{% assign running_word_count = post.content | number_of_words %}
 	{% assign total_word_count = total_word_count | plus: running_word_count %}
 

@@ -18,7 +18,7 @@ permalink: /archive/
 </form>
 
 <section id="archive">
-  <h3>2017</h3>
+  <h3>2018</h3>
   {%for post in site.posts %}
     {% unless post.next %}
       <ul class="this">
