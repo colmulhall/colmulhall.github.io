@@ -19,6 +19,13 @@ permalink: /stats/
 {% assign longest_post_title = '' %}
 {% assign longest_post_word_count = 0 %}
 {% assign longest_post_url = '' %}
+{% assign monday_count = 0 %}
+{% assign tuesday_count = 0 %}
+{% assign wednesday_count = 0 %}
+{% assign thursday_count = 0 %}
+{% assign friday_count = 0 %}
+{% assign saturday_count = 0 %}
+{% assign sunday_count = 0 %}
 
 
 {% for post in site.posts %}
@@ -51,6 +58,25 @@ permalink: /stats/
 		{% assign longest_post_url = post.url %}
 	{% endif %}
 
+	{% comment %} Calculate post count per day {% endcomment %}
+	{% capture day %}{{ post.date | date: '%A' }}{% endcapture %}
+	{% case day %}
+	  {% when 'Monday' %}
+	  	{% assign monday_count = monday_count | plus: 1 %}
+	  {% when 'Tuesday' %}
+	  	{% assign tuesday_count = tuesday_count | plus: 1 %}
+	  {% when 'Wednesday' %}
+	  	{% assign wednesday_count = wednesday_count | plus: 1 %}
+	  {% when 'Thursday' %}
+	  	{% assign thursday_count = thursday_count | plus: 1 %}
+	  {% when 'Friday' %}
+	  	{% assign friday_count = friday_count | plus: 1 %}
+	  {% when 'Saturday' %}
+	  	{% assign saturday_count = saturday_count | plus: 1 %}
+	  {% when 'Sunday' %}
+	  	{% assign sunday_count = sunday_count | plus: 1 %}
+	{% endcase %}
+
 {% endfor %}
 
 {% comment %} 
@@ -73,12 +99,20 @@ permalink: /stats/
 
 Below are some mildly interesting stats about the blog:
 
-* *{{ days_since_first_post }}* days have passed between the [first][first] post and the [most recent][last] post
-* There has been a total of *{{ total_post_count }}* posts 
-* *{{ linked_post_count.size }}* of these are linked, *{{ site.posts | size | minus: linked_post_count.size}}*  are non-linked
-* *{{ total_word_count }}* words have been written
-* The average word count per post is *{{ total_word_count | divided_by: total_post_count }}*
-* The longest post is *"[{{ longest_post_title }}][longest]"* with *{{ longest_post_word_count }}* words
+* *{{ days_since_first_post }}* days have passed between the [first][first] post and the [most recent][last] post.
+
+* There has been a total of *{{ total_post_count }}* posts.
+
+* *{{ linked_post_count.size }}* of these are linked, *{{ site.posts | size | minus: linked_post_count.size}}*  are non-linked.
+
+* There has been *{{ monday_count }}* posts on a *Monday*, *{{ tuesday_count }}* on a *Tuesday*, *{{ wednesday_count }}* on a *Wednesday*, *{{ thursday_count }}* on a *Thursday*, *{{ friday_count }}* on a *Friday*, *{{ saturday_count }}* on a *Saturday* and *{{ sunday_count }}* on a *Sunday*.
+
+* *{{ total_word_count }}* words have been written.
+
+* The average word count per post is *{{ total_word_count | divided_by: total_post_count }}*.
+
+* The longest post is *"[{{ longest_post_title }}][longest]"* with *{{ longest_post_word_count }}* words.
+
 
 [first]:{{ first_post_url }}
 [last]:{{ last_post_url }}
