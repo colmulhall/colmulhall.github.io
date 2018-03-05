@@ -15,7 +15,7 @@ You can find me at the following places:
 * [Twitter][twtr]
 * [LinkedIn][lnkin]
 * [GitHub][gthb]
-* [Email][mail]
+* [Micro.blog][micro]
 
 ## About This Site
 
@@ -34,7 +34,7 @@ Some [stats][stats].
 [twtr]: https://twitter.com/ColmMulhall
 [lnkin]: https://ie.linkedin.com/in/colmmulhall
 [gthb]: https://github.com/colmulhall
-[mail]: mailto:colmmul92@gmail.com
+[micro]: http://micro.blog/colmulhall
 [jek]: http://www.jekyllrb.com
 [hrku]: https://www.heroku.com/
 [hvr]: https://www.hover.com/
