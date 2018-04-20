@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why I love link blogging
+title: "Why I love link blogging"
 link: https://birchtree.me/blog/why-i-love-link-blogging/
 date: 2018-04-21 12:59:00 +0100
 category: Blogging
