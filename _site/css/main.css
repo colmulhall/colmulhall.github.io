@@ -123,6 +123,22 @@ article
     display: inline;
 }
 
+.post-navigation
+{
+	margin-bottom: 7em;
+}
+.previous-post
+{
+	float: left;
+	display: inline;
+}
+
+.next-post
+{
+	float: right;
+	display: inline;
+}
+
 .copyright 
 {
 	text-align: center;
