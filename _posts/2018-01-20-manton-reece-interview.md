@@ -3,7 +3,7 @@ layout: post
 title: " An interview with Manton Reece of Micro.blog" 
 link: http://cdevroe.com/2018/01/19/interview-manton/ 
 date: 2018-01-20 23:00:00 +0100 
-category: blogging 
+category: Blogging 
 tags: [micro.blog, blog] 
 --- 
 

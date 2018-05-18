@@ -3,7 +3,7 @@ layout: post
 title:  "Paul Kimmage meets Rory McIlroy"
 link: http://www.independent.ie/sport/golf/paul-kimmage-meets-rory-mcilroy-the-truth-about-the-olympics-close-friendship-with-tiger-and-the-important-things-in-life-35349397.html
 date:   2017-1-10 12:01:00 +0100
-category: Sport
+category: General
 tags: [golf, tiger]
 ---
 

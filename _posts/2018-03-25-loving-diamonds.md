@@ -3,7 +3,7 @@ layout: post
 title:  "Loving Diamonds Are Forever" 
 link: https://eyeonbond.com/2018/01/10/loving-diamonds-are-forever/ 
 date:   2018-03-25 10:55:00 +0100
-category: Film
+category: Entertainment
 tags: [Bond]
 ---
 

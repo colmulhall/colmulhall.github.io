@@ -3,7 +3,7 @@ layout: post
 title:  "I've turned my notifications off"
 link: https://medium.com/@chrishannah/ive-turned-my-notifications-off-bb1627e4a4df#.1h65r1euq
 date:   2016-7-18 17:14:07 +0100
-category: Tech
+category: Technology
 tags: [notifications]
 ---
 

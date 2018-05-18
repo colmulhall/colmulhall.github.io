@@ -3,7 +3,7 @@ layout: post
 title:  "Avoiding BlackBerry's fate"
 link: https://marco.org/2016/05/21/avoiding-blackberrys-fate
 date:   2016-5-22 17:14:07 +0100
-category: Tech
+category: Technology
 tags: [apple, blackberry, linked]
 ---
 

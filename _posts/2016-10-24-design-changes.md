@@ -2,7 +2,7 @@
 layout: post
 title:  "Design changes - in progress"
 date:   2016-10-24 17:14:07 +0100
-category: Writing
+category: Blogging
 tags: [design, blogging]
 ---
 

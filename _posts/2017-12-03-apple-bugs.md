@@ -3,7 +3,7 @@ layout: post
 title: "Apple's had a shockingly bad week of software problems"
 link: https://www.theverge.com/2017/12/2/16727238/apple-macos-ios-software-problems-updates
 date: 2017-12-03 17:00:00 +0100
-category: Apple
+category: Technology
 tags: [bugs, fixes]
 ---
 

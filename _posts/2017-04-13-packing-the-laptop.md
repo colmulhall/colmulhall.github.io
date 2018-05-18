@@ -3,7 +3,7 @@ layout: post
 title: "Packing The Laptop"
 link: https://www.macsparky.com/blog/2017/4/packing-the-laptop
 date: 2017-04-13 10:20:00 +0100
-category: Apple
+category: Technology
 tags: [mac, ipad]
 ---
 

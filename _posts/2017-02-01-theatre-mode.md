@@ -2,7 +2,7 @@
 layout: post
 title:  "Theatre Mode"
 date:   2017-02-01 12:21:00 +0100
-category: Tech
+category: Technology
 tags: [ios, dark mode]
 ---
 

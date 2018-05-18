@@ -3,7 +3,7 @@ layout: post
 title: "Gboard adds automatic theme switching" 
 link: https://www.macstories.net/ios/gboard-adds-automatic-theme-switching/ 
 date: 2017-12-05 10:40:00 +0100 
-category: Google 
+category: Apps 
 tags: [gboard, dark] 
 --- 
 

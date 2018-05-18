@@ -3,7 +3,7 @@ layout:   post
 title:    "Switching to an iPhone SE"
 link:     "https://mjtsai.com/blog/2017/04/17/switching-to-an-iphone-se/"
 date:     2017-04-21 11:11:00 +0100
-category: Apple
+category: Technology
 tags:     [iphone, screen]
 ---
 

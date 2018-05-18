@@ -2,7 +2,7 @@
 layout:   post
 title:    "N.O.V.A. Legacy"
 date:     2017-02-22 17:35:00 +0100
-category: Games
+category: Apps
 tags:     [nova, app]
 ---
 

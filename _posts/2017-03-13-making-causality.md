@@ -3,7 +3,7 @@ layout: post
 title:  "Making Causality"
 link: http://engineered.network/causality/blog/making-causality
 date:   2017-03-13 12:15:00 +0100
-category: Podcast
+category: Podcasts
 tags: [causality]
 ---
 

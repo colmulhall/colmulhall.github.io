@@ -3,7 +3,7 @@ layout:   post
 title:    "iPad and Mac—the early years"
 link:     http://leancrew.com/all-this/2017/02/ipad-and-mac-the-early-years/
 date:     2017-02-08 10:20:00 +0100
-category: Tech
+category: Technology
 tags:     [apple, ipad]
 ---
 

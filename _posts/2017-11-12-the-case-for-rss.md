@@ -3,7 +3,7 @@ layout: post
 title: "The case for RSS"
 link: https://www.macsparky.com/blog/2017/11/the-case-for-rss
 date: 2017-11-12 22:00:00 +0100
-category: RSS
+category: Blogging
 tags: [RSS]
 ---
 

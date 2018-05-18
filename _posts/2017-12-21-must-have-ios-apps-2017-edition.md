@@ -3,7 +3,7 @@ layout: post
 title: "Must-have iOS apps, 2017 edition" 
 link: https://www.macstories.net/stories/my-must-have-ios-apps-2017-edition/
 date: 2017-12-21 01:00:00 +0100 
-category: Tech 
+category: Apps 
 tags: [apps, iOS] 
 --- 
 

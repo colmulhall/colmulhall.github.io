@@ -2,7 +2,7 @@
 layout: post
 title:  "Adios headphone jack"
 date:   2016-8-26 17:14:07 +0100
-category: Tech
+category: Technology
 tags: [apple, headphones]
 ---
 

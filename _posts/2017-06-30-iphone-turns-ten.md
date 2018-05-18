@@ -2,7 +2,7 @@
 layout: post
 title: "iPhone 10th anniversary round-up"
 date: 2017-06-30 17:17:00 +0100
-category: Apple
+category: Technology
 tags: [iphone, anniversary]
 ---
 

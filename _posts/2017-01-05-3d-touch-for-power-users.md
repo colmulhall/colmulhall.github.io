@@ -3,7 +3,7 @@ layout: post
 title:  "3D Touch for Power Users"
 link: https://www.macstories.net/stories/3d-touch-for-power-users/
 date:   2017-1-5 09:14:00 +0100
-category: Tech
+category: Technology
 tags: [3d Touch, iphone]
 ---
 

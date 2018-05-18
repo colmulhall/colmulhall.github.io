@@ -2,7 +2,7 @@
 layout: post
 title:  "Discovering RSS"
 date:   2015-12-28 17:14:07 +0100
-category: Tech
+category: Technology
 tags: [rss, apps]
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "How Apple created Nintendo’s best console"
 link: https://ohmdee.com/bait-and-switch-how-apple-created-nintendos-best-console-5268e62adbc9
 date: 2017-07-21 15:55:00 +0100
-category: gaming
+category: Technology
 tags: [apple, nintendo, game center]
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Must-have iOS apps, 2015 edition"
 link: https://www.macstories.net/roundups/my-must-have-ios-apps-2015-edition/
 date:   2015-12-22 17:14:07 +0100
-category: Tech
+category: Apps
 tags: [apps, linked]
 ---
 

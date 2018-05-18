@@ -2,7 +2,7 @@
 layout: post
 title:  "Apple special event "
 date:   2016-3-21 17:14:07 +0100
-category: Tech
+category: Technology
 tags: [apple, event]
 ---
 

@@ -119,7 +119,3 @@ Below are some mildly interesting stats about the blog:
 [longest]:{{ longest_post_url }}
 
 
-
-
-
-

@@ -3,7 +3,7 @@ layout: post
 title: "From Jekyll To Ghost"
 link: https://rogerstringer.com/2017/07/01/from-jekyll-to-ghost/
 date: 2017-07-06 15:30:00 +0100
-category: Blog
+category: Blogging
 tags: [jekyll, ghost]
 ---
 

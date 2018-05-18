@@ -3,7 +3,7 @@ layout: post
 title:  "The history of the iPod nano"
 link: http://www.512pixels.net/blog/2016/1/the-history-of-the-ipod-nano
 date:   2016-1-18 17:14:07 +0100
-category: Tech
+category: Technology
 tags: [apple, ipod, linked]
 ---
 

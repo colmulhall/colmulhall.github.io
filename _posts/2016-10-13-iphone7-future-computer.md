@@ -3,7 +3,7 @@ layout: post
 title:  "iPhone 7: Computer from the Future"
 link: https://www.macstories.net/stories/iphone-7-computer-from-the-future/
 date:   2016-10-13 17:14:07 +0100
-category: Tech
+category: Technology
 tags: [apple, iphone]
 ---
 

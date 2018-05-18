@@ -3,7 +3,7 @@ layout: post
 title:  "The case against Control Center"
 link: http://www.512pixels.net/blog/2016/1/the-case-against-control-center
 date:   2016-1-28 17:14:07 +0100
-category: Tech
+category: Technology
 tags: [apple, ios, linked]
 ---
 

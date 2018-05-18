@@ -3,7 +3,7 @@ layout: post
 title:  "Let us loop you in"
 link: http://www.apple.com/apple-events/march-2016/
 date:   2016-3-12 17:14:07 +0100
-category: Tech
+category: Technology
 tags: [apple, event, linked]
 ---
 

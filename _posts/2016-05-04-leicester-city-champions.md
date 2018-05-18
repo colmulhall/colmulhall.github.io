@@ -3,7 +3,7 @@ layout: post
 title:  "Leicester City win the Premier League"
 link: http://www.lcfc.com/news/article/champions-leicester-city-secure-premier-league-title-3089004.aspx
 date:   2016-5-4 17:14:07 +0100
-category: Sport
+category: Entertainment
 tags: [leicester, soccer, linked]
 ---
 

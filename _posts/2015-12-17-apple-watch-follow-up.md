@@ -3,7 +3,7 @@ layout: post
 title:  "Apple Watch follow up"
 link: http://www.512pixels.net/blog/2015/12/apple-watch-follow-up
 date:   2015-12-17 17:14:07 +0100
-category: Tech
+category: Technology
 tags: [apple, watch, linked]
 ---
 

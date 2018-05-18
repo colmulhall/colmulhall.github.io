@@ -2,7 +2,7 @@
 layout: post
 title:  "Google Analytics Intelligence"
 date:   2018-01-04 22:30:00 +0100
-category: Blog
+category: Blogging
 tags: [analytics]
 ---
 

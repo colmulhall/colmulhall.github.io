@@ -3,7 +3,7 @@ layout: post
 title:  "Monument Valley year 2 in numbers"
 link: https://medium.com/@ustwogames/monument-valley-in-numbers-year-2-440cf5562fe#.vkbwpv89d
 date:   2016-5-26 17:14:07 +0100
-category: Games
+category: Apps
 tags: [monument valley, apps]
 ---
 

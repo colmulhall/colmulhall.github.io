@@ -2,7 +2,7 @@
 layout: post
 title:  "Google Analytics"
 date:   2016-7-7 17:14:07 +0100
-category: Development
+category: Blogging
 tags: [google, analytics]
 ---
 

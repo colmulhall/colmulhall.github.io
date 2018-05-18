@@ -2,7 +2,7 @@
 layout: post
 title: "Apple discontinues the iPod nano and iPod shuffle"
 date: 2017-08-01 11:10:00 +0100
-category: apple
+category: Technology
 tags: [ipod, nano, shuffle]
 ---
 

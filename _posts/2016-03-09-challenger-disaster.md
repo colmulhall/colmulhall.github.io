@@ -3,7 +3,7 @@ layout: post
 title:  "An oral history of the Space Shuttle Challenger disaster"
 link: http://www.popularmechanics.com/space/a18616/an-oral-history-of-the-space-shuttle-challenger-disaster/
 date:   2016-3-9 17:14:07 +0100
-category: Interesting
+category: General
 tags: [challenger, linked]
 ---
 

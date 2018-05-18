@@ -3,7 +3,7 @@ layout: post
 title:  "RPG Reload - Ravensword Shadowlands"
 link: http://toucharcade.com/2016/04/14/rpg-reload-file-076-ravensword-shadowlands/
 date:   2016-4-18 17:14:07 +0100
-category: Games
+category: Apps
 tags: [ios, apps, linked]
 ---
 

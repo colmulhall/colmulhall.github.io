@@ -3,7 +3,7 @@ layout: post
 title: "The Mac Pro Lives"
 link: http://daringfireball.net/2017/04/the_mac_pro_lives
 date: 2017-04-04 16:20:00 +0100
-category: Apple
+category: Technology
 tags: [mac, pro]
 ---
 

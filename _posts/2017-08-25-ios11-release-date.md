@@ -2,7 +2,7 @@
 layout:   post
 title:    "iOS 11 release date"
 date:     2017-08-25 11:40:00 +0100
-category: Apple
+category: Technology
 tags:     [ios, release]
 ---
 

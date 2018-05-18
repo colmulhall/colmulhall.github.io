@@ -3,7 +3,7 @@ layout: post
 title:  "Must-have iOS apps, 2016 edition"
 link: https://www.macstories.net/roundups/my-must-have-ios-apps-web-services-2016-edition/
 date:   2016-12-23 15:51:00 +0100
-category: Tech
+category: Apps
 tags: [apps, linked]
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Instagram testing wild new black and white design"
 link: http://www.technobuffalo.com/2016/04/27/instagram-black-and-white/
 date:   2016-4-29 17:14:07 +0100
-category: Tech
+category: Apps
 tags: [instagram, apps]
 ---
 

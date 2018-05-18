@@ -3,7 +3,7 @@ layout: post
 title:  "Bully: Anniversary Edition coming to mobile"
 link: http://toucharcade.com/2016/12/08/bully-anniversary-edition-review/
 date:   2016-12-08 11:41:00 +0100
-category: Entertainment
+category: Apps
 tags: [rockstar, games, bully]
 ---
 

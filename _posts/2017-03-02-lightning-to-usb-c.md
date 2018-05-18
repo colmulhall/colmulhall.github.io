@@ -3,7 +3,7 @@ layout: post
 title:  "The Cases for (and Against) Apple Adopting USB-C on Future iPhones"
 link: https://www.macstories.net/notes/the-cases-for-and-against-apple-adopting-usb-c-on-future-iphones/
 date:   2017-03-02 09:40:00 +0100
-category: Tech
+category: Technology
 tags: [apple, usb]
 ---
 

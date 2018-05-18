@@ -3,7 +3,7 @@ layout: post
 title:  "Discontinuing support for Check the Weather"
 link: https://david-smith.org/blog/2016/10/17/discontinuing-support-for-check-the-weather/
 date:   2016-10-18 17:14:07 +0100
-category: Tech
+category: Apps
 tags: [apps]
 ---
 

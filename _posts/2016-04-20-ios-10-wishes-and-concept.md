@@ -3,7 +3,7 @@ layout: post
 title:  "iOS 10: Wishes and Concept Video"
 link: https://www.macstories.net/stories/ios-10-wishes/
 date:   2016-4-20 17:14:07 +0100
-category: Tech
+category: Technology
 tags: [apple, ios, linked]
 ---
 

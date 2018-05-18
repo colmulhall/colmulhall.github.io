@@ -2,7 +2,7 @@
 layout: post
 title: "September event"
 date: 2017-09-18 09:45:00 +0100
-category: Apple
+category: Technology
 tags: [iphone, event]
 ---
 

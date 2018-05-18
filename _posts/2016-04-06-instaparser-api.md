@@ -3,7 +3,7 @@ layout: post
 title:  "Instaparser API"
 link: http://blog.instapaper.com/post/142296652536
 date:   2016-4-6 17:14:07 +0100
-category: Tech
+category: Technology
 tags: [instapaper, apps, linked]
 ---
 

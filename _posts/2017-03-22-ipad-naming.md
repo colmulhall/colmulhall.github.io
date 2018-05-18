@@ -2,7 +2,7 @@
 layout: post
 title:  "iPad naming conventions"
 date:   2017-03-22 09:40:00 +0100
-category: Apple
+category: Technology
 tags: [ipad, naming]
 ---
 

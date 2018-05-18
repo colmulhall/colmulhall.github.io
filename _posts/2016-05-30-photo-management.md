@@ -2,7 +2,7 @@
 layout: post
 title:  "Photo management"
 date:   2016-5-30 17:14:07 +0100
-category: Tech
+category: Technology
 tags: [photos, personal]
 ---
 

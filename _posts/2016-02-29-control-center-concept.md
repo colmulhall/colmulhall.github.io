@@ -3,7 +3,7 @@ layout: post
 title:  "Sam Beckett’s advanced Control Center concept"
 link: https://www.macstories.net/linked/sam-becketts-advanced-control-center-concept/ 
 date:   2016-2-29 17:14:07 +0100
-category: Tech
+category: Technology
 tags: [apple, control center, linked]
 ---
 

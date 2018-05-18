@@ -3,7 +3,7 @@ layout: post
 title:  "The Inward-Looking Siri"
 link: https://512pixels.net/2016/10/the-inward-looking-siri/
 date:   2016-10-15 17:14:07 +0100
-category: Tech
+category: Technology
 tags: [apple, siri]
 ---
 

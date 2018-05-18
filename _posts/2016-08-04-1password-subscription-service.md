@@ -3,7 +3,7 @@ layout: post
 title:  "Introducing our new 1Password subscription service"
 link: https://blog.agilebits.com/2016/08/03/new-1password-hosted-service/
 date:   2016-8-4 17:14:07 +0100
-category: Tech
+category: Technology
 tags: [1password, apps]
 ---
 

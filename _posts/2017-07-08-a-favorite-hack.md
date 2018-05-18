@@ -3,7 +3,7 @@ layout: post
 title: "A favorite hack"
 link: https://david-smith.org/blog/2017/07/07/a-favorite-hack/
 date: 2017-07-08 13:50:00 +0100
-category: programming
+category: Development
 tags: [hack]
 ---
 

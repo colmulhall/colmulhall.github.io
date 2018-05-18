@@ -3,7 +3,7 @@ layout: post
 title:  "iPad Pro or iPad Air 2?"
 link: http://www.speirs.org/blog/2016/3/24/deployment-diary-ipad-pro-or-ipad-air-2
 date:   2016-3-26 17:14:07 +0100
-category: Tech
+category: Technology
 tags: [apple, ipad, linked]
 ---
 
