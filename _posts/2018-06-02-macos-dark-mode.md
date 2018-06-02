@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dark mode on MacOS leaked"
+title: "Dark mode on macOS leaked"
 link: https://9to5mac.com/2018/06/02/leaked-macos-10-14-screenshots-show-off-new-dark-mode-apple-news-app-xcode-10/
 date: 2018-06-02 22:57:00 +0100
 category: Technology
