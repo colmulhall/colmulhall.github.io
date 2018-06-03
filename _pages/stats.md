@@ -26,6 +26,18 @@ permalink: /stats/
 {% assign friday_count = 0 %}
 {% assign saturday_count = 0 %}
 {% assign sunday_count = 0 %}
+{% assign january_count = 0 %}
+{% assign february_count = 0 %}
+{% assign march_count = 0 %}
+{% assign april_count = 0 %}
+{% assign may_count = 0 %}
+{% assign june_count = 0 %}
+{% assign july_count = 0 %}
+{% assign august_count = 0 %}
+{% assign september_count = 0 %}
+{% assign october_count = 0 %}
+{% assign november_count = 0 %}
+{% assign december_count = 0 %}
 
 
 {% for post in site.posts %}
@@ -77,6 +89,34 @@ permalink: /stats/
 	  	{% assign sunday_count = sunday_count | plus: 1 %}
 	{% endcase %}
 
+	{% capture month %}{{ post.date | date: '%B' }}{% endcapture %}
+	{% case month %}
+	  {% when 'January' %}
+	  	{% assign january_count = january_count | plus: 1 %}
+	  {% when 'February' %}
+	  	{% assign february_count = february_count | plus: 1 %}
+	  {% when 'March' %}
+	  	{% assign march_count = march_count | plus: 1 %}
+	  {% when 'April' %}
+	  	{% assign april_count = april_count | plus: 1 %}
+	  {% when 'May' %}
+	  	{% assign may_count = may_count | plus: 1 %}
+	  {% when 'June' %}
+	  	{% assign june_count = june_count | plus: 1 %}
+	  {% when 'July' %}
+	  	{% assign july_count = july_count | plus: 1 %}
+	  {% when 'August' %}
+	  	{% assign august_count = august_count | plus: 1 %}
+	  {% when 'September' %}
+	  	{% assign september_count = september_count | plus: 1 %}
+	  {% when 'October' %}
+	  	{% assign october_count = october_count | plus: 1 %}
+	  {% when 'November' %}
+	  	{% assign november_count = november_count | plus: 1 %}
+	  {% when 'December' %}
+	  	{% assign december_count = december_count | plus: 1 %}
+	{% endcase %}
+
 {% endfor %}
 
 {% comment %} 
@@ -106,6 +146,8 @@ Below are some mildly interesting stats about the blog:
 * *{{ linked_post_count.size }}* of these are linked, *{{ site.posts | size | minus: linked_post_count.size}}*  are non-linked.
 
 * There has been *{{ monday_count }}* posts on a *Monday*, *{{ tuesday_count }}* on a *Tuesday*, *{{ wednesday_count }}* on a *Wednesday*, *{{ thursday_count }}* on a *Thursday*, *{{ friday_count }}* on a *Friday*, *{{ saturday_count }}* on a *Saturday* and *{{ sunday_count }}* on a *Sunday*.
+
+* There has been *{{ january_count }}* posts in the month of *January*, *{{ february_count }}* in *February*, *{{ march_count }}* in *March*, *{{ april_count }}* in *April*, *{{ may_count }}* in *May*, *{{ june_count }}* in *June*, *{{ july_count }}* in *July*, *{{ august_count }}* in *August*, *{{ september_count }}* in *September*, *{{ october_count }}* in *October*, *{{ november_count }}* in *November* and *{{ december_count }}* in *December*.
 
 * *{{ total_word_count }}* words have been written.
 
