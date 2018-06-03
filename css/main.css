@@ -42,8 +42,8 @@ hr.separator
 	margin-bottom: 70px;
 	max-width: 50%;
 	border: 0;
-    	height: 1px;
-   	 background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+    height: 1px;
+   	background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
 }
 
 #header 
@@ -68,6 +68,7 @@ hr.separator
 
 .navigation 
 {
+	margin-top: 10px;
 	color: #B8860B;
 }
 
@@ -159,30 +160,29 @@ blockquote
   color:#505050;
 }
 
-.center img.wide {
-    width: 120% !important;
-    max-width: 120% !important;
-}
-
-.center img.left
-{
-  margin-right:20em;
-}
-
-.center img.right
-{
-  margin-left:20em;
-}
-
-.content img
-{
-  max-width:100%;
-}
-
 .image-single {
   	max-width:100%;
  	max-height:100%;
 }
+
+/*img.image-wide {
+	margin-left: -250px;
+	max-width: 1160px;
+}
+
+@media (max-width: 1200px) {
+    img.image-wide { 
+    	margin-left: calc((100vw - 620px) / -2); 
+    	max-width: 100vw; 
+    }
+}
+
+@media (max-width: 680px) {
+    img.image-wide { 
+    	margin-left: -15px; 
+    	max-width: 100vw; 
+    }
+}*/
 
 figure
 {
