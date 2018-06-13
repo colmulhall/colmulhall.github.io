@@ -7,8 +7,7 @@ permalink: /about/
 I'm Colm Mulhall, a software developer based in Limerick, Ireland. 
 
 In 2014 I graduated with a [degree in Computer Science][csdegree] from the 
-[Dublin Institute of Technology][comp]. I am currently working as 
-a developer in the telco industry, predominantly writing Java.
+[Dublin Institute of Technology][comp]. I have been working as a software engineer since graduating.
 
 You can find me at the following places: 
 
