@@ -13,6 +13,6 @@ Instapaper blog:
 >
 >We want to emphasize that not much is changing for the Instapaper product outside the new ownership. The product will continue to be built and maintained by the same people who’ve been working on Instapaper for the past five years. We plan to continue offering a robust service that focuses on readers and the reading experience for the foreseeable future.
 
-I'm glad to see this move, seeing as Instapaper has been unavailable for use for the past few months in the EU becuase of it non-compliance with GDPR. I've since move onto using [Pocket][pocket] as a replacement, but it would be great to see Instapaper return.
+I'm glad to see this move, seeing as Instapaper has been unavailable for use for the past few months in the EU becuase of it non-compliance with GDPR. I've since moved onto using [Pocket][pocket] as a replacement, but it would be great to see Instapaper return.
 
 [pocket]:https://en.wikipedia.org/wiki/Pocket_(service)
