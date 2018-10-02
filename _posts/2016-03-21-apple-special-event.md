@@ -46,4 +46,4 @@ These days pretty much everything about these events get leaked beforehand so it
 [jsnellse]:https://twitter.com/jsnell/status/712047903154577408
 [underscore16]:https://david-smith.org/blog/2015/09/10/16gb-is-a-bad-user-experience/
 [slowwatch]:https://sixcolors.com/post/2016/02/why-slowness-is-killing-the-apple-watch/
-[ios93]:http://www.colm.io/2016/1/15/ios-9-3
+[ios93]:http://www.colm.io/2016/01/15/ios-9-3
