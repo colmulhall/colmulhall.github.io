@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The iPad as a laptop replacement"
-date: 2012-11-13 15:00:00 +0100
+date: 2018-11-13 15:00:00 +0100
 category: Technology
 tags: [ipad, tablet]
 ---
