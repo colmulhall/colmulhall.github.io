@@ -12,7 +12,7 @@ The iPad Pro line comfortably matches, and even beats traditional laptops in ter
 
 That's something that I expect to change in the near future. The fact that the iPad now has the power to run "pro" apps means that it's a matter of when not if professional apps make there way to iOS. [Shortcuts][shrt], which debuted in iOS 12, are beginning to unlock the power of automation on iOS. I can only see this get more and more embedded into iOS over its next few iterations.
 
-Thinking about this bring me back to [this][gemmellipad] blog post by Matt Gemmell from earlier this year. In it, he talks about how the iPad is already well on its way to becoming a standalone computer to replace a laptop for most people:	
+Thinking about this brings me back to [this][gemmellipad] blog post by Matt Gemmell from earlier this year. In it, he talks about how the iPad is already well on its way to becoming a standalone computer to replace a laptop for most people:	
 
 >I used to be an iOS and macOS developer, though it’s more and more difficult to believe it was really me. Xcode is the integrated dev environment on macOS, to build software for all the Apple platforms, and everyone’s always saying that it’s the reason the Mac is still around (and the reason that all these programmers who invariably love iPads can’t switch to using one full-time).
 >
