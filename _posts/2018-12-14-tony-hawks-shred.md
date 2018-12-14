@@ -15,7 +15,7 @@ Another day, another below par freemium iOS game released.
 
 It's such a pity that these kind of games are the only ones worth releasing on the App Store for game developers these days. Like Eli, I downloaded Tony Hawks Pro Skater 2 on my iPhone all those years ago and loved every minute of it. As has been the [trend][infinity] for a long time on the App Store, it was pulled due to the overhead of keeping it updated in line with iOS.
 
-I'd love to see some sort of mechanism build into iOS to allow older, no longer supported games to be ran on the latest iOS versions in some form of emulator. That would at least guarantee that older games would not dissapear without a trace just a few short years after release.
+I'd love to see some sort of mechanism built into iOS to allow older, no longer supported games to be ran on the latest iOS versions in some form of emulator. That would at least guarantee that older games would not dissapear without a trace just a few short years after release.
 
 [thpsgames]:https://en.wikipedia.org/wiki/Tony_Hawk%27s_(series)#Games
 [infinity]:https://toucharcade.com/2018/12/10/end-of-an-era-the-infinity-blade-trilogy-is-no-longer-available/
