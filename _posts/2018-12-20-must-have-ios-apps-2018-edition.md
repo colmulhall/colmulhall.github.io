@@ -7,7 +7,7 @@ category: Apps
 tags: [apps, iOS] 
 --- 
 
-Federico Viticci's annual list of must-have iOS apps has been released - an annual tradition on MacStories [^1]. As per usual, I will talk about the apps that I use also have installed on my devices.
+Federico Viticci's annual list of must-have iOS apps has been released - an annual tradition on MacStories [^1]. As per usual, I will talk about the apps on the list that I also have installed on my devices.
 
 <a id="dropbox"></a>
 
