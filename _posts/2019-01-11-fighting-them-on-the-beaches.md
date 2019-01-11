@@ -21,6 +21,7 @@ The following chapters then describe the weapons and vehicles used, the deceptio
 While sometimes heavy with names of people, places and equipment, the book is a relatively easy read and gives a good account of the scale and importance of the landings. I have a feeling it won't be the last WW2 book I'll be reading.
 
 **Highlight**: The chapter outlining [Operation Fortitude][of], the successful operation by the Allies to convince Hitler that attacks would come in various other parts of Europe and France in order to ensure that Axis forces were not at full strength when they attacked. 
+
 [dday]:https://en.wikipedia.org/wiki/Normandy_landings
 [moh]:https://en.wikipedia.org/wiki/Medal_of_Honor_(video_game_series)
 [atwall]:https://en.wikipedia.org/wiki/Atlantic_Wall
