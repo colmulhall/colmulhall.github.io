@@ -6,7 +6,7 @@ category: Books
 tags: [book, elaine o'hara, crime]
 ---
 
-_Almost the Perfect Murder_ is a true crime book about the [murder of Elaine O'Hara] in 2012 and the trial or Graham Dwyer which was well documented in the media in Ireland back in 2015. 
+_Almost the Perfect Murder_ is a true crime book about the [murder of Elaine O'Hara][hara] in 2012 and the trial or Graham Dwyer which was well documented in the media in Ireland back in 2015. 
 
 Written by Paul Williams, the book details the life of Elaine O'Hara, up to the point that she went missing and then onto the crazy coincidences and investigation that brought about the conviction of Graham Dwyer for her murder.
 
