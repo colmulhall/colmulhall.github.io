@@ -6,4 +6,4 @@ category: Entertainment
 tags: [travel, south america]
 ---
 
-<div class="center"><img src="/images/2019/5/picchu.png" height="830" width="830=" alt="Machu Picchu"/></div>
+<div class="center"><img src="/images/2019/5/picchu.png" height="430" width="430" alt="Machu Picchu"/></div>
