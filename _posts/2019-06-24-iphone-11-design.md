@@ -13,4 +13,4 @@ T3:
 >
 >Well, it turns out those renders were probably very accurate.
 
-Ok, there's no denying that this camera bump is extremely ugly, but all I'm thinking that is going to be one _monster_ camera on the iPhone 11 (or iPhone XI..?). 
+Ok, there's no denying that this camera bump is extremely ugly, but that is going to be a _monster_ camera on the iPhone 11 (or iPhone XI..?). 
