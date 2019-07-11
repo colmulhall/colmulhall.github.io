@@ -15,7 +15,7 @@ The 13 inch MacBook with physical escape has been replaced with an entry level m
 	<img src="/images/2019/7/2019-mbp.png" alt="MacBook Pro 2019" class="image-single" />
 </center>
 
-The most interesting decision for most people will be which to choose: the MacBook Air, or the similarly prices MacBook Pro 13 inch base model. 
+The most interesting decision for most people will be which to choose: the MacBook Air, or the similarly priced MacBook Pro 13 inch base model. 
 
 Stephen Hackett sums things up nicely:
 
