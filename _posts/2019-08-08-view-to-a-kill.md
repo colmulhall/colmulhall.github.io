@@ -7,6 +7,10 @@ category: Entertainment
 tags: [movie, bond]
 ---
 
+<center>
+	<img src="/images/2019/8/view-to-a-kill.png" alt="A View to a Kill" class="image-single" />
+</center>
+
 >The most disagreement off my list — the movie that the most readers argued should have been included — was 1985’s “A View to a Kill,” the seventh and final Bond adventure featuring Roger Moore as 007. This did not surprise me at all. “A View to a Kill” is routinely ranked around or at the absolute bottom of every other list of the worst Bond films. It’s been that way for decades.
 
 I'm probably a bit biased, seeing as Roger Moore is my favourite Bond, but I agree that _A View to a Kill_ doesn't deserve to be at the bottom of the list of Bond films. 
