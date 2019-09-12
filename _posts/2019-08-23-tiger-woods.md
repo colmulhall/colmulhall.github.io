@@ -6,7 +6,7 @@ category: Books
 tags: [book, tiger woods, golf]
 ---
 
-The career of Tiger Woods has one of the most interesting sporting stories of all time. 
+The career of Tiger Woods has to be one of the most interesting sporting stories of all time. 
 
 Written by Jeff Benjamin and Armen Keteyian, _Tiger Woods_ is a biography of the golfer from when he was born until the end of 2018, when he had come back from numerous scandals and injuries to win again on the PGA Tour. [^1]
  
