@@ -13,6 +13,14 @@ body
 	background-color: white;
 }
 
+/* Overrides for Dark Mode */
+@media (prefers-color-scheme: dark) {
+    body {
+        color: white;
+        background: black;
+    }
+}
+
 a:link 
 {
 	text-decoration: none;
