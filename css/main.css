@@ -19,6 +19,18 @@ body
         color: white;
         background: black;
     }
+    #header 
+	{
+		background-color: black;
+	}
+	.post-title 
+	{
+		color: white;
+	}
+	blockquote
+	{
+	  color:#909090;
+	}
 }
 
 a:link 
