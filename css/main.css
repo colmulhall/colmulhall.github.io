@@ -13,27 +13,6 @@ body
 	background-color: white;
 }
 
-/* Overrides for Dark Mode */
-@media (prefers-color-scheme: dark) {
-    body 
-    {
-        color: white;
-        background: #232323;
-    }
-    #header 
-	{
-		background-color: #232323;
-	}
-	.post-title 
-	{
-		color: white;
-	}
-	blockquote
-	{
-	  color:#909090;
-	}
-}
-
 a:link 
 {
 	text-decoration: none;
@@ -269,6 +248,27 @@ figcaption
 
 	.navigation {
 		font-size: 22px;
+	}
+}
+
+/* Overrides for Dark Mode */
+@media (prefers-color-scheme: dark) {
+    body 
+    {
+        color: white;
+        background: #171717;
+    }
+    #header 
+	{
+		background-color: #171717;
+	}
+	.post-title 
+	{
+		color: white;
+	}
+	blockquote
+	{
+	  color:#909090;
 	}
 }
 }
