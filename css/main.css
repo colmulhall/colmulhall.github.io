@@ -15,13 +15,14 @@ body
 
 /* Overrides for Dark Mode */
 @media (prefers-color-scheme: dark) {
-    body {
+    body 
+    {
         color: white;
-        background: black;
+        background: #404040;
     }
     #header 
 	{
-		background-color: black;
+		background-color: #404040;
 	}
 	.post-title 
 	{
