@@ -278,3 +278,9 @@
   display: none;
 }
 
+/* Overrides for Dark Mode */
+@media (prefers-color-scheme: dark) {
+  .bigfoot-footnote {
+    box-shadow: #737373;
+  }
+}
