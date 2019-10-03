@@ -81,9 +81,9 @@ hr.separator
 	margin-right: auto;
 }
 
-a.post-title 
+.post-title 
 {
-	color: white;
+	color: black;
 	font-size: 18px;
 	margin-bottom: -1em;
 }
@@ -253,22 +253,18 @@ figcaption
 
 /* Overrides for Dark Mode */
 @media (prefers-color-scheme: dark) {
-    body 
-    {
+	body {
         color: white;
         background: #171717;
     }
-    #header 
-	{
+    #header {
 		background-color: #171717;
 	}
-	.post-title 
-	{
+	.post-title {
 		color: white;
 	}
-	blockquote
-	{
-	  color:#909090;
+	blockquote {
+		color:#909090;
 	}
 }
 }
