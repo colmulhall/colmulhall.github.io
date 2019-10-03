@@ -1,7 +1,6 @@
 @import url(monokai.css);
 
-body 
-{
+body {
 	margin-top: 0px;
 	margin-bottom: 0px;
 	margin-left: 0px;
@@ -9,19 +8,17 @@ body
 	line-height: 1.55em;
 	font-family: AvenirNext-Medium, HelveticaNeue-Medium, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 17px;
-	color: #000000;
+	color: #343434;
 	background-color: white;
 }
 
-a:link 
-{
+a:link {
 	text-decoration: none;
 	color: #B8860B;
 }
 
 a:hover, 
-a:visited 
-{
+a:visited {
 	color: #B8860B;
 }
 
