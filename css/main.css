@@ -8,7 +8,7 @@ body {
 	line-height: 1.55em;
 	font-family: AvenirNext-Medium, HelveticaNeue-Medium, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 17px;
-	color: #343434;
+	color: #000000;
 	background-color: white;
 }
 
@@ -23,18 +23,15 @@ a:visited {
 }
 
 h3 a:link, 
-h3 a:visited 
-{
+h3 a:visited {
 	color: #333;
 }
 
-h3 a:hover 
-{
+h3 a:hover {
 	color: #B8860B;
 }
 
-hr.separator 
-{
+hr.separator {
 	margin-top: 10px;
 	margin-bottom: 70px;
 	max-width: 50%;
@@ -43,8 +40,7 @@ hr.separator
    	background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
 }
 
-#header 
-{
+#header {
 	line-height: 2em;
 	padding-top: 55px;
 	padding-bottom: 16px;
@@ -52,25 +48,21 @@ hr.separator
 	text-align: center;
 }
 
-#header a 
-{
+#header a {
 	color: #B8860B;;
 }
 
-#site-name 
-{
+#site-name {
 	font-size: 72px;
 	color: #B8860B;
 }
 
-.navigation 
-{
+.navigation {
 	margin-top: 10px;
 	color: #B8860B;
 }
 
-#content 
-{
+#content {
 	padding-top: 40px;
 	padding-bottom: 2em;
 	max-width: 650px;
@@ -78,8 +70,7 @@ hr.separator
 	margin-right: auto;
 }
 
-.post-title 
-{
+.post-header .post-title {
 	color: black;
 	font-size: 18px;
 	margin-bottom: -1em;
@@ -87,69 +78,57 @@ hr.separator
 
 .post-date-permalink,
 .post-date-permalink  a:link, 
-.post-date-permalink  a:visited 
-{
+.post-date-permalink  a:visited {
 	display: inline-block;
 	color: #a3a1a1;
 	font-size: 11pt;
 }
 
-.post-date-permalink a:hover 
-{
+.post-date-permalink a:hover {
 	text-decoration: underline;
 }
 
-article
-{
+article{
   margin-bottom: 80px;
 }
 
-.pagination 
-{
+.pagination {
 	margin-bottom: 7em;
 }
 
-.previous-page 
-{
+.previous-page {
 	float: left;
 	display: inline;
 }
 
-.next-page 
-{
+.next-page {
     float: right;
     display: inline;
 }
 
-.post-navigation
-{
+.post-navigation {
 	margin-bottom: 7em;
 }
-.previous-post
-{
+.previous-post {
 	float: left;
 	display: inline;
 }
 
-.next-post
-{
+.next-post {
 	float: right;
 	display: inline;
 }
 
-.copyright 
-{
+.copyright {
 	text-align: center;
 	font-size: 11pt;
 }
 
-.highlight 
-{
+.highlight {
 	background-color: #323232;
 }
 
-blockquote
-{
+blockquote {
   border-left:4px 
   solid #B8860B;
   margin-left:1em;
@@ -181,31 +160,26 @@ blockquote
     }
 }*/
 
-figure
-{
+figure {
   display:inline;
   float:right;
 }
 
-figure.figleft
-{
+figure.figleft {
   display:inline;
   float:left;
 }
 
-figcaption
-{
+figcaption {
   text-align:center;
   font-style:italic;
 }
 
-.separator 
-{
+.separator {
 	text-align: 
 }
 
-.footnotes 
-{ 
+.footnotes { 
     margin-top: 3em;
     font-size: 14px;
 }
