@@ -283,4 +283,7 @@
   .bigfoot-footnote {
     box-shadow: #737373;
   }
+  .bigfoot-footnote__content {
+    background: #737373;
+  }
 }
