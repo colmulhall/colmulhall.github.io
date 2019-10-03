@@ -9,5 +9,5 @@ tags: [dark, css]
 Thanks to a helpful tutorial and some CSS tweaks, the site now supports Dark Mode. 🤠
 
 <center>
-	<img src="/images/2019/10/dark-mode.jpg" alt=Dark Mode" class="image-single" />
+	<img src="/images/2019/10/dark-mode.jpg" alt="Dark Mode" class="image-single" />
 </center>
