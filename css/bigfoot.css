@@ -281,18 +281,21 @@
 /* Overrides for Dark Mode */
 @media (prefers-color-scheme: dark) {
   .bigfoot-footnote {
-    box-shadow: #404040;
-  }
-  .bigfoot-footnote__content {
-    background: #404040;
+    box-shadow: #272727;
   }
   .bigfoot-footnote.is-scrollable .bigfoot-footnote__wrapper:before {
-    background: #404040;
+    background: #272727;
   }
   .bigfoot-footnote.is-scrollable .bigfoot-footnote__wrapper:after {
-    background: #404040;
+    background: #272727;
   }
   .bigfoot-footnote__wrapper {
-    background-color: #404040;
+    background-color: #272727;
+  }
+  .bigfoot-footnote__content {
+    background: #272727;
+  }
+  .bigfoot-footnote__tooltip {
+    background: #272727;
   }
 }
