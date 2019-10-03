@@ -8,7 +8,7 @@ body {
 	line-height: 1.55em;
 	font-family: AvenirNext-Medium, HelveticaNeue-Medium, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 17px;
-	color: #000000;
+	color: black;
 	background-color: white;
 }
 
@@ -141,25 +141,6 @@ blockquote {
  	max-height:100%;
 }
 
-/*img.image-wide {
-	margin-left: -250px;
-	max-width: 1160px;
-}
-
-@media (max-width: 1200px) {
-    img.image-wide { 
-    	margin-left: calc((100vw - 620px) / -2); 
-    	max-width: 100vw; 
-    }
-}
-
-@media (max-width: 680px) {
-    img.image-wide { 
-    	margin-left: -15px; 
-    	max-width: 100vw; 
-    }
-}*/
-
 figure {
   display:inline;
   float:right;
@@ -230,6 +211,10 @@ figcaption {
     }
     #header {
 		background-color: #171717;
+	}
+	h3 a:link, 
+	h3 a:visited {
+		color: white;
 	}
 	.post-header .post-title {
 		color: white;
