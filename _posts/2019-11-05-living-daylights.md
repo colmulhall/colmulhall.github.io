@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Living Daylights - Vienna Locations"
-date: 2019-11-06 14:30:00 +0100
+date: 2019-11-05 14:30:00 +0100
 category: Entertainment
 tags: [bond, locations]
 ---
@@ -11,7 +11,7 @@ While on a recent weekend away in Vienna, I visited some of the locations from t
 First up was the Volksoper Opera House, which was the location used for the early part of the film where Bond has been sent to take out a sniper, during the defection of Georgi Koskov. In the film this is set in Bratislava, but Vienna was used for filming due to Bratislava being off limits, as it was part of Czechoslovakia at the time.
 
 <figure>
-	<img src="/images/2019/11/Volsoper.png" width="254" />
+	<img src="/images/2019/11/Volksoper.png" width="254" />
 </figure>
 
 Across the road from the Volksoper is a sweet shop, which in the film was used by Bond and his Vienna counterpart Saunders as a stake-out for the shooting. Unfortunately it was closed when I was there so I couldn't have a look inside. 
