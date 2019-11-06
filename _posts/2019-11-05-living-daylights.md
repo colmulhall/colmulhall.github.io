@@ -14,7 +14,7 @@ First up was the Volksoper Opera House, which was the location used for the earl
 	<img src="/images/2019/11/Volksoper.jpg" width="254" />
 </figure>
 
-Across the road from the Volksoper is a sweet shop, which in the film was used by Bond and his Vienna counterpart Saunders as a stake-out for the shooting. Unfortunately it was closed when I was there so I couldn't have a look inside. 
+Across the road from the Volksoper is a sweet shop, which in the film was used by Bond and his Vienna counterpart Saunders as a stake-out for the shooting. Unfortunately it was closed when I was there so I couldn't have a look inside.
 
 <figure>
 	<img src="/images/2019/11/Shop.JPG" width="254" />
