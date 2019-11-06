@@ -17,10 +17,10 @@ First up was the Volksoper Opera House, which was the location used for the earl
 
 Across the road from the Volksoper is a sweet shop, which in the film was used by Bond and his Vienna counterpart Saunders as a stake-out for the shooting. Unfortunately it was closed when I was there so I couldn't have a look inside.
 
-<figure>
-	<img src="/images/2019/11/Shop.JPG" width="254" />
-	<figcaption>Bond's stakeout, third floor window</figcaption>
-</figure>
+<center>
+	<img src="/images/2019/11/Shop.JPG" alt="Stakeout" class="image-single" />
+	<figcaption>Bond's stake-out, third floor window</figcaption>
+</center>
 
 Once Bond and Kara make it to Vienna, there is a short montage of them in a few locations around the city. Two of these that I wanted to visit were the Maria-Theresien-Platz and the Schönbrunn Palace (which also appears in the end credits). Both of these are part of the hop on hop off bus tour of Vienna, so no issue finding them.
 
