@@ -26,9 +26,9 @@ Once Bond and Kara make it to Vienna, there is a short montage of them in a few 
 	<img src="/images/2019/11/Platz.JPG" width="254" />
 </figure>
 
-<figure>
+<figleft>
 	<img src="/images/2019/11/Schonbrunn.jpg" width="254" />
-</figure>
+</figleft>
 
 The next location was the one I was probably most excited about - the Prater. The Prater is a permanent amusement park in Vienna that is well worth a visit. In the film, Bond and Kara spend some time here on the various amusements, eventually taking a trip on the big ferris wheel called "Wiener Riesenrad". In the film they were in cabin 10 - we just missed it! The park has changed a lot since 1987, but the ghost train is still there and looks familiar.
 
