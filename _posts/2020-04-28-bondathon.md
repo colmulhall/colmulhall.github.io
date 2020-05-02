@@ -56,7 +56,7 @@ What better way to lead in to _No Time To Die_ than to watch every Bond film out
   </tr>
   <tr>
     <td class="tg-0r18">Live And Let Die</td>
-    <td class="tg-0r18"></td>
+    <td class="tg-0r18">2nd May 2020</td>
   </tr>
   <tr>
     <td class="tg-0r18">The Man With The Golden Gun</td>
