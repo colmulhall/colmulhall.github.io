@@ -91,7 +91,7 @@ What better way to lead in to _No Time To Die_ than to watch every Bond film out
     <td class="tg-0r18">25th April 2020<br></td>
   </tr>
   <tr>
-    <td class="tg-0r18">Goldeneye</td>
+    <td class="tg-0r18">GoldenEye</td>
     <td class="tg-0r18">9th May 2020</td>
   </tr>
   <tr>
