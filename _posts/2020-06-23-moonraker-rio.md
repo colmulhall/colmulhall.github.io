@@ -23,7 +23,7 @@ Next, Bond meets Dr Goodhead and they decide to take the cable car back down the
 </figure>
 
 <figleft>
-	<img src="/images/2020/6/sugarloaf-view.png" width="254" />
+	<img src="/images/2020/6/sugarloaf-view.PNG" width="254" />
 	<figcaption>The view from Sugarloaf Mountain</figcaption>
 </figleft>
 
