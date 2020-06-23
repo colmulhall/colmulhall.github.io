@@ -30,10 +30,12 @@ While Bond and Dr Goodhead are on their way back down in the cable car we cut to
 </center>
 
 Another less notable Moonraker location that I visited was Avenida Atlântica (Portuguese for Atlantic Avenue) which is the road that runs alongside the famous Copacabana Beach. Bond is driven along this road when he arrives in Rio en route to his hotel. 
-<figleft>
-	<img src="/images/2020/6/sugarloaf-view.PNG" width="250" />
+
+<center>
+	<img src="/images/2020/6/sugarloaf-view.PNG" alt="Sugarloaf View" class="image-single" />
 	<figcaption>The view from Sugarloaf Mountain</figcaption>
-</figleft>
+</center>
+
 I also drove past the grand stands that are used for the [Rio Carnival][carnival] which are briefly seen in the film when Bond and Manuela are investigating Drax's warehouse.
 
 [sugar]:https://en.wikipedia.org/wiki/Sugarloaf_Mountain
