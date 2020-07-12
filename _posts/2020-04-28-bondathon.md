@@ -84,7 +84,7 @@ What better way to lead in to _No Time To Die_ than to watch every Bond film out
   </tr>
   <tr>
     <td class="tg-0r18">The Living Daylights</td>
-    <td class="tg-0r18"></td>
+    <td class="tg-0r18">12th July 2020</td>
   </tr>
   <tr>
     <td class="tg-0r18">Licence To Kill</td>
