@@ -60,7 +60,7 @@ What better way to lead in to _No Time To Die_ than to watch every Bond film out
   </tr>
   <tr>
     <td class="tg-0r18">The Man With The Golden Gun</td>
-    <td class="tg-0r18"></td>
+    <td class="tg-0r18">8th August 2020</td>
   </tr>
   <tr>
     <td class="tg-0r18">The Spy Who Loved Me</td>
