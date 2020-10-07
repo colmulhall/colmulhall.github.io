@@ -2,7 +2,7 @@
 layout: post 
 title: "PS5 Teardown" 
 link: https://blog.playstation.com/2020/10/07/ps5-teardown-an-inside-look-at-our-most-transformative-console-yet/
-date: 2020-10-07 16:300:00 +0100 
+date: 2020-10-07 16:30:00 +0100 
 category: Technology 
 tags: [playstation, gaming] 
 --- 
