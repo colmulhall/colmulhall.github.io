@@ -60,7 +60,7 @@ What better way to lead in to _No Time To Die_ than to watch every Bond film out
   </tr>
   <tr>
     <td class="tg-0r18">The Man With The Golden Gun</td>
-    <td class="tg-0r18"></td>
+    <td class="tg-0r18">8th August 2020</td>
   </tr>
   <tr>
     <td class="tg-0r18">The Spy Who Loved Me</td>
@@ -80,11 +80,11 @@ What better way to lead in to _No Time To Die_ than to watch every Bond film out
   </tr>
   <tr>
     <td class="tg-0r18">A View To A Kill</td>
-    <td class="tg-0r18"></td>
+    <td class="tg-0r18">13th September 2020</td>
   </tr>
   <tr>
     <td class="tg-0r18">The Living Daylights</td>
-    <td class="tg-0r18"></td>
+    <td class="tg-0r18">12th July 2020</td>
   </tr>
   <tr>
     <td class="tg-0r18">Licence To Kill</td>
@@ -96,7 +96,7 @@ What better way to lead in to _No Time To Die_ than to watch every Bond film out
   </tr>
   <tr>
     <td class="tg-0r18">Tomorrow Never Dies</td>
-    <td class="tg-0r18"></td>
+    <td class="tg-0r18">23rd August 2020</td>
   </tr>
   <tr>
     <td class="tg-0r18">The World Is Not Enough</td>
@@ -108,7 +108,7 @@ What better way to lead in to _No Time To Die_ than to watch every Bond film out
   </tr>
   <tr>
     <td class="tg-0r18">Casino Royale</td>
-    <td class="tg-0r18"></td>
+    <td class="tg-0r18">17th October 2020</td>
   </tr>
   <tr>
     <td class="tg-0r18">Quantum Of Solace</td>
