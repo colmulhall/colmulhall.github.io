@@ -8,5 +8,5 @@ tags: [bond]
 
 <center>
 	<img<center>
-	<img src="/images/2017/5/roger-moore.png" alt="Roger" class="image-single" />
+	<img src="/images/2020/10/connery.jpeg" alt="Sean" class="image-single" />
 </center>
