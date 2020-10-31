@@ -7,5 +7,5 @@ tags: [bond]
 --- 
 
 <center>
-	<img src=“/images/2020/10/connery.png” alt=“Sean” class=“image-single” />
+	<img src=“/images/2020/10/connery.jpeg” alt=“Sean” class=“image-single” />
 </center>
