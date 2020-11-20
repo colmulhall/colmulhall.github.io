@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm Colm Mulhall, a software developer based in Limerick, Ireland. 
+I'm Colm Mulhall, a software developer based in Ireland. 
 
 In 2014 I graduated with a [degree in Computer Science][csdegree] from the 
 [Dublin Institute of Technology][comp]. I have been working as a software engineer since graduating.
