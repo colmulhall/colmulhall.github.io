@@ -76,6 +76,10 @@ hr.separator {
 	margin-bottom: -1em;
 }
 
+.link-arrow {
+	color: yellow;
+}
+
 .post-date-permalink,
 .post-date-permalink  a:link, 
 .post-date-permalink  a:visited {
