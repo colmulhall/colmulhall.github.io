@@ -1,0 +1,10 @@
+--- 
+layout: post 
+title: "Bond reviews" 
+link: https://truthfulnerd.wordpress.com/jamesbond/
+date: 2020-12-13 20:30:00 +0100 
+category: Entertainment 
+tags: [movies, bond] 
+--- 
+
+I really enjoyed reading these reviews.
