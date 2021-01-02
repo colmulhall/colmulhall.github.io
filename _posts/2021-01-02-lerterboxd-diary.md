@@ -7,6 +7,6 @@ category: Entertainment
 tags: [movies] 
 --- 
 
-What a useful feature. Having exported all my film ratings from IMDb and importing them into Letterboxd, I now have a (mostly) accurate [diary][diary] of all the film's I've watched since 2011! 
+What a useful feature. Having exported all my film ratings from IMDb and importing them into Letterboxd, I now have a (mostly) accurate [diary][diary] of all the films I've watched since 2011! 
 
 [diary]:https://letterboxd.com/colmulhall/films/diary/
