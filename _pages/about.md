@@ -4,19 +4,12 @@ title: About
 permalink: /about/
 ---
 
+## About 
+
 I'm Colm Mulhall, a software developer based in Ireland. 
 
 In 2014 I graduated with a [degree in Computer Science][csdegree] from the 
 [Dublin Institute of Technology][comp]. I have been working as a software engineer since graduating.
-
-You can find me at the following places: 
-
-* [Twitter][twtr]
-* [LinkedIn][lnkin]
-* [GitHub][gthb]
-* [Micro.blog][micro]
-
-## About This Site
 
 This site is where I write about things that interest me. 
 On a technical side, the site is powered by [Jekyll][jek] and is hosted on GitHub Pages.
