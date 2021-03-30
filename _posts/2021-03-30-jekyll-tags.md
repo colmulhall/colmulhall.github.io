@@ -3,7 +3,7 @@ layout: post
 title: "Jekyll Tags on Github Pages" 
 link: http://longqian.me//2017/02/09/github-jekyll-tag/
 date: 2021-03-30 09:50:00 +0100 
-category: Technology 
+category: Blogging 
 tags: [jekyll, blog] 
 --- 
 
