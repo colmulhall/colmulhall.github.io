@@ -7,7 +7,7 @@ permalink: /about/
 I'm Colm, a software developer based in Ireland. 
 
 In 2014 I graduated with a [degree in Computer Science][csdegree] from the 
-[Dublin Institute of Technology][comp]. I have been working as a software engineer since graduating.
+Dublin Institute of Technology. I have been working as a software engineer since graduating.
 
 This site is where I write about things that interest me. 
 On a technical side, the site is powered by [Jekyll][jek] and is hosted on GitHub Pages.
@@ -20,7 +20,6 @@ I use [Sublime Text][sbltxt] for any code tweaks. Posts are written in
 Some [stats][stats].
 
 [csdegree]: /education/
-[comp]: http://www.dit.ie/computing/
 [twtr]: https://twitter.com/ColmMulhall
 [lnkin]: https://ie.linkedin.com/in/colmmulhall
 [gthb]: https://github.com/colmulhall
