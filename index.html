@@ -3,7 +3,7 @@ layout: default
 ---
 
 <!-- This loops through the paginated posts -->
-{% for post in paginator.posts %}
+{% for post in site.posts %}
 <article>
   {% include index-post-header.html %}
   {{ post.content }}
