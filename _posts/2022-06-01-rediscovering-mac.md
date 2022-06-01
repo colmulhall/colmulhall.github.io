@@ -2,7 +2,7 @@
 layout: post 
 title: "Rediscovering the Mac: An iPad User’s Journey into macOS with the M1 Max MacBook Pro" 
 link: https://www.macstories.net/stories/rediscovering-the-mac/
-date: 2022-07-01 11:28:00 +0100 
+date: 2022-06-01 11:28:00 +0100 
 category: Technology 
 tags: [ipad, mac, apple] 
 --- 
