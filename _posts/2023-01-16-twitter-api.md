@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title: "The Shit Show?" 
+title: "The Shit Show" 
 link: https://furbo.org/2023/01/15/the-shit-show/
 date: 2023-01-16 09:35:00 +0100 
 category: Technology 
