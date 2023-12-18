@@ -85,8 +85,7 @@ The app was developed in Java for the Android platform. The web backend was deve
 ##### Links
 * [Android Application GitHub][appgit]
 * [Web backend GitHub][webgit]
-* [Final report][finrep]
+
 
 [appgit]:https://github.com/colmulhall/final-year-project-app
 [webgit]:https://github.com/colmulhall/FYP-Web-Coding
-[finrep]:https://drive.google.com/open?id=0B2Kg2nBFVkbSci1OeWhnQ21RUXM
