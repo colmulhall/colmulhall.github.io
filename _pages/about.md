@@ -14,7 +14,7 @@ On a technical side, the site is powered by [Jekyll][jek] and is hosted on GitHu
 I use [Hover][hvr] for dealing with the domain. I have tweaked the appearance to my 
 preference.
 
-I use [Sublime Text][sbltxt] for any code tweaks. Posts are written in 
+I use any number of text editors for code tweaks and writing posts. Posts are written in 
 [Markdown][mrkd].
 
 Some [stats][stats].
