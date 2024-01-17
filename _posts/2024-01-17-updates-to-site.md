@@ -6,7 +6,7 @@ category: Blogging
 tags: [blog, writing]
 ---
 
-In an effort to not completely abandon this website, I have updated some basic stuff behind the scenes to keep in in a state where it can be updated properly. 
+In an effort to not completely abandon this website, I have updated some basic stuff behind the scenes to keep it in a state where it can be updated properly. 
 
 The updates include:
 - Creating a 'development' branch for testing changes
