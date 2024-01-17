@@ -78,10 +78,6 @@ DEPENDENCIES
   jekyll-feed (~> 0.17)
   jekyll-paginate (~> 1.1)
   minima (~> 2.5.1)
-  webrick (~> 1.8, >= 1.8.1)
-
-RUBY VERSION
-   ruby 3.1.2p20
 
 BUNDLED WITH
    2.3.20
