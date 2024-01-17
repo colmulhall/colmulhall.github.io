@@ -17,8 +17,7 @@ title: Colm.io
 description: Colm Mulhall's personal blog about things that interest him.
 author: Colm Mulhall
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://colm.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ColmMulhall
+url: "https://colm.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  colmulhall
 copyright: Copyright &copy; 2015- 
 
