@@ -160,10 +160,6 @@ figcaption {
   font-style:italic;
 }
 
-.separator {
-	text-align: 
-}
-
 .footnotes { 
     margin-top: 3em;
     font-size: 14px;
@@ -226,5 +222,7 @@ figcaption {
 	blockquote {
 		color:#909090;
 	}
-}
+	hr.separator {
+		background-image: linear-gradient(to right, rgba(0, 0, 0, 0), #B8860B, rgba(0, 0, 0, 0));
+	}
 }
