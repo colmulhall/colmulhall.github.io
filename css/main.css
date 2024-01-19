@@ -125,7 +125,7 @@ article{
 
 .copyright {
 	text-align: center;
-	font-size: 11pt;
+	font-size: 10pt;
 }
 
 .highlight {
@@ -224,5 +224,26 @@ figcaption {
 	}
 	hr.separator {
 		background-image: linear-gradient(to right, rgba(0, 0, 0, 0), #B8860B, rgba(0, 0, 0, 0));
+	}
+	#header {
+		line-height: 2em;
+		padding-top: 55px;
+		padding-bottom: 16px;
+		background-color: #B8860B;
+		text-align: center;
+	}
+	
+	#header a {
+		color: #000000;;
+	}
+	
+	#site-name {
+		font-size: 72px;
+		color: #000000;
+	}
+	
+	.navigation {
+		margin-top: 10px;
+		color: #000000;
 	}
 }
