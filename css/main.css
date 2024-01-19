@@ -93,7 +93,7 @@ hr.separator {
 }
 
 article{
-  margin-bottom: 80px;
+  	margin-bottom: 80px;
 }
 
 .pagination {
@@ -121,6 +121,11 @@ article{
 .next-post {
 	float: right;
 	display: inline;
+}
+
+.post-tags {
+	color: grey;
+	font-size: 15px;
 }
 
 .copyright {
