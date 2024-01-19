@@ -3,7 +3,7 @@ layout: post
 title: "Moonraker - Rio de Janeiro Locations"
 date: 2020-6-23 14:30:00 +0100
 category: Entertainment
-tags: [bond, locations]
+tags: [film, travel]
 ---
 
 Last year, I visited Rio de Janeiro on the last leg of a trip to South America. One of the main sights to see in Rio is [Sugarloaf Mountain][sugar] which features in the 1979 Bond film "Moonraker", so naturally I was keeping an eye out for any familiar spots along the way when I paid it a visit. 

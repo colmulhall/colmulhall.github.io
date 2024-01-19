@@ -4,7 +4,7 @@ title: "Why Micro.blog is not another App.net"
 link: http://inessential.com/2018/02/01/why_micro_blog_is_not_another_app_net
 date: 2018-02-10 23:10:00 +0100
 category: Blogging
-tags: [Micro.blog]
+tags: [blog]
 ---
 Brent Simmons on Micro.blog: 
 

@@ -4,7 +4,7 @@ title:  "Why the 2012 non-retina MacBook Pro still sells"
 link: https://marco.org/2016/01/04/md101ll-a
 date:   2016-1-4 17:14:07 +0100
 category: Technology
-tags: [apple, macbook, linked]
+tags: [apple]
 ---
 
 Marco Arment:

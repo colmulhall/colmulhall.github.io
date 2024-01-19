@@ -3,7 +3,7 @@ layout: post
 title: "Almost the Perfect Murder"
 date: 2019-2-1 12:35:00 +0100
 category: Books
-tags: [book, elaine o'hara, crime]
+tags: [books, review]
 ---
 
 _Almost the Perfect Murder_ is a true crime book about the [murder of Elaine O'Hara][hara] in 2012 and the trial or Graham Dwyer which was well documented in the media in Ireland back in 2015. 

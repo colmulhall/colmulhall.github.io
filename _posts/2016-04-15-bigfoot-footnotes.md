@@ -3,7 +3,7 @@ layout: post
 title:  "Better footnotes with bigfoot.js "
 date:   2016-4-15 17:14:07 +0100
 category: Development
-tags: [bigfoot, footnotes]
+tags: [dev, blog]
 ---
 
 Chris Sauvé on why footnotes on the web are a pain:

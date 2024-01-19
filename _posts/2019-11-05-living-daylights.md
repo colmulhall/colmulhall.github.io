@@ -3,7 +3,7 @@ layout: post
 title: "The Living Daylights - Vienna Locations"
 date: 2019-11-5 14:30:00 +0100
 category: Entertainment
-tags: [bond, locations]
+tags: [film, travel]
 ---
 
 While on a recent weekend away in Vienna, I visited some of the locations from the 1987 Bond film "The Living Daylights".

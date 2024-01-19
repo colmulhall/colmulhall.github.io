@@ -4,7 +4,7 @@ title: "An Alternate ‘View’ on the Most Hated Bond Movie Ever"
 link: https://www.indiewire.com/2012/11/an-alternate-view-on-the-most-hated-bond-movie-ever-128899/
 date: 2019-08-08 13:00:00 +0100
 category: Entertainment
-tags: [movie, bond]
+tags: [film]
 ---
 
 <center>

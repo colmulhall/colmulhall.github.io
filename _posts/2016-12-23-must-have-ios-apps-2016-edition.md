@@ -4,7 +4,7 @@ title:  "Must-have iOS apps, 2016 edition"
 link: https://www.macstories.net/roundups/my-must-have-ios-apps-web-services-2016-edition/
 date:   2016-12-23 15:51:00 +0100
 category: Apps
-tags: [apps, linked]
+tags: [apps]
 ---
 
 Federico Viticci just posted his annual "must have iOS apps" article on Macstories detailing his favourite apps in certain categories. I [wrote about][2015edition] last years article and compared which apps also feel into my list of favourites. So more of the same:

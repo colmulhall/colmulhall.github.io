@@ -3,7 +3,7 @@ layout: post
 title:  "An update on the site fixes"
 date:   2016-4-30 17:14:07 +0100
 category: Development
-tags: [camel, fixes]
+tags: [blog, dev]
 ---
 
 Earlier this month I [posted][colmiofix] about what issues I was having with the website, and what I wanted to fix. Here is an update on these:

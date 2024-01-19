@@ -4,7 +4,7 @@ title: "The case for RSS"
 link: https://www.macsparky.com/blog/2017/11/the-case-for-rss
 date: 2017-11-12 22:00:00 +0100
 category: Blogging
-tags: [RSS]
+tags: [rss]
 ---
 
 David Sparks on the value of using RSS over social media for news curation:

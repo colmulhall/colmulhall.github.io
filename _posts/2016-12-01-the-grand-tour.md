@@ -3,7 +3,7 @@ layout: post
 title:  "The Grand Tour"
 date:   2016-12-01 15:19:00 +0100
 category: Entertainment
-tags: [grand tour, top gear]
+tags: [entertainment]
 ---
 
 I watched the first episode of ~~Top Gear~~ [The Grand Tour][gt] a few days ago. I'm not going to write a full review of the episode - I'll leave that to [others][caseytour] - but I will summarize my thoughts below:

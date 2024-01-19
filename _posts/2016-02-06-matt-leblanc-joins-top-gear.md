@@ -4,7 +4,7 @@ title:  "Matt LeBlanc joins Top Gear"
 link: http://www.topgear.com/car-news/top-gear-tv/matt-leblanc-joins-top-gear
 date:   2016-2-6 17:14:07 +0100
 category: Entertainment
-tags: [top gear, linked]
+tags: [entertainment]
 ---
 
 Now that we know that Clarkson, Hammond and May will have a new show on Amazon Prime, I was a lot less worried about who will take over Top Gear. 

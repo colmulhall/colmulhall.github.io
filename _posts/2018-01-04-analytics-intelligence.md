@@ -3,7 +3,7 @@ layout: post
 title:  "Google Analytics Intelligence"
 date:   2018-01-04 22:30:00 +0100
 category: Blogging
-tags: [analytics]
+tags: [dev, blog]
 ---
 
 I have been using Google Analytics on this site for [over a year][googan] now to monitor all sorts of things like number of visitors, demographics, pages hit and even screen sizes being used. As 2017 drew to a close, I was curious about some of the numbers specific to the year. 

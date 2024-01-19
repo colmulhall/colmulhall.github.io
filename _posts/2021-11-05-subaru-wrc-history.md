@@ -4,7 +4,7 @@ title: "Subaru’s makeover from farm mule to WRC winner"
 link: https://www.wrc.com/en/news/2021/25-stories/subaru---s-makeover-from-farm-mule-to-wrc-winner/
 date: 2021-11-05 15:57:00 +0100 
 category: Entertainment 
-tags: [subary, world, rally] 
+tags: [sports] 
 --- 
 
 >It took a couple of years to climb to the top of the podium, but once Colin McRae scored his and the team’s maiden victory at the 1993 Rally New Zealand, the programme could really go through the gears.

@@ -4,7 +4,7 @@ title: "Rumor: ‘Grand Theft Auto III, Vice City, and San Andreas’ Getting Re
 link: https://toucharcade.com/2021/08/12/grand-theft-auto-trilogy-remaster-iphone-ipad-android-switch/
 date: 2021-08-14 14:28:00 +0100 
 category: Technology 
-tags: [gaming, gta] 
+tags: [gaming] 
 --- 
 
 Jared Nelson on TouchArcade:

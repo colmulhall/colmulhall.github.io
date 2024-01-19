@@ -3,7 +3,7 @@ layout: post
 title: "iPad naming conventions, Part 2" 
 date: 2019-03-19 10:30:00 +0100
 category: Technology
-tags: [iPad, apple]
+tags: [ipad, apple]
 ---
 
 The [new iPads][newpads] released over the past few days have added even more confusion over iPad naming.

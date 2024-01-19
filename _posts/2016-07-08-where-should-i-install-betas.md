@@ -4,7 +4,7 @@ title:  "Where should I install my iOS and macOS betas?"
 link: https://sixcolors.com/post/2016/07/where-should-i-install-my-ios-and-macos-betas-a-guide/
 date:   2016-7-8 17:14:07 +0100
 category: Technology
-tags: [betas, apple]
+tags: [apple]
 ---
 
 Jason Snell:

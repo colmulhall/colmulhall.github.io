@@ -4,7 +4,7 @@ title:  "A message to our customers"
 link: http://www.apple.com/customer-letter/
 date:   2016-2-21 17:14:07 +0100
 category: Technology
-tags: [apple, encryption, linked]
+tags: [apple]
 ---
 
 Tim Cook:

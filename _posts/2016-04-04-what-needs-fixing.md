@@ -3,7 +3,7 @@ layout: post
 title:  "What needs fixing on colm.io"
 date:   2016-4-4 17:14:07 +0100
 category: Development
-tags: [site, fixes]
+tags: [blog, dev]
 ---
 
 I'll eventually get around to fixing these issues with the site, but that day is not today:

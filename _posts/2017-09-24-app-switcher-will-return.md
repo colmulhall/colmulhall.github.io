@@ -4,7 +4,7 @@ title: "3D Touch app switcher will return"
 link: https://www.macrumors.com/2017/09/21/3d-touch-app-switcher-gesture-will-return/
 date: 2017-09-24 22:10:00 +0100
 category: Technology
-tags: [gesture, iOS]
+tags: [ios, apple]
 ---
 
 Craig Federighi, replying to a mail about the removal of the 3D Touch app switcher gesture:

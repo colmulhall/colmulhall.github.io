@@ -3,7 +3,7 @@ layout:   post
 title:    "iOS 11 release date"
 date:     2017-08-25 11:40:00 +0100
 category: Technology
-tags:     [ios, release]
+tags:     [ios, apple]
 ---
 
 Historical iOS GM release dates:

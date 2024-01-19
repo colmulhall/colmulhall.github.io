@@ -4,7 +4,7 @@ title: "The Value of Using Stock Apps"
 link: https://birchtree.me/blog/the-value-of-using-stock-apps/
 date: 2020-05-19 12:25:00 +0100 
 category: Technology 
-tags: [iOS, apps] 
+tags: [ios, apps] 
 --- 
 
 Matt Birchler:

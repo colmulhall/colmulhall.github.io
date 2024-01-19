@@ -3,7 +3,7 @@ layout: post
 title: "Fighting Them on the Beaches: The D-Day Landings - June 6, 1944"
 date: 2019-1-11 12:30:00 +0100
 category: Books
-tags: [book, ww2, history]
+tags: [books, review]
 ---
 
 My father landed this book on a shelf in my room years ago after he had read it. As part of an effort to read more books I decided that _"Fighting Them on the Beaches"_ would be a good start.

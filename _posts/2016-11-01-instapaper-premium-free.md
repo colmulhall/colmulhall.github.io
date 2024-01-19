@@ -4,7 +4,7 @@ title:  "Instapaper Premium is now free for everyone"
 link: http://blog.instapaper.com/post/152600596211
 date:   2016-11-1 19:14:07 +0100
 category: Technology
-tags: [instapaper]
+tags: [tech, apps]
 ---
 
 Instapaper:
