@@ -3,7 +3,7 @@ layout: post
 title: "September event"
 date: 2017-09-18 09:45:00 +0100
 category: Technology
-tags: [iphone, event]
+tags: [iphone, apple]
 ---
 
 Despite the fact that we [knew the details][leaks] of the majority of products that Apple were planning to announce, there is still a _lot_ to talk about from Apple's September event. 

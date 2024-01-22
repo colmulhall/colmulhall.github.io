@@ -3,7 +3,7 @@ layout: post
 title: "Podcasts you should listen to"
 date: 2016-10-3 17:14:07 +0100
 category: Podcasts
-tags: [podcasts]
+tags: [podcast]
 ---
 
 I listen to podcasts a lot, particularly while driving or walking to/from work. I don't have a wide enough taste in music to always have something new to to listen to during these times, and I can't rely on radio to have the shows I want when I want. Podcasts work best for me.

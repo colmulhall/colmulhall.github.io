@@ -4,7 +4,7 @@ title:  "Making Causality"
 link: http://engineered.network/causality/blog/making-causality
 date:   2017-03-13 12:15:00 +0100
 category: Podcasts
-tags: [podcasts]
+tags: [podcast]
 ---
 
 [John Chidgey][jctwit] on making his podcast, [Causality][cause]:

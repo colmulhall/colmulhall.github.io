@@ -3,7 +3,7 @@ layout: post
 title:  "WWDC 2016 wishlist"
 date:   2016-6-13 17:14:07 +0100
 category: Technology
-tags: [apple, wwdc]
+tags: [apple]
 ---
 
 Better late than never, here are some things I hope Apple announce later today:

@@ -4,7 +4,7 @@ title:  "A cellular Apple Watch"
 link: https://512pixels.net/2016/08/apple-watch-gps/
 date:   2016-9-1 17:14:07 +0100
 category: Technology
-tags: [apple, watch]
+tags: [apple]
 ---
 
 Stephen Hackett on the possibility of a cellular Apple Watch:
