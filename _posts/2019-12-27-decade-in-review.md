@@ -3,7 +3,7 @@ layout: post
 title: "Decade in Review"
 date: 2019-12-27 12:00:00 +0100
 category: General
-tags: [decade, review]
+tags: [blog]
 ---
 
 With this post, there has been at least one post per month on this website since the first in December 2015. 

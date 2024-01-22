@@ -3,7 +3,7 @@ layout: post
 title:  "Camel on the go"
 date:   2016-1-19 17:14:07 +0100
 category: Blogging
-tags: [camel, blog]
+tags: [dev, blog]
 ---
 
 I am very happy with [Camel][cmlgit] having used it for the past two months, but the one thing I was missing was the ability to publish new posts or make edits on the go via mobile devices. I remembered [reading][uncomfortablecamel] about this issue on Casey Liss's site a while back so I said I would venture back through the archives to see was there any follow up to the problem. 

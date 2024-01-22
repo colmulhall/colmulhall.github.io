@@ -4,7 +4,7 @@ title:  "Calendar spam"
 link: https://www.macsparky.com/blog/2016/11/calendar-spam
 date:   2016-11-30 16:03:00 +0100
 category: Technology
-tags: [spam, calendar]
+tags: [tech]
 ---
 
 David Sparks:

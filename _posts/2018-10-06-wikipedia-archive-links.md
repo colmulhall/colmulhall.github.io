@@ -4,7 +4,7 @@ title: "More than 9 million broken links on Wikipedia are now rescued"
 link: http://blog.archive.org/2018/10/01/more-than-9-million-broken-links-on-wikipedia-are-now-rescued/
 date: 2018-10-06 01:07:00 +0100
 category: Technology
-tags: [wikipedia, archive]
+tags: [tech]
 ---
 
 Internet Archive Blogs:

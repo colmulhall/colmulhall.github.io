@@ -4,7 +4,7 @@ title: "I've Taken My Watch Off"
 link: https://blog.chrishannah.me/ive-taken-my-watch-off/
 date: 2020-03-23 15:48:00 +0100 
 category: Technology 
-tags: [apple, watch] 
+tags: [apple] 
 --- 
 
 Chris Hannah, on the Apple Watch:

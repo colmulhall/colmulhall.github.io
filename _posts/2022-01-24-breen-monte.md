@@ -4,7 +4,7 @@ title: "M-Sport was “very clear” Breen had to bank points on Monte"
 link: https://dirtfish.com/rally/wrc/m-sport-was-very-clear-breen-had-to-bank-points-on-monte/
 date: 2022-01-24 20:42:00 +0100 
 category: General 
-tags: [rally, sports] 
+tags: [sports] 
 --- 
 
 >M-Sport managing director Malcolm Wilson says he made it “very clear” to Craig Breen that his priority on the Monte Carlo Rally was to bring his Ford Puma Rally1 Hybrid to the finish and bank points.

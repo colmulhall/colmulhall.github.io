@@ -93,7 +93,7 @@ hr.separator {
 }
 
 article{
-  margin-bottom: 80px;
+  	margin-bottom: 80px;
 }
 
 .pagination {
@@ -121,6 +121,11 @@ article{
 .next-post {
 	float: right;
 	display: inline;
+}
+
+.post-tags {
+	color: grey;
+	font-size: 15px;
 }
 
 .copyright {
@@ -206,44 +211,23 @@ figcaption {
 /* Overrides for Dark Mode */
 @media (prefers-color-scheme: dark) {
 	body {
-        color: white;
+        color: rgba(238, 234, 234, 0.734);
         background: #171717;
     }
     .link-arrow {
-	color:white;
+		color: rgba(238, 234, 234, 0.734);
     }
     #header {
 		background-color: #171717;
 	}
 	h3 a:link, 
 	h3 a:visited {
-		color: white;
+		color: rgba(238, 234, 234, 0.916);
 	}
 	blockquote {
 		color:#909090;
 	}
 	hr.separator {
 		background-image: linear-gradient(to right, rgba(0, 0, 0, 0), #B8860B, rgba(0, 0, 0, 0));
-	}
-	#header {
-		line-height: 2em;
-		padding-top: 55px;
-		padding-bottom: 16px;
-		background-color: #B8860B;
-		text-align: center;
-	}
-	
-	#header a {
-		color: #000000;;
-	}
-	
-	#site-name {
-		font-size: 72px;
-		color: #000000;
-	}
-	
-	.navigation {
-		margin-top: 10px;
-		color: #000000;
 	}
 }

@@ -3,7 +3,7 @@ layout: post
 title: "The iPad as a laptop replacement"
 date: 2018-11-13 15:00:00 +0100
 category: Technology
-tags: [ipad, tablet]
+tags: [ipad, apple]
 ---
 
 The [latest][newpros] iPad Pro release has got me thinking. For a long time, I have been of the belief that an iPad is an entertainment device, something that you can pick up and use to browse the web, watch videos, read books and view photos. The Pro line has been challenging that perception though, and the latest release takes it further towards the territory of a "real" computer.

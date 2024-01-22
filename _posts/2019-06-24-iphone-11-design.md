@@ -4,7 +4,7 @@ title: "Apple iPhone 11 Max final design confirmed"
 link: https://www.t3.com/news/apple-iphone-11-triple-camera-design-is-here-to-stay-sadly
 date: 2019-6-24 17:00:00 +0100
 category: Technology
-tags: [apple, iPhone]
+tags: [apple, iphone]
 ---
 
 T3:

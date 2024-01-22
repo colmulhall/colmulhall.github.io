@@ -4,7 +4,7 @@ title:  "The Cases for (and Against) Apple Adopting USB-C on Future iPhones"
 link: https://www.macstories.net/notes/the-cases-for-and-against-apple-adopting-usb-c-on-future-iphones/
 date:   2017-03-02 09:40:00 +0100
 category: Technology
-tags: [apple, usb]
+tags: [apple]
 ---
 
 Federico Viticci on the potential move from [Lightning][light] to [USB-C][usbc]:

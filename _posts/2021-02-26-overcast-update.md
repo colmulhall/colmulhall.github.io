@@ -4,7 +4,7 @@ title: "Overcast Podcast Player Update Brings Overhauled Apple Watch App"
 link: https://www.macrumors.com/2021/02/25/overcast-overhauled-apple-watch-app/
 date: 2021-02-26 16:30:00 +0100 
 category: Technology 
-tags: [overcast, apps] 
+tags: [apps] 
 --- 
 
 >In the latest update to the popular podcast player, Overcast has overhauled its Apple Watch app to be more intuitive and bring several features that were previously only accessible on Overcast for iPhone.

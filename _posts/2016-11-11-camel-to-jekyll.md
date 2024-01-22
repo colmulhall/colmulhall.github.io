@@ -3,7 +3,7 @@ layout: post
 title:  "Camel to Jekyll"
 date:   2016-11-11 12:33:00 +0100
 category: Development
-tags: [blog, jekyll, camel]
+tags: [blog, dev]
 ---
 
 When I created this website last year, I decided that I wanted to have more control over how the content gets generated and how the site looked. I went with a blogging engine called '[Camel][camel]', developed by Casey Liss[^1]. This allowed me to get my hands dirty with some web development without having to dive in completely at the deep end. Eleven months on, and a few enhancements later however - I wanted something different.

@@ -4,7 +4,7 @@ title:  "RPG Reload - Ravensword Shadowlands"
 link: http://toucharcade.com/2016/04/14/rpg-reload-file-076-ravensword-shadowlands/
 date:   2016-4-18 17:14:07 +0100
 category: Apps
-tags: [ios, apps, linked]
+tags: [ios, apps, gaming]
 ---
 
 Shaun Musgrave on what the App Store was like in earlier days:

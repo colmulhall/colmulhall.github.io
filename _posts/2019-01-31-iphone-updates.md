@@ -4,7 +4,7 @@ title: "Apple Is Planning 3-D Cameras for New iPhones in AR Push"
 link: https://www.bloomberg.com/news/articles/2019-01-30/apple-is-said-to-prep-new-3-d-camera-for-2020-iphones-in-ar-push
 date: 2019-1-31 10:00:00 +0100
 category: Technology
-tags: [apple, iPhone]
+tags: [apple, iphone]
 ---
 
 An interesting report from Bloomberg on Apple's plans for the rest of 2019 and onto 2020. We are at the point where it's getting harder and harder to make meaningful updates to smartphones year after year, or at least meaningful enough to convince people to upgrade. 

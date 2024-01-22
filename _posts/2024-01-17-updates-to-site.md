@@ -3,7 +3,7 @@ layout: post
 title:  "Website Updates"
 date:   2024-01-17 12:00:00 +0100
 category: Blogging
-tags: [blog, writing]
+tags: [blog, dev]
 ---
 
 In an effort to not completely abandon this website, I have updated some basic stuff behind the scenes to keep it in a state where it can be updated properly. 

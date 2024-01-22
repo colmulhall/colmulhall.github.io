@@ -3,7 +3,7 @@ layout:   post
 title:    "N.O.V.A. Legacy"
 date:     2017-02-22 17:35:00 +0100
 category: Apps
-tags:     [nova, app]
+tags:     [apps, gaming]
 ---
 
 Back in 2009, Gameloft released a first person shooter game on iOS called "[N.O.V.A. Near Orbit Vanguard Alliance][novawiki]". This was as close as you could get to [Halo][halowiki] on mobile, and for it's time [^1] it was a huge achievement in mobile gaming. It had an in depth story set across multiple maps, different weapons and enemies as well as local and online multiplayer. 

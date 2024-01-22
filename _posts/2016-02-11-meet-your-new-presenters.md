@@ -4,7 +4,7 @@ title:  "Meet your new Top Gear presenters!"
 link: http://www.topgear.com/car-news/top-gear-tv/meet-your-new-top-gear-presenters
 date:   2016-2-11 17:14:07 +0100
 category: Entertainment
-tags: [top gear, linked]
+tags: [entertainment]
 ---
 
 [Another][mlbtg] surprise announcement from Top Gear! We were expecting just one more new presenter to be announced to complete the trio, but now there's *seven* (including The Stig)!

@@ -4,7 +4,7 @@ title: "Apple Kills the App Store Affiliate Program"
 link: https://toucharcade.com/2018/08/01/apple-kills-the-app-store-affiliate-program-and-i-have-no-idea-what-we-are-going-to-do/
 date: 2018-08-13 13:50:00 +0100
 category: Apps
-tags: [Apple, gaming]
+tags: [apple, gaming]
 ---
 
 Eli Hodapp from Touch Arcade reacting to Apple's decision to end the affiliate program:

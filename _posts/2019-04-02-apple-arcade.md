@@ -4,7 +4,7 @@ title: "How Apple Arcade could make Apple a major player in gaming"
 link: https://www.macworld.com/article/3384196/how-apple-arcade-could-make-apple-a-major-player-in-gaming.html
 date: 2019-4-2 10:30:00 +0100
 category: Apps
-tags: [apple, arcade, gaming]
+tags: [apple, gaming]
 ---
 
 [Apple Arcade][aarcade] is an interesting new service due to be launched this year by Apple. Time will tell if it can take iOS/Mac gaming to the next level, but the premise is definitely worth watching out for. 

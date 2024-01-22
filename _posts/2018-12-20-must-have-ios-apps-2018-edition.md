@@ -4,7 +4,7 @@ title: "Must-have iOS apps, 2018 edition"
 link: https://www.macstories.net/stories/my-must-have-ios-apps-2018-edition/
 date: 2018-12-20 17:00:00 +0100 
 category: Apps 
-tags: [apps, iOS] 
+tags: [apps, ios] 
 --- 
 
 Federico Viticci's annual list of must-have iOS apps has been released - an annual tradition on MacStories [^1]. As per usual, I will talk about the apps on the list that I also have installed on my devices.
