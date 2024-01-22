@@ -4,7 +4,7 @@ title:    "Please don't kill the iPad Mini"
 link:     "http://mashable.com/2017/05/17/dont-kill-ipad-mini/"
 date:     2017-05-19 11:57:00 +0100
 category: Technology
-tags:     [ipad, mini]
+tags:     [ipad, apple]
 ---
 
 There are a lot of reports recently suggesting that Apple are ready to phase out the iPad Mini. While I've not personally owned one, I think it would be a shame to see it go. Writing on Mashable, Stan Schroeder outlines his appreciation of the Mini:

@@ -3,7 +3,7 @@ layout: post
 title:  "Apple special event "
 date:   2016-3-21 17:14:07 +0100
 category: Technology
-tags: [apple, event]
+tags: [apple]
 ---
 
 Now that the dust has settled on the announcements, I want to give my opinion on what we saw today. There was a lot packed into the hour long event, so I'll just mention what I found most interesting - the product announcements. 

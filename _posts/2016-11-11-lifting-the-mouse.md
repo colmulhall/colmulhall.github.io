@@ -4,7 +4,7 @@ title:  "Lifting the mouse"
 link: http://mattgemmell.com/lifting-the-mouse/
 date:   2016-11-16 15:22:00 +0100
 category: Technology 
-tags: [ipad, desktop, mac]
+tags: [ipad, apple, mac]
 ---
 
 Matt Gemmell:

@@ -4,7 +4,7 @@ title:  "I've turned my notifications off"
 link: https://medium.com/@chrishannah/ive-turned-my-notifications-off-bb1627e4a4df#.1h65r1euq
 date:   2016-7-18 17:14:07 +0100
 category: Technology
-tags: [notifications]
+tags: [tech]
 ---
 
 Interesting article from [Chris Hannah][chtwitter] on how he manages notifications on iOS. It can be hard to decide which notifications should be enabled and which should be disabled on your phone. I have a lot of apps, most of which produce notifications on a daily basis. I spend *far* too much time checking my phone. To help combat this, I always leave my phone in [Do Not Disturb][dnd] mode while at work, which ensures that my phone won't wake each time I get a notification. This is a help, but doesn't solve the problem.

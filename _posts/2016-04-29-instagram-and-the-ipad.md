@@ -4,7 +4,7 @@ title:  "Instagram testing wild new black and white design"
 link: http://www.technobuffalo.com/2016/04/27/instagram-black-and-white/
 date:   2016-4-29 17:14:07 +0100
 category: Apps
-tags: [instagram, apps]
+tags: [apps]
 ---
 
 And yet there *still* isn't any sign of an iPad version of their app. Apps like [Flow][flowapp] have done a great job in bringing Instagram to iPad, but now with the [changes to the Instagram API][badinsta] we're back to square one. It's sad to see them lose out because of this.

@@ -4,7 +4,7 @@ title:  "Avoiding BlackBerry's fate"
 link: https://marco.org/2016/05/21/avoiding-blackberrys-fate
 date:   2016-5-22 17:14:07 +0100
 category: Technology
-tags: [apple, blackberry, linked]
+tags: [apple]
 ---
 
 Marco Arment on BlackBerry's demise once the iPhone came along:

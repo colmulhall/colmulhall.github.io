@@ -4,7 +4,7 @@ title: "Why I love New Star Soccer"
 link: http://www.pocketgamer.co.uk/r/Android/New+Star+Soccer/feature.asp?c=77939
 date: 2018-07-02 09:41:00 +0100
 category: Apps
-tags: [soccer, gaming]
+tags: [apps, gaming]
 ---
 
 John Mundy, writing on Pocket Gamer:

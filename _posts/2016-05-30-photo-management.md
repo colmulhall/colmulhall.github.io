@@ -3,7 +3,7 @@ layout: post
 title:  "Photo management"
 date:   2016-5-30 17:14:07 +0100
 category: Technology
-tags: [photos, personal]
+tags: [tech]
 ---
 
 Reading Casey Liss's [post][clisspics] got me thinking about how I have managed my photos through the years and how I plan to continue managing them. I'm only going to describe how I managed photos from the point where I got my first smartphone. [^1]

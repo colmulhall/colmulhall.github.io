@@ -3,7 +3,7 @@ layout: post
 title: "The 2019-2020 Bondathon"
 date: 2020-4-28 10:40:00 +0100
 category: Entertainment
-tags: [bond, film]
+tags: [film]
 ---
 
 What better way to lead in to _No Time To Die_ than to watch every Bond film out of order?

@@ -4,7 +4,7 @@ title:  "Micro.blog"
 link: http://micro.blog/about
 date:   2017-01-18 09:57:00 +0100
 category: Blogging
-tags: [micro, blog, kickstarter]
+tags: [blog]
 ---
 
 Manton Reece is creating an interesting new social network based around blogging and owning your own content called "Micro.blog". The idea is fairly simple - you can host your own blog right on Micro.blog, or you can simply use your RSS feed as an input, therefore keeping total control of your content. 

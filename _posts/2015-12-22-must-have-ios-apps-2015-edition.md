@@ -4,7 +4,7 @@ title:  "Must-have iOS apps, 2015 edition"
 link: https://www.macstories.net/roundups/my-must-have-ios-apps-2015-edition/
 date:   2015-12-22 17:14:07 +0100
 category: Apps
-tags: [apps, linked]
+tags: [apps]
 ---
 
 Federico Viticci's mega reviews on MacStories are fast becoming some of my favourite things to read online. In his latest effort, he details must-have apps currently on iOS. His full time use of iOS has been [well][fv1] [documented][fv2] so it's only natural that he would have some good insights into how to get the best out of these devices.

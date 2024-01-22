@@ -3,7 +3,7 @@ layout: post
 title: "iPhone 10th anniversary round-up"
 date: 2017-06-30 17:17:00 +0100
 category: Technology
-tags: [iphone, anniversary]
+tags: [iphone]
 ---
 
 Ten years ago yesterday, the iPhone first went on sale. It's hard to believe it's been that long, and even harder to think of a world without a smartphone in your pocket. Here's some of the many write ups:

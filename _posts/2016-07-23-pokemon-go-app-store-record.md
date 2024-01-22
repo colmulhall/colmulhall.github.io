@@ -4,7 +4,7 @@ title:  "Apple confirms Pokemon Go sets App Store record"
 link: http://www.loopinsight.com/2016/07/22/apple-confirms-pokemon-go-sets-app-store-record/
 date:   2016-7-23 17:14:07 +0100
 category: Apps
-tags: [pokemon, apps]
+tags: [apps, gaming]
 ---
 
 The Loop:

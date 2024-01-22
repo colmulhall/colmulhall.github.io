@@ -3,7 +3,7 @@ layout: post
 title: "Successful trip to South America"
 date: 2019-5-27 11:14:00 +0100
 category: Entertainment
-tags: [travel, south america]
+tags: [travel]
 ---
 
 <center>

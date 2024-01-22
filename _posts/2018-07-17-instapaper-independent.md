@@ -4,7 +4,7 @@ title: "Instapaper is going independent"
 link: http://blog.instapaper.com/post/175953870856
 date: 2018-07-17 10:57:00 +0100
 category: Apps
-tags: [instapaper, gdpr]
+tags: [apps]
 ---
 
 Instapaper blog:

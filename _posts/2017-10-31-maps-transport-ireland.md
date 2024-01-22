@@ -4,7 +4,7 @@ title: "Public transport directions are now available in Ireland on Apple Maps"
 link: https://www.siliconrepublic.com/gear/apple_maps_ireland_public_transport_directions
 date: 2017-10-31 21:10:00 +0100
 category: Technology
-tags: [apple, maps, ireland]
+tags: [apple]
 ---
 
 >Apple has brought its transport directions feature to Apple Maps in Ireland, enabling users to get correct information on metro lines, buses, trains and ferries.

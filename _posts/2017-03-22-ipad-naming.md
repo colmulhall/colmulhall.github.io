@@ -3,7 +3,7 @@ layout: post
 title:  "iPad naming conventions"
 date:   2017-03-22 09:40:00 +0100
 category: Technology
-tags: [ipad, naming]
+tags: [ipad]
 ---
 
 Just like the iPhone, the iPad has never had naming conventions that have made much sense. The [latest release][newpad] just further confuses things:

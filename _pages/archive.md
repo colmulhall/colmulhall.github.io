@@ -21,7 +21,7 @@ Post list by category can be found [here][categories].
         <ul class="past-year">
       {% endif %}
     {% endunless %}
-      <li><time>{{ post.date | date:"%B %-d" }}: </time><a href="{{ post.url }}">{{ post.title }}</a></li>
+      <li><time>{{ post.date | date:"%b %-d" }}: </time><a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
   </ul>
 </section>

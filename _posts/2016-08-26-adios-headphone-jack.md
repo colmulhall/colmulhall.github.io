@@ -3,7 +3,7 @@ layout: post
 title:  "Adios headphone jack"
 date:   2016-8-26 17:14:07 +0100
 category: Technology
-tags: [apple, headphones]
+tags: [apple]
 ---
 
 If [rumors][nojack] are to be believed, the next iPhone will ditch the 3.5mm headphone jack. I have mixed feeling about that. While I understand (and agree with) the need to have less cables in our lives, this will be the single most disruptive change to the iPhone since it's arrival. There's no doubt that a lot more smartphones and devices will follow suit once Apple decide to remove it.

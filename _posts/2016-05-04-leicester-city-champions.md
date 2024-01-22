@@ -4,7 +4,7 @@ title:  "Leicester City win the Premier League"
 link: http://www.lcfc.com/news/article/champions-leicester-city-secure-premier-league-title-3089004.aspx
 date:   2016-5-4 17:14:07 +0100
 category: Entertainment
-tags: [leicester, soccer, linked]
+tags: [sports]
 ---
 
 >For the first time in our 132-year history, Leicester City Football Club are the champions of England after securing the 2015/16 Barclays Premier League title on Monday night.

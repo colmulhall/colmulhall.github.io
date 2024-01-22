@@ -4,7 +4,7 @@ title: "Must-have iOS apps, 2019 edition"
 link: https://www.macstories.net/stories/my-must-have-apps-2019-edition/
 date: 2020-01-24 13:33:00 +0100 
 category: Apps 
-tags: [apps, iOS] 
+tags: [apps, ios] 
 --- 
 
 In keeping with [tradition][2018], here are my must have iOS apps that match Federicos.

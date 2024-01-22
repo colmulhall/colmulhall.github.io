@@ -4,7 +4,7 @@ title: "Blogging System Rewrite"
 link: http://inessential.com/2018/04/08/blogging_system_rewrite
 date: 2018-04-15 11:59:00 +0100
 category: Blogging
-tags: [micro.blog, blog]
+tags: [dev, blog]
 ---
 
 Brent Simmons, describing the recent changes he has made to his blog:

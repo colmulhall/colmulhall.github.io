@@ -4,7 +4,7 @@ title:  "Loving Diamonds Are Forever"
 link: https://eyeonbond.com/2018/01/10/loving-diamonds-are-forever/ 
 date:   2018-03-25 10:55:00 +0100
 category: Entertainment
-tags: [Bond]
+tags: [film]
 ---
 
 > On the surface, Diamonds Are Forever is a terrible film. It marked Connery’s comeback, after a four year absence, and unfortunately he no longer seemed to fit the role. By then, he was a little pudgier, less dynamic, and he often looked bored on screen. Perhaps Connery was attempting to play off the film’s overall tone. Diamonds was the first Bond film to delve into camp and comedy. The results would appear mixed, at best. Though the film has received its share of positive reviews over the years, it is mostly ranked in the “bottom tier” on critics’ and fans’ Bond lists.

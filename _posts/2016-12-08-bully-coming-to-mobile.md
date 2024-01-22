@@ -4,7 +4,7 @@ title:  "Bully: Anniversary Edition coming to mobile"
 link: http://toucharcade.com/2016/12/08/bully-anniversary-edition-review/
 date:   2016-12-08 11:41:00 +0100
 category: Apps
-tags: [rockstar, games, bully]
+tags: [gaming]
 ---
 
 >I'm really not sure what else there is to say about Bully. The game, when it was originally released, scored an impressive 87 on Metacritic, and it's only gotten better over the years with the various visual improvements and minor gameplay additions. If you missed Bully when it was first released on the PlayStation 2, then skipped it again when it was re-released on other platforms, don't miss this new re-remastered iteration. Hell, I'd say the entirety of the Rockstar iOS catalog is worth owning, and Bully: Anniversary Edition is no different.

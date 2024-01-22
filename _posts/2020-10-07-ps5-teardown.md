@@ -4,7 +4,7 @@ title: "PS5 Teardown"
 link: https://blog.playstation.com/2020/10/07/ps5-teardown-an-inside-look-at-our-most-transformative-console-yet/
 date: 2020-10-07 16:30:00 +0100 
 category: Technology 
-tags: [playstation, gaming] 
+tags: [gaming] 
 --- 
 
 >It’s getting close to November, and we are very excited for the launch of PlayStation 5 console. Today, we wanted to give you a sneak peek at the console’s interior, so you can take a look at all of the magic happening inside the PS5 that brings out the beautiful games you’ll experience this holiday season.

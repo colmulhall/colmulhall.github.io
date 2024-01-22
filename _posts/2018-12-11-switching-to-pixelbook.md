@@ -4,7 +4,7 @@ title: "On Switching from an iPad Pro and a Macbook to a Pixelbook"
 link: http://www.speirs.org/blog/2018/11/30/on-switching-from-an-ipad-pro-and-a-macbook-to-a-pixelbook
 date: 2018-12-11 11:59:00 +0100
 category: Technology
-tags: [google, macbook, pixelbook]
+tags: [tech]
 ---
 
 Following on from his previous post on [switching from iOS to Android][ioad], Fraser Speirs details why he moved from a iPad/MacBook setup to a Google Pixelbook. The majority of his work centering around using [G Suite][gsuite] makes it an easy decision for him. 

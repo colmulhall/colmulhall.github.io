@@ -4,7 +4,7 @@ title:    "Apple’s Siri speaker could be announced at WWDC in June"
 link:     "https://www.theverge.com/2017/5/1/15501496/apple-siri-speaker-wwdc-june-announcement"
 date:     2017-05-04 11:46:00 +0100
 category: Technology
-tags:     [siri, speaker]
+tags:     [apple]
 ---
 
 The Verge:

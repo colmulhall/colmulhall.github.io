@@ -3,7 +3,7 @@ layout: post
 title: "Tiger Woods"
 date: 2019-8-23 12:35:00 +0100
 category: Books
-tags: [book, tiger woods, golf]
+tags: [books, review]
 ---
 
 The career of Tiger Woods has to be one of the most interesting sporting stories of all time. 

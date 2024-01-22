@@ -4,7 +4,7 @@ title: "Why I love link blogging"
 link: https://birchtree.me/blog/why-i-love-link-blogging/
 date: 2018-04-20 12:59:00 +0100
 category: Blogging
-tags: [blog, linked]
+tags: [blog]
 ---
 
 Matt Birchler, on why he loves writing linked posts on his site:

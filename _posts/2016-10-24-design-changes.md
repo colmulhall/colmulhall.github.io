@@ -3,7 +3,7 @@ layout: post
 title:  "Design changes - in progress"
 date:   2016-10-24 17:14:07 +0100
 category: Blogging
-tags: [design, blogging]
+tags: [dev, blog]
 ---
 
 I'm terrible when it comes to design and fashion, or anything even remotely related to them. So when it comes to making changes around those areas, I am a little...uneasy. 

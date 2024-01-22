@@ -3,7 +3,7 @@ layout: post
 title:  "Discovering RSS"
 date:   2015-12-28 17:14:07 +0100
 category: Technology
-tags: [rss, apps]
+tags: [apps]
 ---
 
 I mentioned in my [mini instapaper review][instarev] that I follow a lot of different websites. The number of these sites has grown over the last few months, making it a fairly time consuming task to keep up to date with them. Recently I have started to use RSS as a means of checking for new articles on each of these sites.

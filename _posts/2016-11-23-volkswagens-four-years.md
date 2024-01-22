@@ -4,7 +4,7 @@ title:  "Volkswagen's four years in the WRC"
 link: http://www.wrc.com/en/wrc/news/november-2016/vw-in-numbers/page/4105--12-12-.html
 date:   2016-11-23 14:33:00 +0100
 category: General
-tags: [world rally, car, volkswagen]
+tags: [sports]
 ---
 
 What a ridiculously successful four years Volkwagen had in the World Rally Championship. 

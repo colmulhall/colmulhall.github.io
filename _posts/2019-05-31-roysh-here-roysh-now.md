@@ -3,7 +3,7 @@ layout: post
 title: "Roysh Here, Roysh Now… The Teenage Dirtbag Years"
 date: 2019-5-31 12:35:00 +0100
 category: Books
-tags: [book, ross o carroll kelly]
+tags: [books, review]
 ---
 
 This book is a bit of a blast from the past. I hadn't read it in a number of years but I'm happy to report that it still brought as much laughs as the first time.

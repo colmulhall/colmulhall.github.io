@@ -4,7 +4,7 @@ title: "Tony Hawk’s Skate Jam’ Review – I Wish This Game Was Better"
 link: https://toucharcade.com/2018/12/13/tony-hawks-skate-jam-review-i-wish-this-game-was-better/
 date: 2018-12-14 09:00:00 +0100
 category: Apps
-tags: [tony hawk, toucharcade]
+tags: [gaming]
 ---
 
 Eli Hodapp reviews the latest entry in the [Tony Hawk game series][thpsgames], "Skate Jam":
