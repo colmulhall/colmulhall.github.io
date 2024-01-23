@@ -176,21 +176,25 @@ figcaption {
 		width: 500px;
 		max-width: 500px;
 		min-width: 500px;
-		}
+	}
 }
 @media (max-width: 600px) {
 	#content {
 		width: 450px;
 		max-width: 450px;
 		min-width: 450px;
-		}
+	}
 }
 @media (max-width: 480px) {
 	#content {
 		width: 320px;
 		max-width: 320px;
 		min-width: 320px;
-		}
+	}
+
+	.posts-tagged-with h1 {
+		font-size: 22px;
+	}
 
 	.navigation {
 		font-size: 22px;
@@ -201,7 +205,11 @@ figcaption {
 		width: 280px;
 		max-width: 280px;
 		min-width: 280px;
-		}
+	}
+
+	.posts-tagged-with h1 {
+		font-size: 22px;
+	}
 
 	.navigation {
 		font-size: 22px;
