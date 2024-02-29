@@ -1,13 +1,4 @@
 <head>
-  {% if page.title %}
-  <title>{{ page.title }} - {{ site.title }}</title>
-  {% else %}
-  <title>{{ site.title }}</title>
-  {% endif%}
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, minimum-scale=1.0">
-  <meta name="author" content="{{ site.author }}">
-  
   <!-- Favicons -->
   <link rel="apple-touch-icon" sizes="180x180" href="/images/favicons/apple-touch-icon.png">
   <link rel="icon" type="image/png" href="/images/favicons/favicon-32x32.png" sizes="32x32">
@@ -45,4 +36,5 @@
     gtag('config', 'G-38MHNMEEDB');
   </script>
   
+  {% seo %}
 </head>
