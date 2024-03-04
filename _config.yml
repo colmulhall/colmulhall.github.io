@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Colm.io
-description: Colm Mulhall's personal blog about things that interest him.
+description: Colm's blog.
 author: Colm Mulhall
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://colm.io" # the base hostname & protocol for your site, e.g. http://example.com
