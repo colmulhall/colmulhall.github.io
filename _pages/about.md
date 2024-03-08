@@ -20,10 +20,6 @@ I use any number of text editors for code tweaks and writing posts. Posts are wr
 Some [stats][stats].
 
 [csdegree]: /education/
-[twtr]: https://twitter.com/ColmMulhall
-[lnkin]: https://ie.linkedin.com/in/colmmulhall
-[gthb]: https://github.com/colmulhall
-[micro]: http://micro.blog/colmulhall
 [jek]: http://www.jekyllrb.com
 [hrku]: https://www.heroku.com/
 [hvr]: https://www.hover.com/
