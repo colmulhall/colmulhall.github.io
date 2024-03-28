@@ -62,7 +62,7 @@ hr.separator {
 	color: #B8860B;
 }
 
-#content {
+#page-content {
 	padding-top: 40px;
 	padding-bottom: 2em;
 	max-width: 650px;
@@ -96,7 +96,7 @@ article{
   	margin-bottom: 80px;
 }
 
-.pagination {
+.post-navigation {
 	margin-bottom: 7em;
 }
 
@@ -110,9 +110,6 @@ article{
     display: inline;
 }
 
-.post-navigation {
-	margin-bottom: 7em;
-}
 .previous-post {
 	float: left;
 	display: inline;
@@ -171,50 +168,46 @@ figcaption {
 }
 
 /* Media queries for responsivness */
-@media (max-width: 760px) {
-	#content {
-		width: 500px;
-		max-width: 500px;
-		min-width: 500px;
+/* iPhone Pro */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px) 
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: portrait) { 
+	#site-name {
+		font-size: 120px;
 	}
-}
-@media (max-width: 600px) {
-	#content {
-		width: 450px;
-		max-width: 450px;
-		min-width: 450px;
-	}
-}
-@media (max-width: 480px) {
-	#content {
-		width: 320px;
-		max-width: 320px;
-		min-width: 320px;
-	}
-
-	.posts-tagged-with h1 {
-		font-size: 22px;
-	}
-
 	.navigation {
+		padding-top: 10px;
+		font-size: 42px;
+	}
+	.post-title {
 		font-size: 22px;
 	}
+	.post-date-permalink {
+		padding-top: 20px;
+		padding-bottom: 10px;
+		font-size: 34px;
+	}
+	#page-content {
+		padding-top: 40px;
+		padding-bottom: 2em;
+		max-width: 830px;
+	}
+	.post-tags {
+		color: grey;
+		font-size: 18px;
+	}
+	hr.separator {
+		max-width: 50%;
+		border: 0;
+		height: 4px;
+	}
+	.post-navigation {
+		font-size: 36px;
+    }
 }
-@media (max-width: 320px) {
-	#content {
-		width: 280px;
-		max-width: 280px;
-		min-width: 280px;
-	}
 
-	.posts-tagged-with h1 {
-		font-size: 22px;
-	}
-
-	.navigation {
-		font-size: 22px;
-	}
-}
 
 /* Overrides for Dark Mode */
 @media (prefers-color-scheme: dark) {
