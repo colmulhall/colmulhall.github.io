@@ -168,8 +168,7 @@ figcaption {
 }
 
 /* Media queries for responsivness */
-/* iPhone */
-@media all and (max-width: 568px) {
+@media only screen and (min-width: 320px) and (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
 	#site-name {
 		font-size: 120px;
 	}
@@ -180,12 +179,14 @@ figcaption {
 	.post-title {
 		font-size: 22px;
 	}
-	.post-date-permalink {
+	.post-date-permalink,
+	.post-date-permalink  a:link, 
+	.post-date-permalink  a:visited {
 		padding-top: 20px;
 		padding-bottom: 10px;
 		font-size: 34px;
 	}
-	#page-content {
+	.page-content {
 		padding-top: 40px;
 		padding-bottom: 2em;
 		max-width: 830px;
