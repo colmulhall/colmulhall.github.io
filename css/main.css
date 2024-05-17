@@ -62,7 +62,7 @@ hr.separator {
 	color: #B8860B;
 }
 
-#page-content {
+.page-content {
 	padding-top: 40px;
 	padding-bottom: 2em;
 	max-width: 650px;
@@ -168,12 +168,8 @@ figcaption {
 }
 
 /* Media queries for responsivness */
-/* iPhone Pro */
-@media only screen 
-  and (min-device-width: 375px) 
-  and (max-device-width: 812px) 
-  and (-webkit-min-device-pixel-ratio: 3)
-  and (orientation: portrait) { 
+/* iPhone */
+@media all and (max-width: 568px) {
 	#site-name {
 		font-size: 120px;
 	}
