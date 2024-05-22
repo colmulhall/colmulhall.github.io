@@ -93,10 +93,10 @@ hr.separator {
 }
 
 article{
-  	margin-bottom: 80px;
+  margin-bottom: 80px;
 }
 
-.post-navigation {
+.pagination {
 	margin-bottom: 7em;
 }
 
@@ -110,6 +110,9 @@ article{
     display: inline;
 }
 
+.post-navigation {
+	margin-bottom: 7em;
+}
 .previous-post {
 	float: left;
 	display: inline;
@@ -120,14 +123,9 @@ article{
 	display: inline;
 }
 
-.post-tags {
-	color: grey;
-	font-size: 15px;
-}
-
 .copyright {
 	text-align: center;
-	font-size: 10pt;
+	font-size: 11pt;
 }
 
 .highlight {
@@ -162,70 +160,70 @@ figcaption {
   font-style:italic;
 }
 
+.separator {
+	text-align: center
+}	
+
 .footnotes { 
     margin-top: 3em;
     font-size: 14px;
 }
 
 /* Media queries for responsivness */
-@media only screen and (min-width: 320px) and (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
-	#site-name {
-		font-size: 120px;
+@media (max-width: 760px) {
+	.page-content {
+		width: 500px;
+		max-width: 500px;
+		min-width: 500px;
 	}
+}
+@media (max-width: 600px) {
+	.page-content {
+		width: 450px;
+		max-width: 450px;
+		min-width: 450px;
+	}
+}
+@media (max-width: 480px) {
+	.page-content {
+		width: 320px;
+		max-width: 320px;
+		min-width: 320px;
+	}
+
 	.navigation {
-		padding-top: 10px;
-		font-size: 42px;
-	}
-	.post-title {
 		font-size: 22px;
 	}
-	.post-date-permalink,
-	.post-date-permalink  a:link, 
-	.post-date-permalink  a:visited {
-		padding-top: 20px;
-		padding-bottom: 10px;
-		font-size: 34px;
-	}
-	.page-content {
-		padding-top: 40px;
-		padding-bottom: 2em;
-		max-width: 830px;
-	}
-	.post-tags {
-		color: grey;
-		font-size: 18px;
-	}
-	hr.separator {
-		max-width: 50%;
-		border: 0;
-		height: 4px;
-	}
-	.post-navigation {
-		font-size: 36px;
-    }
 }
+@media (max-width: 320px) {
+	.page-content {
+		width: 280px;
+		max-width: 280px;
+		min-width: 280px;
+	}
 
+	.navigation {
+		font-size: 22px;
+	}
+}
 
 /* Overrides for Dark Mode */
 @media (prefers-color-scheme: dark) {
 	body {
-        color: rgba(238, 234, 234, 0.734);
+        color: white;
         background: #171717;
     }
     .link-arrow {
-		color: rgba(238, 234, 234, 0.734);
+	color:white;
     }
     #header {
 		background-color: #171717;
 	}
 	h3 a:link, 
 	h3 a:visited {
-		color: rgba(238, 234, 234, 0.916);
+		color: white;
 	}
 	blockquote {
 		color:#909090;
-	}
-	hr.separator {
-		background-image: linear-gradient(to right, rgba(0, 0, 0, 0), #B8860B, rgba(0, 0, 0, 0));
 	}
 }
