@@ -226,4 +226,7 @@ figcaption {
 	blockquote {
 		color:#909090;
 	}
+	hr.separator {
+		background-image: linear-gradient(to right, rgba(0, 0, 0, 0), #B8860B, rgba(0, 0, 0, 0));
+	}
 }
