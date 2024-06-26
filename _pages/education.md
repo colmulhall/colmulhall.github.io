@@ -72,15 +72,33 @@ The aim of this project was to develop a mobile application that would provide t
 The app was developed in Java for the Android platform. The web backend was developed in PHP, making use of XPath.
 
 ##### Screenshots
-<figure>
-    <img src="/images/education/pp_app_screens1.png" alt="Viewing events" class="image-single" />
-</figure>
-<figure>
-    <img src="/images/education/pp_app_screens2.png" alt="Directions and mapping events" class="image-single" />
-</figure>
-<figure>
-    <img src="/images/education/pp_app_screens3.png" alt="Places and social media" class="image-single" />
-</figure>
+<div class="horizontal-image-row">
+  <div class="horizontal-image-column">
+    <img src="/images/education/pp_app_article_list.png" alt="Article listings" style="width:100%">
+  </div>
+  <div class="horizontal-image-column">
+    <img src="/images/education/pp_app_article_text.png" alt="Viewing an article" style="width:100%">
+  </div>
+</div>
+
+<div class="horizontal-image-row">
+  <div class="horizontal-image-column">
+    <img src="/images/education/pp_app_map_directions.png" alt="Directions on map" style="width:100%">
+  </div>
+  <div class="horizontal-image-column">
+    <img src="/images/education/pp_app_map_pois.png" alt="Places of interest on map" style="width:100%">
+  </div>
+</div>
+
+<div class="horizontal-image-row">
+  <div class="horizontal-image-column">
+    <img src="/images/education/pp_app_social_media.png" alt="Related social media accounts" style="width:100%">
+  </div>
+  <div class="horizontal-image-column">
+    <img src="/images/education/pp_app_attractions.png" alt="Attractions of the park" style="width:100%">
+  </div>
+</div>
+
 
 ##### Links
 * [Android Application GitHub][appgit]

@@ -169,6 +169,20 @@ figcaption {
     font-size: 14px;
 }
 
+.horizontal-image-column {
+	float: left;
+	width: 45%;
+	padding-right: 20px;
+	padding-bottom: 20px;
+}
+  
+  /* Clearfix (clear floats) */
+.horizontal-image-row::after {
+	content: "";
+	clear: both;
+	display: table;
+}
+
 /* Media queries for responsivness */
 @media (max-width: 760px) {
 	.page-content {
@@ -193,6 +207,10 @@ figcaption {
 
 	.navigation {
 		font-size: 22px;
+	}
+
+	.horizontal-image-column {
+		width: 100%;
 	}
 }
 @media (max-width: 320px) {
