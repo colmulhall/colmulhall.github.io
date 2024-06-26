@@ -20,6 +20,6 @@ The cost of that level of success at such a young age was that he never really h
 
 Any sport fan would enjoy this book, whether or not they follow golf. Well worth a read.
 
-**Highlight**: The period of 2000-2007 when Woods was untouchable on the tour.
+**Highlight**: The period of 2000-2007 when Woods was unbeatable on the tour.
 
 [^1]:It's a shame that the book came out not long before Woods won the 2019 Masters. 
