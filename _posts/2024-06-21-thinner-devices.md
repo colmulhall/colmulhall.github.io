@@ -4,7 +4,7 @@ title: "Apple Developing Thinner MacBook Pro, Apple Watch, and iPhone"
 link: https://www.macrumors.com/2024/06/17/apple-plans-thinner-iphone-slimmer-macbook/
 date: 2024-06-21 9:37:00 +0100 
 category: Technology 
-tags: [apple, iphone] 
+tags: [apple] 
 --- 
 
 >Apple intends to slim down the MacBook Pro, Apple Watch, and iPhone, with the new ultra-thin M4 iPad Pro a sign of the company's new design trajectory, according to Bloomberg's Mark Gurman.
