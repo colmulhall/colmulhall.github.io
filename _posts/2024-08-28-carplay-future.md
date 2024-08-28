@@ -1,7 +1,7 @@
 --- 
 layout: post 
 title: "Apple’s best software system is spinning its wheels" 
-link: https://www.macrumors.com/2024/06/17/apple-plans-thinner-iphone-slimmer-macbook/
+link: https://www.macworld.com/article/2432582/carplay-apples-auto-tech-putters-along-but-where-is-it-going.html
 date: 2024-08-28 14:37:00 +0100 
 category: Technology 
 tags: [apple] 
