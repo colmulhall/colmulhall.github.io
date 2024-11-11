@@ -64,7 +64,7 @@ GEM
     rb-inotify (0.11.1)
       ffi (~> 1.0)
     rexml (3.3.9)
-    rouge (4.4.0)
+    rouge (4.5.0)
     safe_yaml (1.0.5)
     sass-embedded (1.80.6-arm64-darwin)
       google-protobuf (~> 4.28)
@@ -84,4 +84,4 @@ DEPENDENCIES
   minima (~> 2.5.2)
 
 BUNDLED WITH
-   2.5.22
+   2.5.23
