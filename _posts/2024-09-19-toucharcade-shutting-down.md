@@ -11,6 +11,6 @@ tags: [gaming]
 >
 >Many of you who have followed TouchArcade for a long time are well aware that we’ve had financial troubles for many years now, and to be frank I think it’s a miracle that we’ve been able to last as long as we have. The truth of the matter is that a website like ours just doesn’t make money anymore. To our own detriment we’ve resisted things like obnoxious in-your-face advertising, egregious clickbait headlines, or ethically questionable sponsorships, which sadly are the types of things that actually still make money in the internet of today.
 
-Pity to see this. TouchArcade reviews were something I regualarly used to read in the earlier days of the App Store, and a website I have linked out to here a few times. 
+Pity to see this. TouchArcade reviews were something I regularly used to read in the earlier days of the App Store, and a website I have linked out to here a few times. 
 
 It's not surprising that money was the big issue. The industry has moved on and it's difficult for this type of website to remain sustainable without ad overload.
