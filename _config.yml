@@ -39,3 +39,7 @@ paginate_path: "/page/:num/"
 permalink: pretty
 permalink: /:year/:month/:day/:title/
 highlighter: rouge
+
+# Silence deprecations for now. Minima needs a fix: https://github.com/jekyll/minima/issues/815
+sass:
+  quiet_deps: true

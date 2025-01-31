@@ -8,7 +8,7 @@ Post list by category can be found [here][categories].
 
 
 <section id="archive">
-  <h3>2024</h3>
+  <h3>2025</h3>
   {%for post in site.posts %}
     {% unless post.next %}
       <ul class="this-year">
