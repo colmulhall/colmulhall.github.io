@@ -140,7 +140,7 @@ Below are some mildly interesting stats about the blog:
 
 * *{{ days_since_first_post }} days* have passed between the [first][first] post and the [most recent][last] post.
 
-	* {{ days_since_first_post | days_to_ym }}
+	<!--#* {{ days_since_first_post | days_to_ym }} -->
 
 * There has been a total of *{{ total_post_count }}* posts.
 
