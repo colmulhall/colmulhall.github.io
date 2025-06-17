@@ -134,11 +134,6 @@ permalink: /stats/
 {% assign diff_seconds_last_post = todays_date | minus: last_post %}
 {% assign days_since_last_post = diff_seconds_last_post | divided_by: 3600 | divided_by: 24 %}
 
-{% assign years_since_first_post = days_since_first_post | divided_by: 365 %}
-{% assign remaining_days = days_since_first_post | modulo: 365 %}
-{% assign months_since_first_post = remaining_days | divided_by: 30 %}
-
-
 {% comment %} ------------------------------------ Display the stats --------------------------------- {% endcomment %}
 
 Below are some mildly interesting stats about the blog:
