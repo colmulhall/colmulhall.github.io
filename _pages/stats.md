@@ -134,16 +134,22 @@ permalink: /stats/
 {% assign diff_seconds_last_post = todays_date | minus: last_post %}
 {% assign days_since_last_post = diff_seconds_last_post | divided_by: 3600 | divided_by: 24 %}
 
+{% assign years_since_first_post = days_since_first_post | divided_by: 365 %}
+{% assign remaining_days = days_since_first_post | modulo: 365 %}
+{% assign months_since_first_post = remaining_days | divided_by: 30 %}
+
 
 {% comment %} ------------------------------------ Display the stats --------------------------------- {% endcomment %}
 
 Below are some mildly interesting stats about the blog:
 
-* *{{ days_since_first_post }}* days have passed between the [first][first] post and the [most recent][last] post.
+* *{{ days_since_first_post }} days* have passed between the [first][first] post and the [most recent][last] post.
+
+	* {{ days_since_first_post | days_to_ym }}
 
 * There has been a total of *{{ total_post_count }}* posts.
 
-* *{{ linked_post_count.size }}* of these are linked, *{{ site.posts | size | minus: linked_post_count.size}}*  are non-linked.
+	* *{{ linked_post_count.size }}* of these are linked, *{{ site.posts | size | minus: linked_post_count.size}}*  are non-linked.
 
 * There has been *{{ monday_count }}* posts on a *Monday*, *{{ tuesday_count }}* on a *Tuesday*, *{{ wednesday_count }}* on a *Wednesday*, *{{ thursday_count }}* on a *Thursday*, *{{ friday_count }}* on a *Friday*, *{{ saturday_count }}* on a *Saturday* and *{{ sunday_count }}* on a *Sunday*.
 
@@ -151,10 +157,9 @@ Below are some mildly interesting stats about the blog:
 
 * *{{ total_word_count }}* words have been written.
 
-* The average word count per post is *{{ total_word_count | divided_by: total_post_count }}*.
+	* The average word count per post is *{{ total_word_count | divided_by: total_post_count }}*.
 
-* The longest post is *"[{{ longest_post_title }}][longest]"* with *{{ longest_post_word_count }}* words.
-
+	* The longest post is *"[{{ longest_post_title }}][longest]"* with *{{ longest_post_word_count }}* words.
 
 [first]:{{ first_post_url }}
 [last]:{{ last_post_url }}
